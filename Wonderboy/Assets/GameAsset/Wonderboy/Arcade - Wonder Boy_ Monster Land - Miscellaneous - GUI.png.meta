@@ -1,0 +1,1139 @@
+fileFormatVersion: 2
+guid: 0b01b323c3276a14697504590e540c80
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 365
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28be7d6761eddf4f9f86209038d62f1
+      internalID: -2073640016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 366
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d63ee2ba815014fa5e99f0bcc1b14e
+      internalID: 565074866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 366
+        width: 67
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a5556e61b00974ca2c9061b6326e4f
+      internalID: -502431948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 341
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fed3286b8285f946ac590df6c41a30e
+      internalID: -1630836414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 309
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a062f19067f7de47be89265bf7c852d
+      internalID: -1563567883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 279
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36256adc3ff76d040807afa19b753293
+      internalID: 665012653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c18282498241344a74bb6abd9eccfc
+      internalID: -66958086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 183
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eec65f3a6e869458d906e3299b8a34
+      internalID: -2110553040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 165
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8e25c4a12178f418dfe42d3a2485bc
+      internalID: 2095093310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 352
+        width: 65
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1689deaec288f6d4daf18fc266524ef6
+      internalID: -43599738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 322
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1570831ed03813f4bb7c925872b53b4b
+      internalID: -1120400824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 333
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7aead982d25e84987ec8b0b91efef8
+      internalID: 1011943044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_12
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 333
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f780f950ccbddd249a1a595cdf6cbc40
+      internalID: 2028787631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 333
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5415cb57b37863e4598ca80a70133336
+      internalID: 555373244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 307
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c447b6140e3dce648876a5844cfe8b66
+      internalID: -28947600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_15
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 308
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad1c979fbdaa04890a13285d32e3a2
+      internalID: -378602565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_16
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 308
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d749e97d27a044a4486659370d0e3cad
+      internalID: -188085249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_17
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 282
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c1cbd8af5c5b4c8550c8885172a2b
+      internalID: -1683573257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 281
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a7a496099a1e844b57223a824d7596
+      internalID: -711665417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_19
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 255
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd86c88546ff374c8a318c2997d3088
+      internalID: 1606711182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_20
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 255
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f20d0c750085343aba14f95776e6b4
+      internalID: 402763069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 257
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9690d84826422d64385ca600442c1e54
+      internalID: -1651492628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 257
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33af3b44b826ca645be1651e57fddd9e
+      internalID: 174614384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 241
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70196961a425fe4428ab856f395958ae
+      internalID: -560146496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_24
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bcb221a5083a44db3379343c7a1853
+      internalID: 1465870205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 224
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7de6c746b3175a479e4f84daa2a9883
+      internalID: 40685549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 224
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82dc9b9a6b0e6f444acc76b50b842168
+      internalID: 303260842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 208
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d92f8e516643e4aaa8a3be7d56c20a
+      internalID: 1747356339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_28
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dd76b9ace26574a940f689f1c39ca2
+      internalID: 1378730919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f813842ff2f952498f76be427911e89
+      internalID: 1443340742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515561fa6974a3041b3cb15086bf8b73
+      internalID: 342542346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_31
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15a965149a11343b29e9cc34177117
+      internalID: 134842281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_32
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 238
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c97c7ce99f31b747beb8eb12a7465bc
+      internalID: 330414911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 210
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c01eab827302444d92f72c16467dc78
+      internalID: -996616230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_34
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 228
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0.8367745, y: 0.38774025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64d2ceb2fe5d649be2252477b42ece
+      internalID: -1854234897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 227
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa03aa0d4cb27b4db3989d64e7528a1
+      internalID: -218678032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 228
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d82490e1ac6ca7b44ac0e5ae814a1c54
+      internalID: 942701919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 228
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de52ee1a835da14da47fed33eeedac9
+      internalID: 1141965813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_38
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 200
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb6251960099f3439285234badf9b28
+      internalID: -1594338638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 201
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd215259462114f9898ada889e169e
+      internalID: -2136346819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_40
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 201
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d83b937742f2024e8db332924691a1a
+      internalID: -299302610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_41
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 201
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e179068ca9f592b45a427bda2530999e
+      internalID: -1290439705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_42
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 174
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ae2f1b0c533a747a9c14b39adf3917
+      internalID: -1713823701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_43
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 174
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6c2f69c3d94dc40a26ea696a4864a8
+      internalID: -297401399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_44
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 170
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36796cdce765fa74382718b7c07bf0c5
+      internalID: 1752608866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 228
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83eed001a4647f4685d80c6e17f7ceb
+      internalID: -1470439928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_0: -2073640016
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_1: 565074866
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_10: -1120400824
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_11: 1011943044
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_12: 2028787631
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_13: 555373244
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_14: -28947600
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_15: -378602565
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_16: -188085249
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_17: -1683573257
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_18: -711665417
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_19: 1606711182
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_2: -502431948
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_20: 402763069
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_21: -1651492628
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_22: 174614384
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_23: -560146496
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_24: 1465870205
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_25: 40685549
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_26: 303260842
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_27: 1747356339
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_28: 1378730919
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_29: 1443340742
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_3: -1630836414
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_30: 342542346
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_31: 134842281
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_32: 330414911
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_33: -996616230
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_34: -1854234897
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_35: -218678032
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_36: 942701919
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_37: 1141965813
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_38: -1594338638
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_39: -2136346819
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_4: -1563567883
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_40: -299302610
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_41: -1290439705
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_42: -1713823701
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_43: -297401399
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_44: 1752608866
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_45: -1470439928
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_5: 665012653
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_6: -66958086
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_7: -2110553040
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_8: 2095093310
+      Arcade - Wonder Boy_ Monster Land - Miscellaneous - GUI_9: -43599738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
