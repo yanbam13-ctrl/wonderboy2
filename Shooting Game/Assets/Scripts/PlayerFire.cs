@@ -16,8 +16,29 @@ public class PlayerFire : MonoBehaviour
     //총구
     public GameObject firePosition;
 
+    //연습문제 2
+    // 필살기 총알 설정
+    public GameObject UltbulletFactory;
+    public int UltPoolSize = 3;
+    private GameObject[] UltbulletObjectPool;
+
     private void Start()
     {
+        //연습문제 2
+        UltbulletObjectPool = new GameObject[UltPoolSize];
+
+        for (int i = 0; i < UltPoolSize; i++)
+        {
+
+            //총알 공장에서 총알을 생성한다.
+            GameObject ultBullet = Instantiate(UltbulletFactory);
+
+            //총알을 오브젝트 풀에 넣는다.
+            ultBullet.SetActive(false);
+            UltbulletObjectPool[i] = ultBullet;
+        }
+
+
         //탄창의 크기를 총알을 담을 수 있는 크기로 만들어 준다.
         bulletObjectPool = new GameObject[poolSize];
 
@@ -62,6 +83,20 @@ public class PlayerFire : MonoBehaviour
 
             }
 
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            for (int i = 0; i < UltPoolSize; i++)
+            {
+                GameObject ultBullet = UltbulletObjectPool[i];
+                if (!ultBullet.activeSelf)
+                {
+                    ultBullet.SetActive(true);
+                    ultBullet.transform.position = firePosition.transform.position;
+                    break;
+                }
+            }
         }
     }
 }

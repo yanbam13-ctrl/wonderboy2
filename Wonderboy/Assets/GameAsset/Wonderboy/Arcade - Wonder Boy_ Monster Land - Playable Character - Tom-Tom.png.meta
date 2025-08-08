@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -108,7 +108,3010 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8ca601b30295d48a2802f5695191cc
+      internalID: -1877285608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bfba37bc8b6a94c8844cc9f85d1e16
+      internalID: 1462962253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f46b130ea11694c9a8987cb2091026
+      internalID: -2013948467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1fbc55e711b04bafccee6d9ad7e05
+      internalID: -1998093161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45babe216abc804588b1c72987c5d0b
+      internalID: 1314464256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a431df423e30442acfe4433643ce48
+      internalID: -1787744775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a9d36eabc3a0048a597065f7040123
+      internalID: 1313995006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566c257ed5fad84f9845ae4c4370842
+      internalID: -690069589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d73e1e0c2b1964bb031f4ea63dea80
+      internalID: -1423257896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cee5f2a920d4794baee262c4728731c
+      internalID: 1835591652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6e7ed77013e334595512a469e84e45
+      internalID: -1091528401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 353
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ffaa1605a82e04c8f57460e42005b1
+      internalID: -1310813821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6fbca609e660004aa704000a5147813
+      internalID: -1362738011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b867bac3a13c0e428c0cc54f6586b9e
+      internalID: -436153762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ad3a04c80ec834d9a90eafbb446ee9
+      internalID: 458962365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c480a7010f87aa446bc69916851a3325
+      internalID: -1923569062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a571de1eb197e4ba6b64c2f10ee868
+      internalID: 1624050192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85e59fe3e74b3c46b92c8696d1f2425
+      internalID: -182394935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefce1f764876144897b18185f0286c1
+      internalID: 822525200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ede2aa9002b343a60619b14679cf6
+      internalID: 77441714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9a87b5b0e144245942b317f5a3956d
+      internalID: 74110504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82e4ac4701f3e41b73a44a2d0659ac
+      internalID: -1238400703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a86a16f74a5e6843b69efb671f95a88
+      internalID: -1583034486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 321
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905943dac4f5260458709e6ac8f344b6
+      internalID: 1348579180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac363d2ca959ad84e94623c8f07f8fa8
+      internalID: -287987167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a372b75eb385dec4381cdbf26433bc2a
+      internalID: -1960276232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0737790b4c52254f9d8d131df62a6b8
+      internalID: -306232423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f41a801c4aca943ba8a96b22bae53a
+      internalID: 1615175204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc98a3386fcb3346a7d418e8d25348b
+      internalID: -991075732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a6085c1b5d82646a1d5259ea83dfdf
+      internalID: -685151454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df57ce049a0a74f8b7b9ab64977629
+      internalID: 1975230251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ba7182638319d74984fccdfafc55450
+      internalID: 1145228336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b8dd9e4742954ea3c0c028a330b12
+      internalID: -1616760178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a3ec9ede7d8554893d770226cc1c96
+      internalID: 884264501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6732c49a40eea5247b38fed4c52ac718
+      internalID: -1809052003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f5c60c365d794494757dab90d8c7f
+      internalID: -1341342190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b9bf3b4975d384ea8e58e8db03ba67
+      internalID: 1498803005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10bb357df64debd47ae6b44ea2fc1fc7
+      internalID: 1738341779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92460d6d94fe4d4e88b8c82bb9d82b5
+      internalID: -207759383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e471fa902169a46a804aff714d7699
+      internalID: -127968848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3b423208257e94492d245894d3e5f7
+      internalID: -2107887599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49052715bbf0c440837c2e1850f325e
+      internalID: 309915529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193dc6ce342275046a86c686d84bd64d
+      internalID: -552969555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec63105d90ad8c4b9bf283d3da16189
+      internalID: 626435302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63910cc280bf9c499692f00f6b42afe
+      internalID: -1561879018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb2586dd76b48c41a27b33d524ab9ff
+      internalID: -1745496110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36d4b6035d24ce4cac4e6fb38a50d81
+      internalID: 1317111310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dd6880e43859f4ea3df70393c0e821
+      internalID: -236644207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74f86248902fc14eab1f052a93ddbe4
+      internalID: -1881043720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74aa76af85c65874d9f73ab1f6c400f5
+      internalID: -825862819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192377eda721e4a4abc673aa048ebfe3
+      internalID: -1506833779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91694c56267ea4ab0005a03db18fef
+      internalID: 1309440624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67480ae0fe03ab142b019a2f77ce5672
+      internalID: 1972507348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e989761b1de22d04bad60f60d3e74efe
+      internalID: 2096402685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9e58ea80cc978479f25702199bc452
+      internalID: -245878574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf046ad1c0e4604cbe54bfa451c647f
+      internalID: 1023493339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680e4002d65bdd498ff9f33bd279f4e
+      internalID: 1529673430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a9f9fc47e2994da655004627e0512
+      internalID: -195378870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e752d5b73d8364b8af5f06ccfccbf2
+      internalID: 1325989608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 225
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302289b8f0fe3904fb34a8152867ecbb
+      internalID: -1890338359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4233744d7d25c134f934f4bcaab5ca0c
+      internalID: -1848560014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e592c20b172a24fb5b6d383d9051d6
+      internalID: 1301829263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4472b906dcae5a4fab84909d550fb5d
+      internalID: 1925239188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ebe9e34d8d8304f9fd87298bddd702
+      internalID: 2013439383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c64e73d36984994c8d99cd8219051a5
+      internalID: 680607766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd601615bd1a60478634a1d4d421583
+      internalID: 1184066838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa0595ae7c410a4d9d9c0a31c5d9d0f
+      internalID: 1097105114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6b686fe36c64a489602f3c7ec336d1
+      internalID: 1044940004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fc7073626ab3643ae16821293bcfa2
+      internalID: 1394882351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb1254815e0de4f91e19c0f413bcb2
+      internalID: -1984856861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfd3e9b713c5674baabddfe38daa38b
+      internalID: -431869596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39f23dffad845e4db0a8bb6238c215a
+      internalID: 1033824794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531c0a2b5350238499dc25448ed0032a
+      internalID: 207524001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ab5460f58699f4aa8ff7eb3f2f8da2
+      internalID: -913009877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf8fcc023ac9504e872c9fb24c62a3e
+      internalID: 975400642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861a6961d1d34d246b0ab48ac04b79b4
+      internalID: 1319724471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7173524e8dab642a2ec15d7bd3ea38
+      internalID: -178266464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6245847f55e265446bce3f1402e13dee
+      internalID: 194655253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4026f64882a8f49b322040089e5a30
+      internalID: -392941434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808a2e5e3921e84e82796dc901ff3c1
+      internalID: -742515760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0e3b415c6bd804f84334f61686ca05
+      internalID: -44906998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4c98a5d67647f428d3dbca462c8bcb
+      internalID: 1175426752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0297122edcb46004595b56cf996bf7c4
+      internalID: -999183755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 161
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d7ada6ce1ac6342b14282306393239
+      internalID: -615500434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16acd4c7d03e6be4e8630823dbab10a4
+      internalID: -1734627029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1548dfb3b5b8dc4eab72097b593aa46
+      internalID: 1060794568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b384e7902c6185941bae13d888b47785
+      internalID: -87360768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b747397bf19a445a75c9a6e351dcff
+      internalID: -1787599523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e53bfbf880c2541ab82ec1b2832337
+      internalID: 272686742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89031691ae459db459cfc07273499bb3
+      internalID: -1678714364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243f09bc96c94dd4eb6cae1c8f2b1f89
+      internalID: -882685203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917efe7ca42a10e458a3c30820721bf3
+      internalID: -1539050100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84d2eeea3b58d643b88ceb0c143c98d
+      internalID: 1097687283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a4cff8ecbe9ed4c881afba0f369494
+      internalID: 279757416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98af0a53fa907944a8a2d1e852b8986a
+      internalID: -44558947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a73269297037543bd58c834ce65639
+      internalID: -2076755139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5392d435c6bab445b267e426dbbe04d
+      internalID: -273280211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b029502a81637740b885731183662ab
+      internalID: -1608597775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81576f5cad0d98459f6df4c0eaf60fc
+      internalID: -1520135350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df571e93e7d1a8a4497d91ad8cb69482
+      internalID: -1796856213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f221aa861abaf4f9a4b93c18b2ff24
+      internalID: 1609150614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b139330382d15fb479f55a8f6bab1370
+      internalID: -1221085606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed9f3ff7b39414fa6a48cfd11df368
+      internalID: 158012634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299716635b2efb74791e5bcc5af4e58c
+      internalID: 658376657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19618f05664f5ab4fae3069c0ed082c2
+      internalID: -1695352592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd41caee02a90d647b37e62c6363b2c6
+      internalID: 1229517465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e9a6c6821fc4e48a853d32a2b08524
+      internalID: 1012017617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 97
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a3b9ec9fbc2c54b8c465b453001a4b
+      internalID: 2097803939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7fdf9706fd08c438b7b6afc158456f
+      internalID: -181621616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0383c885ed85a8b44a3101cc7169723f
+      internalID: 1111259869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee62160b2797784cac7d2d49b1374b0
+      internalID: -1664247874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98aef67bdc180549bfd0c9e94a0d583
+      internalID: -10653803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00bfac88f481c94f97745bee7b08e4e
+      internalID: 57169649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24da85db84e9e5c4fa65d8f8dc9ec530
+      internalID: -2115204916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c17e0694ebc63c468bd5b9673682680
+      internalID: 1629063104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba9a60a5f6dbf64ab04085a55c0e7d7
+      internalID: 1383790193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d1a26117ab6bc458488144dbafe867
+      internalID: -137125420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d94872998b14149b156a80d45d3e5f
+      internalID: 1591961085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907310217ad1219468da982294155a52
+      internalID: 496337653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38491b41abf0ef4286b189124c71b02
+      internalID: -1446008121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d920704d50b81a4782962010a1e12d9
+      internalID: 1946032837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e382f009560766a409df765c0d005ab2
+      internalID: -959008165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862c401fdb54a1a4ca8f29adfc904cab
+      internalID: 1297128694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98aba4e35d36cbf45ad2256e6ae109dc
+      internalID: 1209511143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee16e4b71edc434e8e8fdae9ec7eff0
+      internalID: 325024887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbb4cf59c50b2c499127c1f7953fdef
+      internalID: -166891389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46525ca0144e0a44e8255e423b4af021
+      internalID: -1663284000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b22947054f4f9042ac600e3ce3a96d0
+      internalID: 483310046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a09d365a3aa7f44b8b345509b4269a5
+      internalID: -1691995724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5baedacda9a340b8d91f09dd0f42d
+      internalID: -977878663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebefba5c40f90e478279ca0b16a178e
+      internalID: -1056594041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 33
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e87b85fa71e3043a695a4ea7f634ce
+      internalID: -1773803922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45c171125a070f43bc165c249eabc85
+      internalID: -417909101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f98b5f496a724ba3177547f9a2399
+      internalID: 351849672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef8baf56fad3c64da58c5a08b09f832
+      internalID: 661788660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93d480eef792194fb44db0d7493d3e3
+      internalID: 1980134496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c4e5a9f3b817b4bb44058b6b0818d6
+      internalID: -2093325806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b5dac956db3a744b40f836ad133f9d
+      internalID: -281363429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_138
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017253c3f1051f4c938272de1c8b3ae
+      internalID: -1224162479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_139
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c830655ed730040b38378e71c69f46
+      internalID: 228428399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459b77d91376094e89c2e0f13b78005
+      internalID: -1552173084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365cc491f76984a4294266409f357911
+      internalID: 675558523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3456b7c6971a9964b876348c9358ce81
+      internalID: -1164679536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +3122,150 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_0: -1877285608
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_1: 1462962253
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_10: -1091528401
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_100: 1609150614
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_101: -1221085606
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_102: 158012634
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_103: 658376657
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_104: -1695352592
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_105: 1229517465
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_106: 1012017617
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_107: 2097803939
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_108: -181621616
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_109: 1111259869
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_11: -1310813821
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_110: -1664247874
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_111: -10653803
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_112: 57169649
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_113: -2115204916
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_114: 1629063104
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_115: 1383790193
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_116: -137125420
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_117: 1591961085
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_118: 496337653
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_119: -1446008121
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_12: -1362738011
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_120: 1946032837
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_121: -959008165
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_122: 1297128694
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_123: 1209511143
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_124: 325024887
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_125: -166891389
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_126: -1663284000
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_127: 483310046
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_128: -1691995724
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_129: -977878663
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_13: -436153762
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_130: -1056594041
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_131: -1773803922
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_132: -417909101
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_133: 351849672
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_134: 661788660
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_135: 1980134496
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_136: -2093325806
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_137: -281363429
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_138: -1224162479
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_139: 228428399
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_14: 458962365
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_140: -1552173084
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_141: 675558523
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_142: -1164679536
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_15: -1923569062
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_16: 1624050192
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_17: -182394935
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_18: 822525200
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_19: 77441714
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_2: -2013948467
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_20: 74110504
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_21: -1238400703
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_22: -1583034486
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_23: 1348579180
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_24: -287987167
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_25: -1960276232
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_26: -306232423
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_27: 1615175204
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_28: -991075732
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_29: -685151454
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_3: -1998093161
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_30: 1975230251
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_31: 1145228336
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_32: -1616760178
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_33: 884264501
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_34: -1809052003
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_35: -1341342190
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_36: 1498803005
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_37: 1738341779
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_38: -207759383
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_39: -127968848
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_4: 1314464256
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_40: -2107887599
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_41: 309915529
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_42: -552969555
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_43: 626435302
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_44: -1561879018
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_45: -1745496110
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_46: 1317111310
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_47: -236644207
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_48: -1881043720
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_49: -825862819
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_5: -1787744775
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_50: -1506833779
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_51: 1309440624
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_52: 1972507348
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_53: 2096402685
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_54: -245878574
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_55: 1023493339
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_56: 1529673430
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_57: -195378870
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_58: 1325989608
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_59: -1890338359
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_6: 1313995006
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_60: -1848560014
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_61: 1301829263
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_62: 1925239188
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_63: 2013439383
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_64: 680607766
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_65: 1184066838
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_66: 1097105114
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_67: 1044940004
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_68: 1394882351
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_69: -1984856861
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_7: -690069589
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_70: -431869596
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_71: 1033824794
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_72: 207524001
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_73: -913009877
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_74: 975400642
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_75: 1319724471
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_76: -178266464
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_77: 194655253
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_78: -392941434
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_79: -742515760
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_8: -1423257896
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_80: -44906998
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_81: 1175426752
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_82: -999183755
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_83: -615500434
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_84: -1734627029
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_85: 1060794568
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_86: -87360768
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_87: -1787599523
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_88: 272686742
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_89: -1678714364
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_9: 1835591652
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_90: -882685203
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_91: -1539050100
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_92: 1097687283
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_93: 279757416
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_94: -44558947
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_95: -2076755139
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_96: -273280211
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_97: -1608597775
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_98: -1520135350
+      Arcade - Wonder Boy_ Monster Land - Playable Character - Tom-Tom_99: -1796856213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

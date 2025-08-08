@@ -13,25 +13,42 @@ public class Enemy : MonoBehaviour
     //폭발 공장 주소(외부에서 값을 넣어준다.)
     public GameObject explosionFactory;
 
+    public bool canShoot = false;
+
+    public GameObject bulletPrefab;
+    public Transform firePoint;
+    public float shootInterval = 2f;
+    private float shootTimer = 0f;
+
+    public Score sc;
+    private int enemyScore;
+
     void Start()
     {
+        // 플레이어를 찾아서 target으로 하고싶다.
+        GameObject target = GameObject.Find("Player");
+
         // 0부터 9(10-1) 까지 값중에 하나를 랜덤으로 가져와서
-        int randValue = UnityEngine.Random.Range(0, 10);
         // 만약 3보다 작으면 플레이어방향
-        if (randValue < 3)
+        if (target != null)
         {
-            // 플레이어를 찾아서 target으로 하고싶다.
-            GameObject target = GameObject.Find("Player");
-            // 방향을 구하고싶다. target - me
-            dir = target.transform.position - transform.position;
-            // 방향의 크기를 1로 하고 싶다.
-            dir.Normalize();
+            int randValue = UnityEngine.Random.Range(0, 10);
+
+            if (randValue < 3)
+            {
+                // 방향을 구하고싶다. target - me
+                dir = target.transform.position - transform.position;
+                // 방향의 크기를 1로 하고 싶다.
+                dir.Normalize();
+            }
+            else
+            {
+                // 그렇지 않으면 아래방향으로 정하고 싶다.
+                dir = Vector3.down;
+            }
+
         }
-        // 그렇지 않으면 아래방향으로 정하고 싶다.
-        else
-        {
-            dir = Vector3.down;
-        }
+
     }
 
     void Update()
@@ -40,6 +57,25 @@ public class Enemy : MonoBehaviour
         //Vector3 dir = Vector3.down;
         // 2. 이동하고 싶다. 공식 P = P0 + vt
         transform.position += dir * speed * Time.deltaTime;
+
+        if (canShoot)
+        {
+            shootTimer += Time.deltaTime;
+            if (shootTimer >= shootInterval)
+            {
+                Shoot();
+                shootTimer = 0f;
+            }
+        }
+
+    }
+
+    void Shoot()
+    {
+        if (bulletPrefab != null && firePoint != null)
+        {
+            Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+        }
     }
 
     //1. 적이 다른 물체와 충돌 했으니까.
@@ -54,8 +90,18 @@ public class Enemy : MonoBehaviour
         sm.SetScore(sm.GetScore() + 1);
 
         */
+        
 
-        ScoreManager.Instance.SetScore(ScoreManager.Instance.GetScore() + 1);
+        
+        if (sc != null)
+        {
+            enemyScore = sc.score;
+            Debug.Log(enemyScore);
+        }
+
+        //ScoreManager.Instance.SetScore(ScoreManager.Instance.GetScore() + enemyScore);
+        ScoreManager.Instance.SetScore(enemyScore);
+
 
         //2.폭발 효과 공장에서 폭발 효과를 하나 만들어야 한다.
         GameObject explosion = Instantiate(explosionFactory);
@@ -63,7 +109,7 @@ public class Enemy : MonoBehaviour
         explosion.transform.position = transform.position;
 
         //만약 부딪힌 물체가 Bullet 이라면
-        if (other.gameObject.CompareTag("Bullet"))
+        if (other.gameObject.CompareTag("Bullet") || other.gameObject.CompareTag("Enemy"))
         {
             // 부딪힌 물체를 비활성화
             other.gameObject.SetActive(false);

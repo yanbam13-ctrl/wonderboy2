@@ -785,6 +785,8 @@ MonoBehaviour:
   bulletFactory: {fileID: 3243992436557105232, guid: 00d40f8f82baf2d438d3403ff47909d3, type: 3}
   poolSize: 10
   firePosition: {fileID: 1545996100}
+  UltbulletFactory: {fileID: 1714553175811186, guid: e46491d19bf932a4080a750d4b34207e, type: 3}
+  UltPoolSize: 3
 --- !u!1 &733450234
 GameObject:
   m_ObjectHideFlags: 0
@@ -868,7 +870,7 @@ GameObject:
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &956485276
 Transform:
   m_ObjectHideFlags: 0
@@ -1070,7 +1072,7 @@ GameObject:
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1412369093
 Transform:
   m_ObjectHideFlags: 0
@@ -1326,7 +1328,7 @@ GameObject:
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1467599453
 Transform:
   m_ObjectHideFlags: 0
@@ -1357,7 +1359,7 @@ GameObject:
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1476908273
 Transform:
   m_ObjectHideFlags: 0
@@ -1579,15 +1581,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b29a9dca8dee145b4e6d05499d1587, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  normalEnemyPrefab: {fileID: 6418061789510569624, guid: a329c75d4a0de8047b96680ef7018ac2, type: 3}
+  fastEnemyPrefab: {fileID: 6418061789510569624, guid: db8cf5121a29cd9439050216f4a9e751, type: 3}
+  shootingEnemyPrefab: {fileID: 6418061789510569624, guid: 1a2ac53d47c614c40981ec37cf66ec4d, type: 3}
+  EnemyBulletPrefab: {fileID: 1467929832681574, guid: cab13c0078ac69a48a389eef95ba6045, type: 3}
   createTime: 1
   enemyFactory: {fileID: 6418061789510569624, guid: db8cf5121a29cd9439050216f4a9e751, type: 3}
   poolSize: 10
-  spawnPoints:
-  - {fileID: 2129143649}
-  - {fileID: 1412369093}
-  - {fileID: 956485276}
-  - {fileID: 1467599453}
-  - {fileID: 1476908273}
+  spawnPoints: []
+  spawnMinX: -3
+  spawnMaxX: 3
+  spawnY: 6
 --- !u!4 &1733956045
 Transform:
   m_ObjectHideFlags: 0
@@ -1867,7 +1871,7 @@ GameObject:
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &2129143649
 Transform:
   m_ObjectHideFlags: 0

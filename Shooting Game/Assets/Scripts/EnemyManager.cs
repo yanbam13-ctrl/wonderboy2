@@ -1,9 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class EnemyManager : MonoBehaviour
 {
+
+    public GameObject normalEnemyPrefab; // 일반 적 프리팹
+    public GameObject fastEnemyPrefab; // 빠른 적 프리팹 (canShoot = false)
+    public GameObject shootingEnemyPrefab; // 총 쏘는 적 프리팹 (canShoot =true)
+    public GameObject EnemyBulletPrefab; // 적 총알 프리팹
+
     // 최소시간
     float minTime = 0.5f;
     // 최대시간
@@ -23,6 +30,11 @@ public class EnemyManager : MonoBehaviour
 
     public Transform[] spawnPoints;
 
+    //연습문제 1 x 위치 : -3 ~ 3
+    public float spawnMinX = -3f;
+    public float spawnMaxX = 3f;
+    public float spawnY = 6f;
+
 
     void Start()
     {
@@ -35,14 +47,45 @@ public class EnemyManager : MonoBehaviour
 
         for (int i = 0; i < poolSize; i++)
         {
-            //에너미 공장에서 에너미를 생성한다.
-            GameObject enemy = Instantiate(enemyFactory);
 
+            int rand = Random.Range(0, 3);
+            GameObject prefabToUse = null;
+
+            if (rand == 0)
+            {
+                prefabToUse = normalEnemyPrefab;
+            }
+            else if (rand == 1)
+            {
+                prefabToUse = fastEnemyPrefab;
+            }
+            else
+            {
+                prefabToUse = shootingEnemyPrefab;
+
+            }
+
+            //에너미 공장에서 에너미를 생성한다.
+            //GameObject enemy = Instantiate(enemyFactory);
+            GameObject enemy = Instantiate(prefabToUse);
+            //비활성화 시키자
+            enemy.SetActive(false);
+
+
+            Enemy enemyScript = enemy.GetComponent<Enemy>();
+            if (enemyScript != null)
+            {
+                //총 쏘는 적이면 canShoot = true, 아니면 false
+                enemyScript.canShoot = (prefabToUse == shootingEnemyPrefab);
+
+                if (enemyScript.canShoot)
+                {
+                    enemyScript.bulletPrefab = EnemyBulletPrefab;
+                }
+            }
             //에너미를 풀에 넣고 싶다.
             enemyObjectPool[i] = enemy;
 
-            //비활성화 시키자
-            enemy.SetActive(false);
         }
     }
 
@@ -61,12 +104,18 @@ public class EnemyManager : MonoBehaviour
 
                 if (newEnemy.activeSelf == false)
                 {
-                    newEnemy.SetActive(true);
+                    //newEnemy.SetActive(true);
+
+                    //x위치는 랜덤, y는 고정
+                    float randomX = Random.Range(spawnMinX, spawnMaxX);
+                    Vector3 spawnPos = new Vector3(randomX, spawnY, 0f);
 
                     //랜덤으로 인덱스 선택
                     int index = Random.Range(0, spawnPoints.Length);
 
-                    newEnemy.transform.position = spawnPoints[index].position;
+                    newEnemy.transform.position = spawnPos;
+                    newEnemy.SetActive(true);
+                    //newEnemy.transform.position = spawnPoints[index].position;
                     break;
                 }
             }

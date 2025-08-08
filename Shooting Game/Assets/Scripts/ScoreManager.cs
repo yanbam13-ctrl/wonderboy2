@@ -41,7 +41,7 @@ public class ScoreManager : MonoBehaviour
     public void SetScore(int value)
     {
         // 3.ScoreManager 클래스의 속성에 값을 할당 한다.
-        currentScore++;
+        currentScore += value;
         // 4.화면에 현재 점수 표시하기
         currentScoreUI.text = "현재점수 : " + currentScore;
 
