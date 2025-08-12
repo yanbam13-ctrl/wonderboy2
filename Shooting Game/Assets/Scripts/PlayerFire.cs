@@ -10,8 +10,11 @@ public class PlayerFire : MonoBehaviour
     //탄창에 넣을 총알 개수
     public int poolSize; // 10
 
+    //
+    public List<GameObject> bulletObjectPool;
+
     //오브젝트풀 배열
-    GameObject[] bulletObjectPool;
+    //GameObject[] bulletObjectPool;
 
     //총구
     public GameObject firePosition;
@@ -24,8 +27,11 @@ public class PlayerFire : MonoBehaviour
 
     private void Start()
     {
+        bulletObjectPool = new List<GameObject>();
+
         //연습문제 2
         UltbulletObjectPool = new GameObject[UltPoolSize];
+
 
         for (int i = 0; i < UltPoolSize; i++)
         {
@@ -40,7 +46,9 @@ public class PlayerFire : MonoBehaviour
 
 
         //탄창의 크기를 총알을 담을 수 있는 크기로 만들어 준다.
-        bulletObjectPool = new GameObject[poolSize];
+        bulletObjectPool = new List<GameObject>();
+
+        //bulletObjectPool = new GameObject[poolSize];
 
         for (int i = 0; i < poolSize; i++)
         {
@@ -49,7 +57,8 @@ public class PlayerFire : MonoBehaviour
             GameObject bullet = Instantiate(bulletFactory);
 
             //총알을 오브젝트 풀에 넣는다.
-            bulletObjectPool[i] = bullet;
+            bulletObjectPool.Add(bullet);
+            //bulletObjectPool[i] = bullet;
             bullet.SetActive(false);
         }
     }
@@ -63,27 +72,39 @@ public class PlayerFire : MonoBehaviour
         {
             /*
             //2.총알 공장에서 총알을 만든다.
-            GameObject bullet = Instantiate(bulletFactory);
-            */
+            GameObject bullet = Instantiate(bulletFactory);           */
+                       
 
-            for (int i = 0; i < poolSize; i++)
-            {
+            //탄창 안에 총알이 있다면
+                if (bulletObjectPool.Count > 0) {
 
                 //비활성화 된 총알을
-                GameObject bullet = bulletObjectPool[i];
-                if (bullet.activeSelf == false)
-                {
-                    //발사 (활성화 시킨다.)
+                    GameObject bullet = bulletObjectPool[0];
+
+                //발사 시킨다(활성화 시킨다)
                     bullet.SetActive(true);
-                    //총알을 위치시킨다. // //3.총알을 발사한다.(총알을 총구위치로 가져다 놓기)
+
+                //총알을 위치 시킨다.
                     bullet.transform.position = firePosition.transform.position;
-                    //총알을 발사했기 때문에 비활성화 총알 검색을 중단.
-                    break;
+
+                // 오브젝트 풀에서 총알 제거
+                    bulletObjectPool.RemoveAt(0);
                 }
+                ////비활성화 된 총알을
+                //GameObject bullet = bulletObjectPool[i];
+                //if (bullet.activeSelf == false)
+                //{
+                //    //발사 (활성화 시킨다.)
+                //    bullet.SetActive(true);
+                //    //총알을 위치시킨다. // //3.총알을 발사한다.(총알을 총구위치로 가져다 놓기)
+                //    bullet.transform.position = firePosition.transform.position;
+                //    //총알을 발사했기 때문에 비활성화 총알 검색을 중단.
+                //    break;
+                //}
 
             }
 
-        }
+        
 
         if (Input.GetKeyDown(KeyCode.Space))
         {

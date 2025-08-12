@@ -1,0 +1,66 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class PlayerFire : MonoBehaviour
+{
+    //총알 생산할 공장
+    public GameObject bulletFactory;
+    // 탄창에 넣을 총알 개수
+    public int poolSize;    // 10
+    // 오브젝트풀 배열
+    public List<GameObject> bulletObjectPool;
+
+    // 큰 총알 생산할 공장
+    public GameObject bigBulletFactory;
+
+    //총구
+    public GameObject firePosition;
+
+    private void Start()
+    {
+        // 탄창의 크기를 총알을 담을 수 있는 크기로 만들어 준다.
+        bulletObjectPool = new List<GameObject>();
+        // 탄창에 넣을 총알 개수만큼 반복하여
+        for (int i = 0; i < poolSize; i++)
+        {
+            // 총알 공장에서 총알을 생성한다.
+            GameObject bullet = Instantiate(bulletFactory);
+            // 총알을 오브젝트 풀에 넣는다.
+            bulletObjectPool.Add(bullet);
+            // 오브젝트 비활성화
+            bullet.SetActive(false);
+        }
+    }
+
+    void Update()
+    {
+        //목표: 사용자가 발사 버튼을 누르면 총알을 발사하고 싶다.
+        //순서 : 1.사용자가 발사 버튼을 누르면
+        // - 만약 사용자가 발사 버튼을 누르면
+        if (Input.GetButtonDown("Fire1"))
+        {
+            // 탄창 안에 총알이 있다면
+            if (bulletObjectPool.Count > 0)
+            {
+                // 비활성화 된 총알을
+                GameObject bullet = bulletObjectPool[0];
+                // 총알을 발사시킨다(활성화시킨다)
+                bullet.SetActive(true);
+                // 총알을 위치 시킨다
+                bullet.transform.position = firePosition.transform.position;
+
+                // 오브젝트풀에서 총알 제거
+                bulletObjectPool.RemoveAt(0);
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            Instantiate(
+                bigBulletFactory,
+                firePosition.transform.position + new Vector3(0, 3f, 0),
+                Quaternion.identity);
+        }
+    }
+}

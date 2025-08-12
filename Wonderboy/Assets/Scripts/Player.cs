@@ -4,58 +4,136 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    // =====[ 이동/점프 튜닝 파라미터 ]=====
-    [SerializeField] float moveSpeed = 5f; // 좌우 이동 속도 (수평 속도 = moveSpeed * 입력)
-    [SerializeField] float jumpForce = 7f; // 점프 힘 (Impulse 모드로 한 번에 가해짐)
+    // =========[ 이동/점프 파라미터 ]=========
+    public float moveSpeed = 5f;      // 지상에서 좌우 이동 속도
+    public float airControl = 0.35f;  // 공중에서 좌우 제어 비율(지상=1, 공중은 이 값이 곱해짐)
+    public float jumpHeight = 2.2f;   // "원하는 최대 점프 높이" (유닛 단위)
 
-    // =====[ 바닥 감지용 ]=====
-    [SerializeField] Transform groundCheck;          // 플레이어 발밑에 두는 빈 오브젝트(자식)
-    [SerializeField] float groundRadius = 0.1f; // 발밑 감지 원의 반지름 (발바닥 크기 느낌)
-    [SerializeField] LayerMask groundMask;  // "Ground" 레이어 등 바닥이 속한 레이어 선택
+    // =========[ 중력/낙하 튜닝 ]=========
+    public float baseGravity = 3f;        // 기본 중력 배수(Rigidbody2D.gravityScale에 적용)
+    public float fallMultiplier = 2.2f;   // 떨어질 때 중력 배수(>1이면 더 빨리 떨어짐)
+    public float maxFallSpeed = -20f;     // 최대 낙하 속도(너무 빨리 떨어지지 않도록 하한선)
 
+    // =========[ 바닥 감지 ]=========
+    public Transform groundCheck;     // 발밑에 둔 빈 오브젝트(플레이어의 자식)
+    public float groundRadius = 0.1f; // 발밑 원 충돌 체크 반지름
+    public LayerMask groundMask;      // "바닥"으로 인식할 레이어(타일/플랫폼 등)
 
-    private Rigidbody2D rb; // 물리 연산 담당 컴포넌트 캐시(매 프레임 GetComponent하면 느림)
-    bool grounded; // 이번 FixedUpdate에서 바닥에 닿아있는지
+    // =========[ 내부 상태 ]=========
+    private Rigidbody2D rb;  // 물리 처리 담당 컴포넌트 캐시
+    private bool grounded;   // 이번 물리 프레임에서 바닥에 닿아있는가?
 
-    void Awake() { rb = GetComponent<Rigidbody2D>(); } // 시작 시 한 번만 Rigidbody2D를 찾아 캐싱
+    SpriteRenderer sr;   // ← 스프라이트 렌더러 참조
 
+    private Animator animator;
 
-    private void Update()
+    public float moveTapBuffer = 0.12f;  // 살짝 눌러도 이 시간만큼 Move 유지
+    float moveTimer;
+
+    void Awake()
     {
-        // 점프 입력은 Update에서 읽는 게 좋아요 (키 입력은 프레임 기준으로 잡힘)
-        // 기본 입력 설정: "Jump" = Space / "Fire1" = Ctrl or 마우스좌클릭
-        // 지금 코드는 Fire1로 되어 있는데, 스페이스로 점프하려면 "Jump"로 바꾸면 됨.
-        //
-        // + grounded 조건을 걸어 '공중 점프 방지'
+        // Rigidbody2D를 한 번만 찾아서 보관(매 프레임 GetComponent 하면 느림)
+        rb = GetComponent<Rigidbody2D>();
 
-        if (Input.GetButton("Fire1") && grounded)
+        // 기본 중력 세팅
+        rb.gravityScale = baseGravity;
+
+        sr = GetComponent<SpriteRenderer>(); // 스프라이트가 자식에 있으면 GetComponentInChildren<SpriteRenderer>()
+
+        animator = GetComponent<Animator>();
+    }
+
+
+
+    void Update()
+    {
+        /*------ 이동 애니메이션 / 플레이어 방향전환 */
+        // 방향키(A/D, ←/→) 중 하나라도 눌렸는지 (디지털 키 입력)
+        bool keyMoving =
+        Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.RightArrow) ||
+        Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.D);
+
+        // 아날로그/축 입력 값 (-1 ~ 1). 키보드는 보통 -1/0/1, 게임패드는 중간 값도 가능
+        float axis = Input.GetAxisRaw("Horizontal");
+
+        // 축 값이 임계치(노이즈)보다 크면 "움직임 있음"으로 간주
+        bool axisMoving = Mathf.Abs(axis) > 0.05f;     // 아주 작은 떨림 무시
+
+        // 디지털 키든, 축 값이든 둘 중 하나라도 움직임이 있으면 true
+        bool movingNow = keyMoving || axisMoving;
+
+        // ---- “살짝 눌러도” 애니메이션이 보이게 하는 버퍼 로직 ----
+        // 움직임이 감지되면 타이머를 버퍼 시간으로 재충전
+        if (movingNow) moveTimer = moveTapBuffer;
+        // 움직임이 없으면, 시간 흐름만큼 타이머 감소
+        else moveTimer -= Time.deltaTime;
+
+        // 타이머가 0보다 남아 있으면 아직 "움직이는 중"으로 간주 (짧게 눌러도 잠깐 유지)
+        bool moveState = moveTimer > 0f;
+
+        // ← 방향 전환: x가 음수면 왼쪽을 바라보게, 양수면 오른쪽
+        // 움직임 애니메이션 적용
+        // x가 0보다 작다(왼쪽 입력)면 스프라이트를 좌우 반전시켜 왼쪽을 보게 함.
+        // x가 0 이상(정지 또는 오른쪽 입력)이면 반전 해제 → 오른쪽 바라봄.
+        if (movingNow) sr.flipX = (axis < 0);
+
+        animator.SetBool("Move", moveState && grounded);
+
+        /*------ 점프 / 점프 애니메이션 */
+        // ★ 입력은 Update에서 읽는 게 좋음(프레임 기반).
+        if (Input.GetButtonDown("Fire1") && grounded)
         {
-            // 현재 상승/하강 속도를 0으로 리셋해서 '탄력 누적' 방지
+            // 점프 속도 계산: v = sqrt(2 * g * h)
+            // g : 실제 중력 가속도(Physics2D.gravity.y * gravityScale)
+            // h : 목표 점프 높이(jumpHeight)
+            float g = Mathf.Abs(Physics2D.gravity.y) * baseGravity;
+            float v = Mathf.Sqrt(2f * g * jumpHeight);
 
-            rb.velocity = new Vector2(rb.velocity.x, 0f); // 누적속도 제거
+            // 수직 속도 리셋(연속 점프/탄성 누적 방지)
+            rb.velocity = new Vector2(rb.velocity.x, 0f);
 
-            // 위쪽으로 순간적인 힘(Impulse) 가하기
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            // 위 방향 초기 속도 부여 → 항상 같은 높이로 점프
+            rb.velocity = new Vector2(rb.velocity.x, v);
+
+            animator.SetTrigger("Jump");
         }
     }
-    private void FixedUpdate()
-    {
 
-        // =====[ 1) 지면 체크 ]=====
-        // groundCheck.position을 중심으로 작은 원을 그려서
-        // groundMask에 포함된 콜라이더와 겹치면 '바닥'으로 판단
-        //
-        // ※ 전제조건
-        //  - groundCheck는 반드시 '플레이어의 자식'으로 발밑에 위치
-        //  - 바닥 타일/플랫폼 오브젝트는 groundMask에 포함된 Layer로 설정
+    void FixedUpdate()
+    {
+        // ===== 1) 바닥 감지 =====
+        // groundCheck 위치를 중심으로 작은 원을 만들어 groundMask에 포함된 콜라이더와 겹치면 "바닥"으로 인식
         grounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, groundMask);
 
-        // =====[ 2) 좌우 이동 ]=====
-        // "Horizontal" 축 입력(-1, 0, 1) : A/D 또는 ←/→
+        // ===== 2) 좌우 이동 =====
+        // Horizontal 축 입력: A/D 또는 ←/→ → -1, 0, 1 값
         float x = Input.GetAxisRaw("Horizontal");
 
-        // y속도는 그대로 유지하고, x속도만 입력에 맞게 설정
-        // 매 프레임 고정된 값을 덮어쓰기 때문에 관성 없이 '아케이드식' 이동 느낌
-        rb.velocity = new Vector2(x * moveSpeed, rb.velocity.y);
+
+        // 공중에서는 제어력 줄이기(airControl 배수 적용)
+        float control = grounded ? 1f : airControl;
+
+        // x속도만 입력에 맞춰 갱신(아케이드 스타일: 관성 없이 바로 덮어쓰기)
+        float vx = x * moveSpeed * control;
+        rb.velocity = new Vector2(vx, rb.velocity.y);
+
+        // ===== 3) 낙하 가속/속도 제한 =====
+        // 상승 중/지상: 기본 중력, 낙하 중: 더 큰 중력(빨리 떨어지게)
+        rb.gravityScale = (rb.velocity.y < 0f) ? baseGravity * fallMultiplier : baseGravity;
+
+        // 낙하 속도가 너무 빨라지지 않도록 하한 클램프
+        if (rb.velocity.y < maxFallSpeed)
+            rb.velocity = new Vector2(rb.velocity.x, maxFallSpeed);
+
+
+
+    }
+
+    // (선택) 씬 뷰에서 groundCheck 범위를 보이게 해주는 기즈모
+    void OnDrawGizmosSelected()
+    {
+        if (groundCheck == null) return;
+        Gizmos.color = Color.yellow;
+        Gizmos.DrawWireSphere(groundCheck.position, groundRadius);
     }
 }

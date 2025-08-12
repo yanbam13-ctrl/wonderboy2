@@ -12,6 +12,16 @@ public class DestroyZone : MonoBehaviour
         {
             // 부딪힌 물체를 비활성화
             other.gameObject.SetActive(false);
+
+            //부딪힌 물체가 총알일 경우 총알 리스트에 삽입
+            if (other.CompareTag("bullet"))
+            {
+                //playerFire 객체 얻어오기
+                PlayerFire player = GameObject.Find("player").GetComponent<PlayerFire>();
+
+                //오브젝트 풀 리스트에 총알 삽입
+                player.bulletObjectPool.Add(other.gameObject);
+            }
         }
         else
         {
