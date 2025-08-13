@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P176_PyramidB/1.0.0": {
+        "runtime": {
+          "P176_PyramidB.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P176_PyramidB/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\bin\Debug\net8.0\PPT38_RandomClassDemo.exe
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\bin\Debug\net8.0\PPT38_RandomClassDemo.deps.json
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\bin\Debug\net8.0\PPT38_RandomClassDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\bin\Debug\net8.0\PPT38_RandomClassDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\bin\Debug\net8.0\PPT38_RandomClassDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\PPT38_RandomClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\PPT38_RandomClassDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\PPT38_RandomClassDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\PPT38_RandomClassDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\PPT38_RandomClassDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\refint\PPT38_RandomClassDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\PPT38_RandomClassDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\PPT38_RandomClassDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT38_RandomClassDemo\obj\Debug\net8.0\ref\PPT38_RandomClassDemo.dll

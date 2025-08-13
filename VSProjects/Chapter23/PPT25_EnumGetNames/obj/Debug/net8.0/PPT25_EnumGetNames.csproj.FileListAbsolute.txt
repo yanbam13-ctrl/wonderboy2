@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\bin\Debug\net8.0\PPT25_EnumGetNames.exe
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\bin\Debug\net8.0\PPT25_EnumGetNames.deps.json
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\bin\Debug\net8.0\PPT25_EnumGetNames.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\bin\Debug\net8.0\PPT25_EnumGetNames.dll
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\bin\Debug\net8.0\PPT25_EnumGetNames.pdb
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\PPT25_EnumGetNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\PPT25_EnumGetNames.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\PPT25_EnumGetNames.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\PPT25_EnumGetNames.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\PPT25_EnumGetNames.dll
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\refint\PPT25_EnumGetNames.dll
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\PPT25_EnumGetNames.pdb
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\PPT25_EnumGetNames.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter23\PPT25_EnumGetNames\obj\Debug\net8.0\ref\PPT25_EnumGetNames.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\bin\Debug\net8.0\P087_StringVaribale.exe
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\bin\Debug\net8.0\P087_StringVaribale.deps.json
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\bin\Debug\net8.0\P087_StringVaribale.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\bin\Debug\net8.0\P087_StringVaribale.dll
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\bin\Debug\net8.0\P087_StringVaribale.pdb
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\P087_StringVaribale.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\P087_StringVaribale.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\P087_StringVaribale.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\P087_StringVaribale.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\P087_StringVaribale.dll
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\refint\P087_StringVaribale.dll
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\P087_StringVaribale.pdb
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\P087_StringVaribale.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P087_StringVaribale\obj\Debug\net8.0\ref\P087_StringVaribale.dll

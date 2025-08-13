@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\bin\Debug\net8.0\PPT18_ReturnValue.exe
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\bin\Debug\net8.0\PPT18_ReturnValue.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\bin\Debug\net8.0\PPT18_ReturnValue.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\bin\Debug\net8.0\PPT18_ReturnValue.dll
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\bin\Debug\net8.0\PPT18_ReturnValue.pdb
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\PPT18_ReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\PPT18_ReturnValue.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\PPT18_ReturnValue.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\PPT18_ReturnValue.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\PPT18_ReturnValue.dll
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\refint\PPT18_ReturnValue.dll
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\PPT18_ReturnValue.pdb
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\PPT18_ReturnValue.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT18_ReturnValue\obj\Debug\net8.0\ref\PPT18_ReturnValue.dll

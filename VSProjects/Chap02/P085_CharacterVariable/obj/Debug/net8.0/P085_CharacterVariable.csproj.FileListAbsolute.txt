@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\bin\Debug\net8.0\P085_CharacterVariable.exe
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\bin\Debug\net8.0\P085_CharacterVariable.deps.json
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\bin\Debug\net8.0\P085_CharacterVariable.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\bin\Debug\net8.0\P085_CharacterVariable.dll
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\bin\Debug\net8.0\P085_CharacterVariable.pdb
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\P085_CharacterVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\P085_CharacterVariable.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\P085_CharacterVariable.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\P085_CharacterVariable.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\P085_CharacterVariable.dll
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\refint\P085_CharacterVariable.dll
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\P085_CharacterVariable.pdb
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\P085_CharacterVariable.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P085_CharacterVariable\obj\Debug\net8.0\ref\P085_CharacterVariable.dll

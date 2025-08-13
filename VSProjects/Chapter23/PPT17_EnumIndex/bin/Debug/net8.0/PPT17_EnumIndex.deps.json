@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT17_EnumIndex/1.0.0": {
+        "runtime": {
+          "PPT17_EnumIndex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT17_EnumIndex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

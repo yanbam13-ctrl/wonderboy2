@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\bin\Debug\net8.0\P093_IncrementOperator.exe
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\bin\Debug\net8.0\P093_IncrementOperator.deps.json
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\bin\Debug\net8.0\P093_IncrementOperator.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\bin\Debug\net8.0\P093_IncrementOperator.dll
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\bin\Debug\net8.0\P093_IncrementOperator.pdb
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\P093_IncrementOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\P093_IncrementOperator.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\P093_IncrementOperator.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\P093_IncrementOperator.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\P093_IncrementOperator.dll
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\refint\P093_IncrementOperator.dll
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\P093_IncrementOperator.pdb
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\P093_IncrementOperator.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P093_IncrementOperator\obj\Debug\net8.0\ref\P093_IncrementOperator.dll

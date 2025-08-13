@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\bin\Debug\net8.0\PPT28_EnumParse.exe
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\bin\Debug\net8.0\PPT28_EnumParse.deps.json
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\bin\Debug\net8.0\PPT28_EnumParse.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\bin\Debug\net8.0\PPT28_EnumParse.dll
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\bin\Debug\net8.0\PPT28_EnumParse.pdb
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\PPT28_EnumParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\PPT28_EnumParse.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\PPT28_EnumParse.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\PPT28_EnumParse.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\PPT28_EnumParse.dll
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\refint\PPT28_EnumParse.dll
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\PPT28_EnumParse.pdb
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\PPT28_EnumParse.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter23\PPT28_EnumParse\obj\Debug\net8.0\ref\PPT28_EnumParse.dll

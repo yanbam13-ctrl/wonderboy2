@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\bin\Debug\net8.0\PPT2_GetSumTwoNumber.exe
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\bin\Debug\net8.0\PPT2_GetSumTwoNumber.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\bin\Debug\net8.0\PPT2_GetSumTwoNumber.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\bin\Debug\net8.0\PPT2_GetSumTwoNumber.dll
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\bin\Debug\net8.0\PPT2_GetSumTwoNumber.pdb
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\PPT2_GetSumTwoNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\PPT2_GetSumTwoNumber.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\PPT2_GetSumTwoNumber.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\PPT2_GetSumTwoNumber.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\PPT2_GetSumTwoNumber.dll
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\refint\PPT2_GetSumTwoNumber.dll
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\PPT2_GetSumTwoNumber.pdb
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\PPT2_GetSumTwoNumber.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT2_GetSumTwoNumber\obj\Debug\net8.0\ref\PPT2_GetSumTwoNumber.dll

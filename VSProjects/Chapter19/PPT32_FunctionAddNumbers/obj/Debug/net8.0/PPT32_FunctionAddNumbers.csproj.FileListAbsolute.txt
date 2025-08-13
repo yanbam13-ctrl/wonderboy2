@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\bin\Debug\net8.0\PPT32_FunctionAddNumbers.exe
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\bin\Debug\net8.0\PPT32_FunctionAddNumbers.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\bin\Debug\net8.0\PPT32_FunctionAddNumbers.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\bin\Debug\net8.0\PPT32_FunctionAddNumbers.dll
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\bin\Debug\net8.0\PPT32_FunctionAddNumbers.pdb
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\PPT32_FunctionAddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\PPT32_FunctionAddNumbers.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\PPT32_FunctionAddNumbers.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\PPT32_FunctionAddNumbers.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\PPT32_FunctionAddNumbers.dll
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\refint\PPT32_FunctionAddNumbers.dll
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\PPT32_FunctionAddNumbers.pdb
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\PPT32_FunctionAddNumbers.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT32_FunctionAddNumbers\obj\Debug\net8.0\ref\PPT32_FunctionAddNumbers.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\bin\Debug\net8.0\PPT21_EnumerableDemo.exe
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\bin\Debug\net8.0\PPT21_EnumerableDemo.deps.json
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\bin\Debug\net8.0\PPT21_EnumerableDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\bin\Debug\net8.0\PPT21_EnumerableDemo.dll
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\bin\Debug\net8.0\PPT21_EnumerableDemo.pdb
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\PPT21_EnumerableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\PPT21_EnumerableDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\PPT21_EnumerableDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\PPT21_EnumerableDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\PPT21_EnumerableDemo.dll
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\refint\PPT21_EnumerableDemo.dll
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\PPT21_EnumerableDemo.pdb
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\PPT21_EnumerableDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter28\PPT21_EnumerableDemo\obj\Debug\net8.0\ref\PPT21_EnumerableDemo.dll

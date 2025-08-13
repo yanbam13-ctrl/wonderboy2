@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\bin\Debug\net8.0\PPT82_ZigZag.exe
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\bin\Debug\net8.0\PPT82_ZigZag.deps.json
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\bin\Debug\net8.0\PPT82_ZigZag.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\bin\Debug\net8.0\PPT82_ZigZag.dll
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\bin\Debug\net8.0\PPT82_ZigZag.pdb
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\PPT82_ZigZag.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\PPT82_ZigZag.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\PPT82_ZigZag.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\PPT82_ZigZag.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\PPT82_ZigZag.dll
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\refint\PPT82_ZigZag.dll
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\PPT82_ZigZag.pdb
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\PPT82_ZigZag.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\PPT82_ZigZag\obj\Debug\net8.0\ref\PPT82_ZigZag.dll

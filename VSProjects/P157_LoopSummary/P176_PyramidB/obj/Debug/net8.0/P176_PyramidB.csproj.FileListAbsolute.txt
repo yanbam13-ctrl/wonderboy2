@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\bin\Debug\net8.0\P176_PyramidB.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\bin\Debug\net8.0\P176_PyramidB.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\bin\Debug\net8.0\P176_PyramidB.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\bin\Debug\net8.0\P176_PyramidB.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\bin\Debug\net8.0\P176_PyramidB.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\P176_PyramidB.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\P176_PyramidB.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\P176_PyramidB.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\P176_PyramidB.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\P176_PyramidB.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\refint\P176_PyramidB.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\P176_PyramidB.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\P176_PyramidB.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P176_PyramidB\obj\Debug\net8.0\ref\P176_PyramidB.dll

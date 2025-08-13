@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\bin\Debug\net8.0\PPT49_RegexReplace.exe
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\bin\Debug\net8.0\PPT49_RegexReplace.deps.json
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\bin\Debug\net8.0\PPT49_RegexReplace.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\bin\Debug\net8.0\PPT49_RegexReplace.dll
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\bin\Debug\net8.0\PPT49_RegexReplace.pdb
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\PPT49_RegexReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\PPT49_RegexReplace.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\PPT49_RegexReplace.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\PPT49_RegexReplace.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\PPT49_RegexReplace.dll
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\refint\PPT49_RegexReplace.dll
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\PPT49_RegexReplace.pdb
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\PPT49_RegexReplace.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT49_RegexReplace\obj\Debug\net8.0\ref\PPT49_RegexReplace.dll

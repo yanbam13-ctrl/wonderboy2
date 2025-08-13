@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P075_LogicalOperator/1.0.0": {
+        "runtime": {
+          "P075_LogicalOperator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P075_LogicalOperator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

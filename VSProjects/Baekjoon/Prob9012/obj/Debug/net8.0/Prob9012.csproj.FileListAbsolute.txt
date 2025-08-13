@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Baekjoon\Prob9012\bin\Debug\net8.0\Prob9012.exe
+C:\250616JY\VSProjects\Baekjoon\Prob9012\bin\Debug\net8.0\Prob9012.deps.json
+C:\250616JY\VSProjects\Baekjoon\Prob9012\bin\Debug\net8.0\Prob9012.runtimeconfig.json
+C:\250616JY\VSProjects\Baekjoon\Prob9012\bin\Debug\net8.0\Prob9012.dll
+C:\250616JY\VSProjects\Baekjoon\Prob9012\bin\Debug\net8.0\Prob9012.pdb
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\Prob9012.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\Prob9012.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\Prob9012.AssemblyInfo.cs
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\Prob9012.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\Prob9012.dll
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\refint\Prob9012.dll
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\Prob9012.pdb
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\Prob9012.genruntimeconfig.cache
+C:\250616JY\VSProjects\Baekjoon\Prob9012\obj\Debug\net8.0\ref\Prob9012.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT04_QueueGenric/1.0.0": {
+        "runtime": {
+          "PPT04_QueueGenric.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT04_QueueGenric/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

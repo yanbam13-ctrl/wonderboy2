@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\bin\Debug\net8.0\P071_StringSelector.exe
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\bin\Debug\net8.0\P071_StringSelector.deps.json
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\bin\Debug\net8.0\P071_StringSelector.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\bin\Debug\net8.0\P071_StringSelector.dll
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\bin\Debug\net8.0\P071_StringSelector.pdb
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\P071_StringSelector.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\P071_StringSelector.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\P071_StringSelector.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\P071_StringSelector.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\P071_StringSelector.dll
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\refint\P071_StringSelector.dll
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\P071_StringSelector.pdb
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\P071_StringSelector.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P071_StringSelector\obj\Debug\net8.0\ref\P071_StringSelector.dll

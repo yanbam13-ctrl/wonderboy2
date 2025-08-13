@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\bin\Debug\net8.0\PPT15_ClassDescription.exe
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\bin\Debug\net8.0\PPT15_ClassDescription.deps.json
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\bin\Debug\net8.0\PPT15_ClassDescription.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\bin\Debug\net8.0\PPT15_ClassDescription.dll
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\bin\Debug\net8.0\PPT15_ClassDescription.pdb
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\PPT15_ClassDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\PPT15_ClassDescription.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\PPT15_ClassDescription.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\PPT15_ClassDescription.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\PPT15_ClassDescription.dll
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\refint\PPT15_ClassDescription.dll
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\PPT15_ClassDescription.pdb
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\PPT15_ClassDescription.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT15_ClassDescription\obj\Debug\net8.0\ref\PPT15_ClassDescription.dll

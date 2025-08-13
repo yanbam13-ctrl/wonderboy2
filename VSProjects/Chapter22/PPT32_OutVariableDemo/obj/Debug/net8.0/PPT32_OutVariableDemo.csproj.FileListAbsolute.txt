@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\bin\Debug\net8.0\PPT32_OutVariableDemo.exe
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\bin\Debug\net8.0\PPT32_OutVariableDemo.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\bin\Debug\net8.0\PPT32_OutVariableDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\bin\Debug\net8.0\PPT32_OutVariableDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\bin\Debug\net8.0\PPT32_OutVariableDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\PPT32_OutVariableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\PPT32_OutVariableDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\PPT32_OutVariableDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\PPT32_OutVariableDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\PPT32_OutVariableDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\refint\PPT32_OutVariableDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\PPT32_OutVariableDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\PPT32_OutVariableDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT32_OutVariableDemo\obj\Debug\net8.0\ref\PPT32_OutVariableDemo.dll

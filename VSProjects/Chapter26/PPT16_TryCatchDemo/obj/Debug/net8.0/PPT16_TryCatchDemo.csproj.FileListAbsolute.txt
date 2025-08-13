@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\bin\Debug\net8.0\PPT16_TryCatchDemo.exe
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\bin\Debug\net8.0\PPT16_TryCatchDemo.deps.json
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\bin\Debug\net8.0\PPT16_TryCatchDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\bin\Debug\net8.0\PPT16_TryCatchDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\bin\Debug\net8.0\PPT16_TryCatchDemo.pdb
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\PPT16_TryCatchDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\PPT16_TryCatchDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\PPT16_TryCatchDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\PPT16_TryCatchDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\PPT16_TryCatchDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\refint\PPT16_TryCatchDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\PPT16_TryCatchDemo.pdb
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\PPT16_TryCatchDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter26\PPT16_TryCatchDemo\obj\Debug\net8.0\ref\PPT16_TryCatchDemo.dll

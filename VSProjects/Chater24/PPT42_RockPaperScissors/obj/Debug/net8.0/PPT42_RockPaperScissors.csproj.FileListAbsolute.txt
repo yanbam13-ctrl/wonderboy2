@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\bin\Debug\net8.0\PPT42_RockPaperScissors.exe
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\bin\Debug\net8.0\PPT42_RockPaperScissors.deps.json
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\bin\Debug\net8.0\PPT42_RockPaperScissors.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\bin\Debug\net8.0\PPT42_RockPaperScissors.dll
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\bin\Debug\net8.0\PPT42_RockPaperScissors.pdb
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\PPT42_RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\PPT42_RockPaperScissors.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\PPT42_RockPaperScissors.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\PPT42_RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\PPT42_RockPaperScissors.dll
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\refint\PPT42_RockPaperScissors.dll
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\PPT42_RockPaperScissors.pdb
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\PPT42_RockPaperScissors.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT42_RockPaperScissors\obj\Debug\net8.0\ref\PPT42_RockPaperScissors.dll

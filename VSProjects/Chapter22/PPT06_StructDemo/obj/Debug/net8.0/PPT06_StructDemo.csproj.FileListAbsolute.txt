@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\bin\Debug\net8.0\PPT06_StructDemo.exe
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\bin\Debug\net8.0\PPT06_StructDemo.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\bin\Debug\net8.0\PPT06_StructDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\bin\Debug\net8.0\PPT06_StructDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\bin\Debug\net8.0\PPT06_StructDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\PPT06_StructDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\PPT06_StructDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\PPT06_StructDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\PPT06_StructDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\PPT06_StructDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\refint\PPT06_StructDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\PPT06_StructDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\PPT06_StructDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT06_StructDemo\obj\Debug\net8.0\ref\PPT06_StructDemo.dll

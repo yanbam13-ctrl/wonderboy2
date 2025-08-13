@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\bin\Debug\net8.0\PPT20_StructArray.exe
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\bin\Debug\net8.0\PPT20_StructArray.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\bin\Debug\net8.0\PPT20_StructArray.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\bin\Debug\net8.0\PPT20_StructArray.dll
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\bin\Debug\net8.0\PPT20_StructArray.pdb
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\PPT20_StructArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\PPT20_StructArray.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\PPT20_StructArray.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\PPT20_StructArray.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\PPT20_StructArray.dll
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\refint\PPT20_StructArray.dll
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\PPT20_StructArray.pdb
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\PPT20_StructArray.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT20_StructArray\obj\Debug\net8.0\ref\PPT20_StructArray.dll

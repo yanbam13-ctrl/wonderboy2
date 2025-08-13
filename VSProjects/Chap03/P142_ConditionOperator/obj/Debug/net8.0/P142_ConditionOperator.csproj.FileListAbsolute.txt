@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\bin\Debug\net8.0\P142_ConditionOperator.exe
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\bin\Debug\net8.0\P142_ConditionOperator.deps.json
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\bin\Debug\net8.0\P142_ConditionOperator.runtimeconfig.json
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\bin\Debug\net8.0\P142_ConditionOperator.dll
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\bin\Debug\net8.0\P142_ConditionOperator.pdb
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\P142_ConditionOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\P142_ConditionOperator.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\P142_ConditionOperator.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\P142_ConditionOperator.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\P142_ConditionOperator.dll
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\refint\P142_ConditionOperator.dll
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\P142_ConditionOperator.pdb
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\P142_ConditionOperator.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap03\P142_ConditionOperator\obj\Debug\net8.0\ref\P142_ConditionOperator.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\bin\Debug\net8.0\PPT07_ClassNote.exe
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\bin\Debug\net8.0\PPT07_ClassNote.deps.json
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\bin\Debug\net8.0\PPT07_ClassNote.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\bin\Debug\net8.0\PPT07_ClassNote.dll
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\bin\Debug\net8.0\PPT07_ClassNote.pdb
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\PPT07_ClassNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\PPT07_ClassNote.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\PPT07_ClassNote.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\PPT07_ClassNote.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\PPT07_ClassNote.dll
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\refint\PPT07_ClassNote.dll
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\PPT07_ClassNote.pdb
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\PPT07_ClassNote.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT07_ClassNote\obj\Debug\net8.0\ref\PPT07_ClassNote.dll

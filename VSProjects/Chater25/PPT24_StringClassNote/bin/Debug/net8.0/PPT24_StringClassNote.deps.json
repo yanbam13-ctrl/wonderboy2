@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT24_StringClassNote/1.0.0": {
+        "runtime": {
+          "PPT24_StringClassNote.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT24_StringClassNote/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\bin\Debug\net8.0\PPT20_EnumIndexChange.exe
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\bin\Debug\net8.0\PPT20_EnumIndexChange.deps.json
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\bin\Debug\net8.0\PPT20_EnumIndexChange.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\bin\Debug\net8.0\PPT20_EnumIndexChange.dll
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\bin\Debug\net8.0\PPT20_EnumIndexChange.pdb
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\PPT20_EnumIndexChange.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\PPT20_EnumIndexChange.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\PPT20_EnumIndexChange.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\PPT20_EnumIndexChange.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\PPT20_EnumIndexChange.dll
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\refint\PPT20_EnumIndexChange.dll
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\PPT20_EnumIndexChange.pdb
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\PPT20_EnumIndexChange.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter23\PPT20_EnumIndexChange\obj\Debug\net8.0\ref\PPT20_EnumIndexChange.dll

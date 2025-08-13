@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\bin\Debug\net8.0\PPT13_FormatExceptionDemo.exe
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\bin\Debug\net8.0\PPT13_FormatExceptionDemo.deps.json
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\bin\Debug\net8.0\PPT13_FormatExceptionDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\bin\Debug\net8.0\PPT13_FormatExceptionDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\bin\Debug\net8.0\PPT13_FormatExceptionDemo.pdb
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\PPT13_FormatExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\PPT13_FormatExceptionDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\PPT13_FormatExceptionDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\PPT13_FormatExceptionDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\PPT13_FormatExceptionDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\refint\PPT13_FormatExceptionDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\PPT13_FormatExceptionDemo.pdb
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\PPT13_FormatExceptionDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter26\PPT13_FormatExceptionDemo\obj\Debug\net8.0\ref\PPT13_FormatExceptionDemo.dll

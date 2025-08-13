@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\bin\Debug\net8.0\PPT68_ArraySumAverage.exe
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\bin\Debug\net8.0\PPT68_ArraySumAverage.deps.json
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\bin\Debug\net8.0\PPT68_ArraySumAverage.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\bin\Debug\net8.0\PPT68_ArraySumAverage.dll
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\bin\Debug\net8.0\PPT68_ArraySumAverage.pdb
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\PPT68_ArraySumAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\PPT68_ArraySumAverage.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\PPT68_ArraySumAverage.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\PPT68_ArraySumAverage.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\PPT68_ArraySumAverage.dll
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\refint\PPT68_ArraySumAverage.dll
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\PPT68_ArraySumAverage.pdb
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\PPT68_ArraySumAverage.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\PPT68_ArraySumAverage\obj\Debug\net8.0\ref\PPT68_ArraySumAverage.dll

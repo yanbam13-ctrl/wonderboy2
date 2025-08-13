@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\bin\Debug\net8.0\PPT07_TryCatch.exe
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\bin\Debug\net8.0\PPT07_TryCatch.deps.json
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\bin\Debug\net8.0\PPT07_TryCatch.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\bin\Debug\net8.0\PPT07_TryCatch.dll
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\bin\Debug\net8.0\PPT07_TryCatch.pdb
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\PPT07_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\PPT07_TryCatch.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\PPT07_TryCatch.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\PPT07_TryCatch.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\PPT07_TryCatch.dll
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\refint\PPT07_TryCatch.dll
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\PPT07_TryCatch.pdb
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\PPT07_TryCatch.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter26\PPT07_TryCatch\obj\Debug\net8.0\ref\PPT07_TryCatch.dll

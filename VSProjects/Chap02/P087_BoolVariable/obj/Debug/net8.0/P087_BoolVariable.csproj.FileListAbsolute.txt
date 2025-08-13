@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\bin\Debug\net8.0\P087_BoolVariable.exe
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\bin\Debug\net8.0\P087_BoolVariable.deps.json
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\bin\Debug\net8.0\P087_BoolVariable.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\bin\Debug\net8.0\P087_BoolVariable.dll
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\bin\Debug\net8.0\P087_BoolVariable.pdb
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\P087_BoolVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\P087_BoolVariable.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\P087_BoolVariable.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\P087_BoolVariable.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\P087_BoolVariable.dll
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\refint\P087_BoolVariable.dll
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\P087_BoolVariable.pdb
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\P087_BoolVariable.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P087_BoolVariable\obj\Debug\net8.0\ref\P087_BoolVariable.dll

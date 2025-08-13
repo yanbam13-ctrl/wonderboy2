@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\bin\Debug\net8.0\P073_BoolBasic.exe
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\bin\Debug\net8.0\P073_BoolBasic.deps.json
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\bin\Debug\net8.0\P073_BoolBasic.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\bin\Debug\net8.0\P073_BoolBasic.dll
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\bin\Debug\net8.0\P073_BoolBasic.pdb
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\P073_BoolBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\P073_BoolBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\P073_BoolBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\P073_BoolBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\P073_BoolBasic.dll
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\refint\P073_BoolBasic.dll
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\P073_BoolBasic.pdb
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\P073_BoolBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P073_BoolBasic\obj\Debug\net8.0\ref\P073_BoolBasic.dll

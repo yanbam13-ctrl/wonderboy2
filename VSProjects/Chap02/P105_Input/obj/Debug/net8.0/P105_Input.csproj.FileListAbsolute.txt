@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P105_Input\bin\Debug\net8.0\P105_Input.exe
+C:\250616JY\VSProjects\Chap02\P105_Input\bin\Debug\net8.0\P105_Input.deps.json
+C:\250616JY\VSProjects\Chap02\P105_Input\bin\Debug\net8.0\P105_Input.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P105_Input\bin\Debug\net8.0\P105_Input.dll
+C:\250616JY\VSProjects\Chap02\P105_Input\bin\Debug\net8.0\P105_Input.pdb
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\P105_Input.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\P105_Input.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\P105_Input.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\P105_Input.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\P105_Input.dll
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\refint\P105_Input.dll
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\P105_Input.pdb
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\P105_Input.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P105_Input\obj\Debug\net8.0\ref\P105_Input.dll

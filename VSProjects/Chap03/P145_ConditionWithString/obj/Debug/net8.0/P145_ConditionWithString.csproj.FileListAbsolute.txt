@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\bin\Debug\net8.0\P145_ConditionWithString.exe
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\bin\Debug\net8.0\P145_ConditionWithString.deps.json
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\bin\Debug\net8.0\P145_ConditionWithString.runtimeconfig.json
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\bin\Debug\net8.0\P145_ConditionWithString.dll
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\bin\Debug\net8.0\P145_ConditionWithString.pdb
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\P145_ConditionWithString.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\P145_ConditionWithString.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\P145_ConditionWithString.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\P145_ConditionWithString.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\P145_ConditionWithString.dll
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\refint\P145_ConditionWithString.dll
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\P145_ConditionWithString.pdb
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\P145_ConditionWithString.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap03\P145_ConditionWithString\obj\Debug\net8.0\ref\P145_ConditionWithString.dll

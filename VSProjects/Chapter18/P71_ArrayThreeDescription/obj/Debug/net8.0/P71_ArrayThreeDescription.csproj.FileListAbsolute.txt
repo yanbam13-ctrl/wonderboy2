@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\bin\Debug\net8.0\P71_ArrayThreeDescription.exe
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\bin\Debug\net8.0\P71_ArrayThreeDescription.deps.json
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\bin\Debug\net8.0\P71_ArrayThreeDescription.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\bin\Debug\net8.0\P71_ArrayThreeDescription.dll
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\bin\Debug\net8.0\P71_ArrayThreeDescription.pdb
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\P71_ArrayThreeDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\P71_ArrayThreeDescription.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\P71_ArrayThreeDescription.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\P71_ArrayThreeDescription.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\P71_ArrayThreeDescription.dll
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\refint\P71_ArrayThreeDescription.dll
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\P71_ArrayThreeDescription.pdb
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\P71_ArrayThreeDescription.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\P71_ArrayThreeDescription\obj\Debug\net8.0\ref\P71_ArrayThreeDescription.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT70_As\bin\Debug\net8.0\PPT70_As.exe
+C:\250616JY\VSProjects\Chater24\PPT70_As\bin\Debug\net8.0\PPT70_As.deps.json
+C:\250616JY\VSProjects\Chater24\PPT70_As\bin\Debug\net8.0\PPT70_As.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT70_As\bin\Debug\net8.0\PPT70_As.dll
+C:\250616JY\VSProjects\Chater24\PPT70_As\bin\Debug\net8.0\PPT70_As.pdb
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\PPT70_As.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\PPT70_As.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\PPT70_As.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\PPT70_As.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\PPT70_As.dll
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\refint\PPT70_As.dll
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\PPT70_As.pdb
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\PPT70_As.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT70_As\obj\Debug\net8.0\ref\PPT70_As.dll

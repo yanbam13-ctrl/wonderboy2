@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\bin\Debug\net8.0\P157_LoopSummary.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\bin\Debug\net8.0\P157_LoopSummary.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\bin\Debug\net8.0\P157_LoopSummary.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\bin\Debug\net8.0\P157_LoopSummary.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\bin\Debug\net8.0\P157_LoopSummary.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\P157_LoopSummary.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\P157_LoopSummary.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\P157_LoopSummary.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\P157_LoopSummary.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\P157_LoopSummary.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\refint\P157_LoopSummary.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\P157_LoopSummary.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\P157_LoopSummary.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P157_LoopSummary\obj\Debug\net8.0\ref\P157_LoopSummary.dll

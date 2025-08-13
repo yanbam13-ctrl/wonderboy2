@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\bin\Debug\net8.0\P168_KoreanCharacters.exe
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\bin\Debug\net8.0\P168_KoreanCharacters.deps.json
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\bin\Debug\net8.0\P168_KoreanCharacters.runtimeconfig.json
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\bin\Debug\net8.0\P168_KoreanCharacters.dll
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\bin\Debug\net8.0\P168_KoreanCharacters.pdb
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\P168_KoreanCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\P168_KoreanCharacters.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\P168_KoreanCharacters.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\P168_KoreanCharacters.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\P168_KoreanCharacters.dll
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\refint\P168_KoreanCharacters.dll
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\P168_KoreanCharacters.pdb
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\P168_KoreanCharacters.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap04\P168_KoreanCharacters\obj\Debug\net8.0\ref\P168_KoreanCharacters.dll

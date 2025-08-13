@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\bin\Debug\net8.0\PPT72_AsDemo.exe
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\bin\Debug\net8.0\PPT72_AsDemo.deps.json
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\bin\Debug\net8.0\PPT72_AsDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\bin\Debug\net8.0\PPT72_AsDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\bin\Debug\net8.0\PPT72_AsDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\PPT72_AsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\PPT72_AsDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\PPT72_AsDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\PPT72_AsDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\PPT72_AsDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\refint\PPT72_AsDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\PPT72_AsDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\PPT72_AsDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT72_AsDemo\obj\Debug\net8.0\ref\PPT72_AsDemo.dll

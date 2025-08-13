@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\bin\Debug\net8.0\P167_SumWithFor.exe
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\bin\Debug\net8.0\P167_SumWithFor.deps.json
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\bin\Debug\net8.0\P167_SumWithFor.runtimeconfig.json
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\bin\Debug\net8.0\P167_SumWithFor.dll
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\bin\Debug\net8.0\P167_SumWithFor.pdb
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\P167_SumWithFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\P167_SumWithFor.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\P167_SumWithFor.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\P167_SumWithFor.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\P167_SumWithFor.dll
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\refint\P167_SumWithFor.dll
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\P167_SumWithFor.pdb
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\P167_SumWithFor.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap04\P167_SumWithFor\obj\Debug\net8.0\ref\P167_SumWithFor.dll

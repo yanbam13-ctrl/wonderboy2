@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT51_RegexDemo/1.0.0": {
+        "runtime": {
+          "PPT51_RegexDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT51_RegexDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

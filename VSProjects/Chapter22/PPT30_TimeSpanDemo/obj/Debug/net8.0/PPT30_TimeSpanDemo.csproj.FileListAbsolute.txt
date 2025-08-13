@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\bin\Debug\net8.0\PPT30_TimeSpanDemo.exe
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\bin\Debug\net8.0\PPT30_TimeSpanDemo.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\bin\Debug\net8.0\PPT30_TimeSpanDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\bin\Debug\net8.0\PPT30_TimeSpanDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\bin\Debug\net8.0\PPT30_TimeSpanDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\PPT30_TimeSpanDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\PPT30_TimeSpanDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\PPT30_TimeSpanDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\PPT30_TimeSpanDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\PPT30_TimeSpanDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\refint\PPT30_TimeSpanDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\PPT30_TimeSpanDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\PPT30_TimeSpanDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT30_TimeSpanDemo\obj\Debug\net8.0\ref\PPT30_TimeSpanDemo.dll

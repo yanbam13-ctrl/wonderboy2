@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\bin\Debug\net8.0\PPT03_ConsoleColorDemo.exe
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\bin\Debug\net8.0\PPT03_ConsoleColorDemo.deps.json
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\bin\Debug\net8.0\PPT03_ConsoleColorDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\bin\Debug\net8.0\PPT03_ConsoleColorDemo.dll
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\bin\Debug\net8.0\PPT03_ConsoleColorDemo.pdb
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\PPT03_ConsoleColorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\PPT03_ConsoleColorDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\PPT03_ConsoleColorDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\PPT03_ConsoleColorDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\PPT03_ConsoleColorDemo.dll
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\refint\PPT03_ConsoleColorDemo.dll
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\PPT03_ConsoleColorDemo.pdb
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\PPT03_ConsoleColorDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter23\PPT03_ConsoleColorDemo\obj\Debug\net8.0\ref\PPT03_ConsoleColorDemo.dll

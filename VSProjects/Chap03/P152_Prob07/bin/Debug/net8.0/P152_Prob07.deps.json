@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P152_Prob07/1.0.0": {
+        "runtime": {
+          "P152_Prob07.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P152_Prob07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

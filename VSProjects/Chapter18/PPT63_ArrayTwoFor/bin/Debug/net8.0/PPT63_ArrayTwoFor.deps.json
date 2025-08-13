@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT63_ArrayTwoFor/1.0.0": {
+        "runtime": {
+          "PPT63_ArrayTwoFor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT63_ArrayTwoFor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

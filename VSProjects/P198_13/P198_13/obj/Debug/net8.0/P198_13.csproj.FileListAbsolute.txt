@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P198_13\P198_13\bin\Debug\net8.0\P198_13.exe
+C:\250616JY\VSProjects\P198_13\P198_13\bin\Debug\net8.0\P198_13.deps.json
+C:\250616JY\VSProjects\P198_13\P198_13\bin\Debug\net8.0\P198_13.runtimeconfig.json
+C:\250616JY\VSProjects\P198_13\P198_13\bin\Debug\net8.0\P198_13.dll
+C:\250616JY\VSProjects\P198_13\P198_13\bin\Debug\net8.0\P198_13.pdb
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\P198_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\P198_13.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\P198_13.AssemblyInfo.cs
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\P198_13.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\P198_13.dll
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\refint\P198_13.dll
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\P198_13.pdb
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\P198_13.genruntimeconfig.cache
+C:\250616JY\VSProjects\P198_13\P198_13\obj\Debug\net8.0\ref\P198_13.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\bin\Debug\net8.0\PPT37_CharStruct.exe
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\bin\Debug\net8.0\PPT37_CharStruct.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\bin\Debug\net8.0\PPT37_CharStruct.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\bin\Debug\net8.0\PPT37_CharStruct.dll
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\bin\Debug\net8.0\PPT37_CharStruct.pdb
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\PPT37_CharStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\PPT37_CharStruct.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\PPT37_CharStruct.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\PPT37_CharStruct.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\PPT37_CharStruct.dll
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\refint\PPT37_CharStruct.dll
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\PPT37_CharStruct.pdb
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\PPT37_CharStruct.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT37_CharStruct\obj\Debug\net8.0\ref\PPT37_CharStruct.dll

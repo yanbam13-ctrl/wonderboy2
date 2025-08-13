@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\bin\Debug\net8.0\P092_StringAssignmentOperator.exe
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\bin\Debug\net8.0\P092_StringAssignmentOperator.deps.json
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\bin\Debug\net8.0\P092_StringAssignmentOperator.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\bin\Debug\net8.0\P092_StringAssignmentOperator.dll
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\bin\Debug\net8.0\P092_StringAssignmentOperator.pdb
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\P092_StringAssignmentOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\P092_StringAssignmentOperator.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\P092_StringAssignmentOperator.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\P092_StringAssignmentOperator.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\P092_StringAssignmentOperator.dll
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\refint\P092_StringAssignmentOperator.dll
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\P092_StringAssignmentOperator.pdb
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\P092_StringAssignmentOperator.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P092_StringAssignmentOperator\obj\Debug\net8.0\ref\P092_StringAssignmentOperator.dll

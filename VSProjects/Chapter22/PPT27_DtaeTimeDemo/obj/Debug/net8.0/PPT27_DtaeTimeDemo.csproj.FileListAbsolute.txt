@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\bin\Debug\net8.0\PPT27_DtaeTimeDemo.exe
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\bin\Debug\net8.0\PPT27_DtaeTimeDemo.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\bin\Debug\net8.0\PPT27_DtaeTimeDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\bin\Debug\net8.0\PPT27_DtaeTimeDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\bin\Debug\net8.0\PPT27_DtaeTimeDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\PPT27_DtaeTimeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\PPT27_DtaeTimeDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\PPT27_DtaeTimeDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\PPT27_DtaeTimeDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\PPT27_DtaeTimeDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\refint\PPT27_DtaeTimeDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\PPT27_DtaeTimeDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\PPT27_DtaeTimeDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT27_DtaeTimeDemo\obj\Debug\net8.0\ref\PPT27_DtaeTimeDemo.dll

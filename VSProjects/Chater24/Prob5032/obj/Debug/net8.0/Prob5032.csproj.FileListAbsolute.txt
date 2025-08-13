@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\Prob5032\bin\Debug\net8.0\Prob5032.exe
+C:\250616JY\VSProjects\Chater24\Prob5032\bin\Debug\net8.0\Prob5032.deps.json
+C:\250616JY\VSProjects\Chater24\Prob5032\bin\Debug\net8.0\Prob5032.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\Prob5032\bin\Debug\net8.0\Prob5032.dll
+C:\250616JY\VSProjects\Chater24\Prob5032\bin\Debug\net8.0\Prob5032.pdb
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\Prob5032.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\Prob5032.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\Prob5032.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\Prob5032.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\Prob5032.dll
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\refint\Prob5032.dll
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\Prob5032.pdb
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\Prob5032.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\Prob5032\obj\Debug\net8.0\ref\Prob5032.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\bin\Debug\net8.0\P071_StringConnection.exe
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\bin\Debug\net8.0\P071_StringConnection.deps.json
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\bin\Debug\net8.0\P071_StringConnection.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\bin\Debug\net8.0\P071_StringConnection.dll
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\bin\Debug\net8.0\P071_StringConnection.pdb
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\P071_StringConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\P071_StringConnection.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\P071_StringConnection.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\P071_StringConnection.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\P071_StringConnection.dll
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\refint\P071_StringConnection.dll
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\P071_StringConnection.pdb
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\P071_StringConnection.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P071_StringConnect\obj\Debug\net8.0\ref\P071_StringConnection.dll

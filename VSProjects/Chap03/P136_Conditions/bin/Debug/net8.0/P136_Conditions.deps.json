@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P136_Conditions/1.0.0": {
+        "runtime": {
+          "P136_Conditions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P136_Conditions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

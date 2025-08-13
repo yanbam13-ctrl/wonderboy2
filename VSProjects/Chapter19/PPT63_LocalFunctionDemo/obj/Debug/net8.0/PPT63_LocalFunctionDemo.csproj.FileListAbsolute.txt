@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\bin\Debug\net8.0\PPT63_LocalFunctionDemo.exe
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\bin\Debug\net8.0\PPT63_LocalFunctionDemo.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\bin\Debug\net8.0\PPT63_LocalFunctionDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\bin\Debug\net8.0\PPT63_LocalFunctionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\bin\Debug\net8.0\PPT63_LocalFunctionDemo.pdb
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\PPT63_LocalFunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\PPT63_LocalFunctionDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\PPT63_LocalFunctionDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\PPT63_LocalFunctionDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\PPT63_LocalFunctionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\refint\PPT63_LocalFunctionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\PPT63_LocalFunctionDemo.pdb
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\PPT63_LocalFunctionDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT63_LocalFunctionDemo\obj\Debug\net8.0\ref\PPT63_LocalFunctionDemo.dll

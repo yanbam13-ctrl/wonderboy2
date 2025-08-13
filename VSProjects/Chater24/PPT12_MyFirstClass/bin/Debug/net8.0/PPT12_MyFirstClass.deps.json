@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT12_MyFirstClass/1.0.0": {
+        "runtime": {
+          "PPT12_MyFirstClass.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT12_MyFirstClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

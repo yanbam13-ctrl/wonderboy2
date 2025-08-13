@@ -1,0 +1,68 @@
+using System.Collections;
+using System.Collections.Generic;
+using Unity.VisualScripting;
+using UnityEngine;
+
+public class PlayerMove : MonoBehaviour
+{
+    //이동 속도 변수
+    public float moveSpeed = 7f;
+
+    //캐릭터 컨트롤러 변수
+    CharacterController cc;
+
+    //중력 변수
+    float gravity = -20f;
+
+    //수직 속력 변수 
+    float yVelocity = 0;
+
+    //점프력 변수
+    public float jumpPower = 10f;
+
+    //점프 상태 변수
+    public bool isJumping = false;
+
+    private void Start()
+    {
+        //캐릭터 컨트롤러 컴포넌트 받아옴
+        cc = GetComponent<CharacterController>();
+    }
+
+    private void Update()
+    {
+        //키보드 W, A, S, D 버튼을 입력하면 캐릭터를 그 방향으로 이동시키고 싶다.
+
+        //1.사용자의 입력을 받는다.
+        float h = Input.GetAxis("Horizontal");
+        float v = Input.GetAxis("Vertical");
+
+        //2.이동 방향을 설정한다.
+        Vector3 dir = new Vector3(h, 0, v);
+        dir = dir.normalized;
+
+        //2-1.메인 카메라를 기준으로 방향을 변환한다.
+        dir = Camera.main.transform.TransformDirection(dir);
+
+        //2-2 만일, 키보드 spacebar 버튼을 입력했다면
+        //if (Input.GetButtonDown("Jump"))
+        //{
+        //    yVelocity = jumpPower;
+            
+        //}
+
+        //2-3. 캐릭터 수직 속도에 중력 값을 적용
+        yVelocity += gravity * Time.deltaTime;
+        dir.y = yVelocity;
+
+        //3. 이동 속도에 맞춰 이동한다.
+        //p=p0 + vt
+        // 강제로 위치이동 하기 때문에 player가 아래로 떨이지게 됨
+        //transform.position += dir * moveSpeed * Time.deltaTime;
+
+        //그래서 캐릭터 컨트롤러를 사용
+
+        cc.Move(dir * moveSpeed * Time.deltaTime);
+        
+    }
+}

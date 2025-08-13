@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\bin\Debug\net8.0\P163_WhileBasic.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\bin\Debug\net8.0\P163_WhileBasic.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\bin\Debug\net8.0\P163_WhileBasic.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\bin\Debug\net8.0\P163_WhileBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\bin\Debug\net8.0\P163_WhileBasic.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\P163_WhileBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\P163_WhileBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\P163_WhileBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\P163_WhileBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\P163_WhileBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\refint\P163_WhileBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\P163_WhileBasic.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\P163_WhileBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P163_WhileBasic\obj\Debug\net8.0\ref\P163_WhileBasic.dll

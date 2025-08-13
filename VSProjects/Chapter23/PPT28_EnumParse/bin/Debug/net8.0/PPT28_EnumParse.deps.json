@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT28_EnumParse/1.0.0": {
+        "runtime": {
+          "PPT28_EnumParse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT28_EnumParse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\bin\Debug\net8.0\PPT_10_ExceptionDemo.exe
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\bin\Debug\net8.0\PPT_10_ExceptionDemo.deps.json
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\bin\Debug\net8.0\PPT_10_ExceptionDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\bin\Debug\net8.0\PPT_10_ExceptionDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\bin\Debug\net8.0\PPT_10_ExceptionDemo.pdb
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\PPT_10_ExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\PPT_10_ExceptionDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\PPT_10_ExceptionDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\PPT_10_ExceptionDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\PPT_10_ExceptionDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\refint\PPT_10_ExceptionDemo.dll
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\PPT_10_ExceptionDemo.pdb
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\PPT_10_ExceptionDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter26\PPT_10_ExceptionDemo\obj\Debug\net8.0\ref\PPT_10_ExceptionDemo.dll

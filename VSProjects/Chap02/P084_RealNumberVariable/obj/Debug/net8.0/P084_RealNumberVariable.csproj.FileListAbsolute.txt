@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\bin\Debug\net8.0\P084_RealNumberVariable.exe
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\bin\Debug\net8.0\P084_RealNumberVariable.deps.json
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\bin\Debug\net8.0\P084_RealNumberVariable.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\bin\Debug\net8.0\P084_RealNumberVariable.dll
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\bin\Debug\net8.0\P084_RealNumberVariable.pdb
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\P084_RealNumberVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\P084_RealNumberVariable.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\P084_RealNumberVariable.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\P084_RealNumberVariable.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\P084_RealNumberVariable.dll
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\refint\P084_RealNumberVariable.dll
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\P084_RealNumberVariable.pdb
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\P084_RealNumberVariable.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P084_RealNumberVariable\obj\Debug\net8.0\ref\P084_RealNumberVariable.dll

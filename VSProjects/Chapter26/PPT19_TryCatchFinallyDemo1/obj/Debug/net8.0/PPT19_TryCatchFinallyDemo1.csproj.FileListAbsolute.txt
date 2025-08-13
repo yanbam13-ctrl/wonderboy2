@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\bin\Debug\net8.0\PPT19_TryCatchFinallyDemo1.exe
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\bin\Debug\net8.0\PPT19_TryCatchFinallyDemo1.deps.json
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\bin\Debug\net8.0\PPT19_TryCatchFinallyDemo1.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\bin\Debug\net8.0\PPT19_TryCatchFinallyDemo1.dll
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\bin\Debug\net8.0\PPT19_TryCatchFinallyDemo1.pdb
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\PPT19_TryCatchFinallyDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\PPT19_TryCatchFinallyDemo1.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\PPT19_TryCatchFinallyDemo1.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\PPT19_TryCatchFinallyDemo1.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\PPT19_TryCatchFinallyDemo1.dll
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\refint\PPT19_TryCatchFinallyDemo1.dll
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\PPT19_TryCatchFinallyDemo1.pdb
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\PPT19_TryCatchFinallyDemo1.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter26\PPT19_TryCatchFinallyDemo1\obj\Debug\net8.0\ref\PPT19_TryCatchFinallyDemo1.dll

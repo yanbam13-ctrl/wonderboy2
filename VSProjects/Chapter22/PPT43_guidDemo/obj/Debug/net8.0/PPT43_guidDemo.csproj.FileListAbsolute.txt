@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\bin\Debug\net8.0\PPT43_guidDemo.exe
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\bin\Debug\net8.0\PPT43_guidDemo.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\bin\Debug\net8.0\PPT43_guidDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\bin\Debug\net8.0\PPT43_guidDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\bin\Debug\net8.0\PPT43_guidDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\PPT43_guidDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\PPT43_guidDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\PPT43_guidDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\PPT43_guidDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\PPT43_guidDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\refint\PPT43_guidDemo.dll
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\PPT43_guidDemo.pdb
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\PPT43_guidDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT43_guidDemo\obj\Debug\net8.0\ref\PPT43_guidDemo.dll

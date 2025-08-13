@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\bin\Debug\net8.0\P179_ContinueBasic.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\bin\Debug\net8.0\P179_ContinueBasic.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\bin\Debug\net8.0\P179_ContinueBasic.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\bin\Debug\net8.0\P179_ContinueBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\bin\Debug\net8.0\P179_ContinueBasic.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\P179_ContinueBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\P179_ContinueBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\P179_ContinueBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\P179_ContinueBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\P179_ContinueBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\refint\P179_ContinueBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\P179_ContinueBasic.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\P179_ContinueBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P179_ContinueBasic\obj\Debug\net8.0\ref\P179_ContinueBasic.dll

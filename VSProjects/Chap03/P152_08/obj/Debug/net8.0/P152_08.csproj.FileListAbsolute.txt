@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap03\P152_08\bin\Debug\net8.0\P152_08.exe
+C:\250616JY\VSProjects\Chap03\P152_08\bin\Debug\net8.0\P152_08.deps.json
+C:\250616JY\VSProjects\Chap03\P152_08\bin\Debug\net8.0\P152_08.runtimeconfig.json
+C:\250616JY\VSProjects\Chap03\P152_08\bin\Debug\net8.0\P152_08.dll
+C:\250616JY\VSProjects\Chap03\P152_08\bin\Debug\net8.0\P152_08.pdb
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\P152_08.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\P152_08.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\P152_08.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\P152_08.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\P152_08.dll
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\refint\P152_08.dll
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\P152_08.pdb
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\P152_08.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap03\P152_08\obj\Debug\net8.0\ref\P152_08.dll

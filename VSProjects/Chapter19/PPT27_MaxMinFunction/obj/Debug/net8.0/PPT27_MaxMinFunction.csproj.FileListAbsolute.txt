@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\bin\Debug\net8.0\PPT27_MaxMinFunction.exe
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\bin\Debug\net8.0\PPT27_MaxMinFunction.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\bin\Debug\net8.0\PPT27_MaxMinFunction.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\bin\Debug\net8.0\PPT27_MaxMinFunction.dll
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\bin\Debug\net8.0\PPT27_MaxMinFunction.pdb
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\PPT27_MaxMinFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\PPT27_MaxMinFunction.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\PPT27_MaxMinFunction.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\PPT27_MaxMinFunction.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\PPT27_MaxMinFunction.dll
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\refint\PPT27_MaxMinFunction.dll
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\PPT27_MaxMinFunction.pdb
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\PPT27_MaxMinFunction.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT27_MaxMinFunction\obj\Debug\net8.0\ref\PPT27_MaxMinFunction.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\bin\Debug\net8.0\PPT48_RecursionDemo.exe
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\bin\Debug\net8.0\PPT48_RecursionDemo.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\bin\Debug\net8.0\PPT48_RecursionDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\bin\Debug\net8.0\PPT48_RecursionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\bin\Debug\net8.0\PPT48_RecursionDemo.pdb
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\PPT48_RecursionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\PPT48_RecursionDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\PPT48_RecursionDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\PPT48_RecursionDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\PPT48_RecursionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\refint\PPT48_RecursionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\PPT48_RecursionDemo.pdb
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\PPT48_RecursionDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT48_RecursionDemo\obj\Debug\net8.0\ref\PPT48_RecursionDemo.dll

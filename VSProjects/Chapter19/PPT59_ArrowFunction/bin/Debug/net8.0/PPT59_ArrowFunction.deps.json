@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT59_ArrowFunction/1.0.0": {
+        "runtime": {
+          "PPT59_ArrowFunction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT59_ArrowFunction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

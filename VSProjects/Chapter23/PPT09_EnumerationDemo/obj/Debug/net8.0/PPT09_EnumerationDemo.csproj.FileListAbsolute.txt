@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\bin\Debug\net8.0\PPT09_EnumerationDemo.exe
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\bin\Debug\net8.0\PPT09_EnumerationDemo.deps.json
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\bin\Debug\net8.0\PPT09_EnumerationDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\bin\Debug\net8.0\PPT09_EnumerationDemo.dll
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\bin\Debug\net8.0\PPT09_EnumerationDemo.pdb
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\PPT09_EnumerationDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\PPT09_EnumerationDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\PPT09_EnumerationDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\PPT09_EnumerationDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\PPT09_EnumerationDemo.dll
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\refint\PPT09_EnumerationDemo.dll
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\PPT09_EnumerationDemo.pdb
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\PPT09_EnumerationDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter23\PPT09_EnumerationDemo\obj\Debug\net8.0\ref\PPT09_EnumerationDemo.dll

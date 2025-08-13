@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\Prob15781\bin\Debug\net8.0\Prob15781.exe
+C:\250616JY\VSProjects\Chater24\Prob15781\bin\Debug\net8.0\Prob15781.deps.json
+C:\250616JY\VSProjects\Chater24\Prob15781\bin\Debug\net8.0\Prob15781.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\Prob15781\bin\Debug\net8.0\Prob15781.dll
+C:\250616JY\VSProjects\Chater24\Prob15781\bin\Debug\net8.0\Prob15781.pdb
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\Prob15781.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\Prob15781.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\Prob15781.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\Prob15781.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\Prob15781.dll
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\refint\Prob15781.dll
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\Prob15781.pdb
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\Prob15781.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\Prob15781\obj\Debug\net8.0\ref\Prob15781.dll

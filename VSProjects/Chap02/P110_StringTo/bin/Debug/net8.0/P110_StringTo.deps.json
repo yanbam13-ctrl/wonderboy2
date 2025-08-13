@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P110_StringTo/1.0.0": {
+        "runtime": {
+          "P110_StringTo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P110_StringTo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

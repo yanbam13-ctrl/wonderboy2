@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Baekjoon\Prob5800\bin\Debug\net8.0\Prob5800.exe
+C:\250616JY\VSProjects\Baekjoon\Prob5800\bin\Debug\net8.0\Prob5800.deps.json
+C:\250616JY\VSProjects\Baekjoon\Prob5800\bin\Debug\net8.0\Prob5800.runtimeconfig.json
+C:\250616JY\VSProjects\Baekjoon\Prob5800\bin\Debug\net8.0\Prob5800.dll
+C:\250616JY\VSProjects\Baekjoon\Prob5800\bin\Debug\net8.0\Prob5800.pdb
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\Prob5800.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\Prob5800.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\Prob5800.AssemblyInfo.cs
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\Prob5800.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\Prob5800.dll
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\refint\Prob5800.dll
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\Prob5800.pdb
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\Prob5800.genruntimeconfig.cache
+C:\250616JY\VSProjects\Baekjoon\Prob5800\obj\Debug\net8.0\ref\Prob5800.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\bin\Debug\net8.0\P177_BreakBasic.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\bin\Debug\net8.0\P177_BreakBasic.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\bin\Debug\net8.0\P177_BreakBasic.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\bin\Debug\net8.0\P177_BreakBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\bin\Debug\net8.0\P177_BreakBasic.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\P177_BreakBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\P177_BreakBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\P177_BreakBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\P177_BreakBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\P177_BreakBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\refint\P177_BreakBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\P177_BreakBasic.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\P177_BreakBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P177_BreakBasic\obj\Debug\net8.0\ref\P177_BreakBasic.dll

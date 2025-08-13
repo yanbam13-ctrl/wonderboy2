@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\bin\Debug\net8.0\P112_ToStringBasic.exe
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\bin\Debug\net8.0\P112_ToStringBasic.deps.json
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\bin\Debug\net8.0\P112_ToStringBasic.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\bin\Debug\net8.0\P112_ToStringBasic.dll
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\bin\Debug\net8.0\P112_ToStringBasic.pdb
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\P112_ToStringBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\P112_ToStringBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\P112_ToStringBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\P112_ToStringBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\P112_ToStringBasic.dll
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\refint\P112_ToStringBasic.dll
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\P112_ToStringBasic.pdb
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\P112_ToStringBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P112_ToStringBasic\obj\Debug\net8.0\ref\P112_ToStringBasic.dll

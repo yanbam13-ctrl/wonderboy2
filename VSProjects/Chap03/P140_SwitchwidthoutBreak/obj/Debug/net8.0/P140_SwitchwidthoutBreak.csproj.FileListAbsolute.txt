@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\bin\Debug\net8.0\P140_SwitchwidthoutBreak.exe
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\bin\Debug\net8.0\P140_SwitchwidthoutBreak.deps.json
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\bin\Debug\net8.0\P140_SwitchwidthoutBreak.runtimeconfig.json
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\bin\Debug\net8.0\P140_SwitchwidthoutBreak.dll
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\bin\Debug\net8.0\P140_SwitchwidthoutBreak.pdb
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\P140_SwitchwidthoutBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\P140_SwitchwidthoutBreak.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\P140_SwitchwidthoutBreak.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\P140_SwitchwidthoutBreak.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\P140_SwitchwidthoutBreak.dll
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\refint\P140_SwitchwidthoutBreak.dll
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\P140_SwitchwidthoutBreak.pdb
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\P140_SwitchwidthoutBreak.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap03\P140_SwitchwidthoutBreak\obj\Debug\net8.0\ref\P140_SwitchwidthoutBreak.dll

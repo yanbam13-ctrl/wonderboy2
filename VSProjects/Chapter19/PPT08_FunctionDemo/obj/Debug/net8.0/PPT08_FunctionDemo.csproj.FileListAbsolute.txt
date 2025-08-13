@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\bin\Debug\net8.0\PPT08_FunctionDemo.exe
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\bin\Debug\net8.0\PPT08_FunctionDemo.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\bin\Debug\net8.0\PPT08_FunctionDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\bin\Debug\net8.0\PPT08_FunctionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\bin\Debug\net8.0\PPT08_FunctionDemo.pdb
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\PPT08_FunctionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\PPT08_FunctionDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\PPT08_FunctionDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\PPT08_FunctionDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\PPT08_FunctionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\refint\PPT08_FunctionDemo.dll
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\PPT08_FunctionDemo.pdb
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\PPT08_FunctionDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT08_FunctionDemo\obj\Debug\net8.0\ref\PPT08_FunctionDemo.dll

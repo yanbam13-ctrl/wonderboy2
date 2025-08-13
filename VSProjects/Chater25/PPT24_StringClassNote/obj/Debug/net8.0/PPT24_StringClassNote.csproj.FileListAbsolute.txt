@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\bin\Debug\net8.0\PPT24_StringClassNote.exe
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\bin\Debug\net8.0\PPT24_StringClassNote.deps.json
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\bin\Debug\net8.0\PPT24_StringClassNote.runtimeconfig.json
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\bin\Debug\net8.0\PPT24_StringClassNote.dll
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\bin\Debug\net8.0\PPT24_StringClassNote.pdb
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\PPT24_StringClassNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\PPT24_StringClassNote.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\PPT24_StringClassNote.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\PPT24_StringClassNote.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\PPT24_StringClassNote.dll
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\refint\PPT24_StringClassNote.dll
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\PPT24_StringClassNote.pdb
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\PPT24_StringClassNote.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater25\PPT24_StringClassNote\obj\Debug\net8.0\ref\PPT24_StringClassNote.dll

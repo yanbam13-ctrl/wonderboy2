@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P189_SwitchWithWhile/1.0.0": {
+        "runtime": {
+          "P189_SwitchWithWhile.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P189_SwitchWithWhile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

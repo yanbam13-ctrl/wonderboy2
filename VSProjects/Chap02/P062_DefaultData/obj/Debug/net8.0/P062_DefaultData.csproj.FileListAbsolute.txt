@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\bin\Debug\net8.0\P062_DefaultData.exe
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\bin\Debug\net8.0\P062_DefaultData.deps.json
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\bin\Debug\net8.0\P062_DefaultData.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\bin\Debug\net8.0\P062_DefaultData.dll
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\bin\Debug\net8.0\P062_DefaultData.pdb
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\P062_DefaultData.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\P062_DefaultData.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\P062_DefaultData.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\P062_DefaultData.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\P062_DefaultData.dll
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\refint\P062_DefaultData.dll
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\P062_DefaultData.pdb
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\P062_DefaultData.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P062_DefaultData\obj\Debug\net8.0\ref\P062_DefaultData.dll

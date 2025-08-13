@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\bin\Debug\net8.0\PPT13_UsingStaticClassDemo.exe
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\bin\Debug\net8.0\PPT13_UsingStaticClassDemo.deps.json
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\bin\Debug\net8.0\PPT13_UsingStaticClassDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\bin\Debug\net8.0\PPT13_UsingStaticClassDemo.dll
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\bin\Debug\net8.0\PPT13_UsingStaticClassDemo.pdb
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\PPT13_UsingStaticClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\PPT13_UsingStaticClassDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\PPT13_UsingStaticClassDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\PPT13_UsingStaticClassDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\PPT13_UsingStaticClassDemo.dll
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\refint\PPT13_UsingStaticClassDemo.dll
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\PPT13_UsingStaticClassDemo.pdb
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\PPT13_UsingStaticClassDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter21\PPT13_UsingStaticClassDemo\obj\Debug\net8.0\ref\PPT13_UsingStaticClassDemo.dll

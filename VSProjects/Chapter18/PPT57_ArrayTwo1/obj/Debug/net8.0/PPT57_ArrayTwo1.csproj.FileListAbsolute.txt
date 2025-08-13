@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\bin\Debug\net8.0\PPT57_ArrayTwo1.exe
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\bin\Debug\net8.0\PPT57_ArrayTwo1.deps.json
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\bin\Debug\net8.0\PPT57_ArrayTwo1.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\bin\Debug\net8.0\PPT57_ArrayTwo1.dll
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\bin\Debug\net8.0\PPT57_ArrayTwo1.pdb
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\PPT57_ArrayTwo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\PPT57_ArrayTwo1.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\PPT57_ArrayTwo1.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\PPT57_ArrayTwo1.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\PPT57_ArrayTwo1.dll
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\refint\PPT57_ArrayTwo1.dll
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\PPT57_ArrayTwo1.pdb
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\PPT57_ArrayTwo1.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\PPT57_ArrayTwo1\obj\Debug\net8.0\ref\PPT57_ArrayTwo1.dll

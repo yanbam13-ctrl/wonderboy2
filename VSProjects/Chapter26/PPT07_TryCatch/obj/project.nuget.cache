@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "No8d0kGpr2I=",
+  "success": true,
+  "projectFilePath": "C:\\250616JY\\VSProjects\\Chapter26\\PPT07_TryCatch\\PPT07_TryCatch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WD\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.17\\microsoft.dotnet.ilcompiler.8.0.17.nupkg.sha512",
+    "C:\\Users\\WD\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.17\\microsoft.net.illink.tasks.8.0.17.nupkg.sha512",
+    "C:\\Users\\WD\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.17\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\bin\Debug\net8.0\P186_MovingAt.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\bin\Debug\net8.0\P186_MovingAt.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\bin\Debug\net8.0\P186_MovingAt.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\bin\Debug\net8.0\P186_MovingAt.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\bin\Debug\net8.0\P186_MovingAt.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\P186_MovingAt.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\P186_MovingAt.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\P186_MovingAt.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\P186_MovingAt.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\P186_MovingAt.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\refint\P186_MovingAt.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\P186_MovingAt.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\P186_MovingAt.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P186_MovingAt\obj\Debug\net8.0\ref\P186_MovingAt.dll

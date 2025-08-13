@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\bin\Debug\net8.0\P158_Arrays.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\bin\Debug\net8.0\P158_Arrays.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\bin\Debug\net8.0\P158_Arrays.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\bin\Debug\net8.0\P158_Arrays.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\bin\Debug\net8.0\P158_Arrays.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\P158_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\P158_Arrays.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\P158_Arrays.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\P158_Arrays.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\P158_Arrays.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\refint\P158_Arrays.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\P158_Arrays.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\P158_Arrays.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P158_Arrays\obj\Debug\net8.0\ref\P158_Arrays.dll

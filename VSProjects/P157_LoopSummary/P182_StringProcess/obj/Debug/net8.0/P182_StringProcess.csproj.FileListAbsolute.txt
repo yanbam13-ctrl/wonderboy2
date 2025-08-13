@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\bin\Debug\net8.0\P182_StringProcess.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\bin\Debug\net8.0\P182_StringProcess.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\bin\Debug\net8.0\P182_StringProcess.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\bin\Debug\net8.0\P182_StringProcess.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\bin\Debug\net8.0\P182_StringProcess.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\P182_StringProcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\P182_StringProcess.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\P182_StringProcess.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\P182_StringProcess.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\P182_StringProcess.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\refint\P182_StringProcess.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\P182_StringProcess.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\P182_StringProcess.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P182_StringProcess\obj\Debug\net8.0\ref\P182_StringProcess.dll

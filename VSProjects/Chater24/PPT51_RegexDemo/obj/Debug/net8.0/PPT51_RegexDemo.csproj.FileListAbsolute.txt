@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\bin\Debug\net8.0\PPT51_RegexDemo.exe
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\bin\Debug\net8.0\PPT51_RegexDemo.deps.json
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\bin\Debug\net8.0\PPT51_RegexDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\bin\Debug\net8.0\PPT51_RegexDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\bin\Debug\net8.0\PPT51_RegexDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\PPT51_RegexDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\PPT51_RegexDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\PPT51_RegexDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\PPT51_RegexDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\PPT51_RegexDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\refint\PPT51_RegexDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\PPT51_RegexDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\PPT51_RegexDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT51_RegexDemo\obj\Debug\net8.0\ref\PPT51_RegexDemo.dll

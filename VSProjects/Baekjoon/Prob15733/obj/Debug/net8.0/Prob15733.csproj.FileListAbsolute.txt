@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Baekjoon\Prob15733\bin\Debug\net8.0\Prob15733.exe
+C:\250616JY\VSProjects\Baekjoon\Prob15733\bin\Debug\net8.0\Prob15733.deps.json
+C:\250616JY\VSProjects\Baekjoon\Prob15733\bin\Debug\net8.0\Prob15733.runtimeconfig.json
+C:\250616JY\VSProjects\Baekjoon\Prob15733\bin\Debug\net8.0\Prob15733.dll
+C:\250616JY\VSProjects\Baekjoon\Prob15733\bin\Debug\net8.0\Prob15733.pdb
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\Prob15733.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\Prob15733.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\Prob15733.AssemblyInfo.cs
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\Prob15733.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\Prob15733.dll
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\refint\Prob15733.dll
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\Prob15733.pdb
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\Prob15733.genruntimeconfig.cache
+C:\250616JY\VSProjects\Baekjoon\Prob15733\obj\Debug\net8.0\ref\Prob15733.dll

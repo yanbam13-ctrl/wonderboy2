@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\bin\Debug\net8.0\PPT68_CommandLineArgument.exe
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\bin\Debug\net8.0\PPT68_CommandLineArgument.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\bin\Debug\net8.0\PPT68_CommandLineArgument.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\bin\Debug\net8.0\PPT68_CommandLineArgument.dll
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\bin\Debug\net8.0\PPT68_CommandLineArgument.pdb
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\PPT68_CommandLineArgument.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\PPT68_CommandLineArgument.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\PPT68_CommandLineArgument.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\PPT68_CommandLineArgument.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\PPT68_CommandLineArgument.dll
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\refint\PPT68_CommandLineArgument.dll
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\PPT68_CommandLineArgument.pdb
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\PPT68_CommandLineArgument.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT68_CommandLineArgument\obj\Debug\net8.0\ref\PPT68_CommandLineArgument.dll

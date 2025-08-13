@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\bin\Debug\net8.0\PPT13_StructVariable.exe
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\bin\Debug\net8.0\PPT13_StructVariable.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\bin\Debug\net8.0\PPT13_StructVariable.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\bin\Debug\net8.0\PPT13_StructVariable.dll
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\bin\Debug\net8.0\PPT13_StructVariable.pdb
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\PPT13_StructVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\PPT13_StructVariable.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\PPT13_StructVariable.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\PPT13_StructVariable.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\PPT13_StructVariable.dll
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\refint\PPT13_StructVariable.dll
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\PPT13_StructVariable.pdb
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\PPT13_StructVariable.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT13+StructVariable\obj\Debug\net8.0\ref\PPT13_StructVariable.dll

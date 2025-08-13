@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\bin\Debug\net8.0\PPT45_StopwatchDemo.exe
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\bin\Debug\net8.0\PPT45_StopwatchDemo.deps.json
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\bin\Debug\net8.0\PPT45_StopwatchDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\bin\Debug\net8.0\PPT45_StopwatchDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\bin\Debug\net8.0\PPT45_StopwatchDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\PPT45_StopwatchDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\PPT45_StopwatchDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\PPT45_StopwatchDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\PPT45_StopwatchDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\PPT45_StopwatchDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\refint\PPT45_StopwatchDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\PPT45_StopwatchDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\PPT45_StopwatchDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT45_StopwatchDemo\obj\Debug\net8.0\ref\PPT45_StopwatchDemo.dll

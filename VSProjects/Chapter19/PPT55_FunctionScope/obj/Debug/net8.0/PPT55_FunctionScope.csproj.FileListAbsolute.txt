@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\bin\Debug\net8.0\PPT55_FunctionScope.exe
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\bin\Debug\net8.0\PPT55_FunctionScope.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\bin\Debug\net8.0\PPT55_FunctionScope.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\bin\Debug\net8.0\PPT55_FunctionScope.dll
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\bin\Debug\net8.0\PPT55_FunctionScope.pdb
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\PPT55_FunctionScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\PPT55_FunctionScope.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\PPT55_FunctionScope.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\PPT55_FunctionScope.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\PPT55_FunctionScope.dll
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\refint\PPT55_FunctionScope.dll
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\PPT55_FunctionScope.pdb
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\PPT55_FunctionScope.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT55_FunctionScope\obj\Debug\net8.0\ref\PPT55_FunctionScope.dll

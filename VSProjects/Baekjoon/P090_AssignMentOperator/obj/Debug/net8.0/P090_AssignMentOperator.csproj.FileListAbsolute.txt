@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\bin\Debug\net8.0\P090_AssignMentOperator.exe
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\bin\Debug\net8.0\P090_AssignMentOperator.deps.json
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\bin\Debug\net8.0\P090_AssignMentOperator.runtimeconfig.json
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\bin\Debug\net8.0\P090_AssignMentOperator.dll
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\bin\Debug\net8.0\P090_AssignMentOperator.pdb
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\P090_AssignMentOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\P090_AssignMentOperator.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\P090_AssignMentOperator.AssemblyInfo.cs
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\P090_AssignMentOperator.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\P090_AssignMentOperator.dll
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\refint\P090_AssignMentOperator.dll
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\P090_AssignMentOperator.pdb
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\P090_AssignMentOperator.genruntimeconfig.cache
+C:\250616JY\VSProjects\Baekjoon\P090_AssignMentOperator\obj\Debug\net8.0\ref\P090_AssignMentOperator.dll

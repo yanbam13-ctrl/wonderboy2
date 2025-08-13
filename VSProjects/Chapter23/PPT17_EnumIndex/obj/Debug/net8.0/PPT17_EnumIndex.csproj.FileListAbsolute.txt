@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\bin\Debug\net8.0\PPT17_EnumIndex.exe
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\bin\Debug\net8.0\PPT17_EnumIndex.deps.json
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\bin\Debug\net8.0\PPT17_EnumIndex.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\bin\Debug\net8.0\PPT17_EnumIndex.dll
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\bin\Debug\net8.0\PPT17_EnumIndex.pdb
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\PPT17_EnumIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\PPT17_EnumIndex.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\PPT17_EnumIndex.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\PPT17_EnumIndex.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\PPT17_EnumIndex.dll
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\refint\PPT17_EnumIndex.dll
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\PPT17_EnumIndex.pdb
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\PPT17_EnumIndex.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter23\PPT17_EnumIndex\obj\Debug\net8.0\ref\PPT17_EnumIndex.dll

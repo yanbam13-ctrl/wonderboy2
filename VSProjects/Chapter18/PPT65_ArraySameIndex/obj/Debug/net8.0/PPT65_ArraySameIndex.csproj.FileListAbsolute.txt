@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\bin\Debug\net8.0\PPT65_ArraySameIndex.exe
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\bin\Debug\net8.0\PPT65_ArraySameIndex.deps.json
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\bin\Debug\net8.0\PPT65_ArraySameIndex.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\bin\Debug\net8.0\PPT65_ArraySameIndex.dll
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\bin\Debug\net8.0\PPT65_ArraySameIndex.pdb
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\PPT65_ArraySameIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\PPT65_ArraySameIndex.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\PPT65_ArraySameIndex.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\PPT65_ArraySameIndex.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\PPT65_ArraySameIndex.dll
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\refint\PPT65_ArraySameIndex.dll
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\PPT65_ArraySameIndex.pdb
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\PPT65_ArraySameIndex.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\PPT65_ArraySameIndex\obj\Debug\net8.0\ref\PPT65_ArraySameIndex.dll

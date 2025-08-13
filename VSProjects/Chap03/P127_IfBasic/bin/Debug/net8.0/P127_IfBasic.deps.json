@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P127_IfBasic/1.0.0": {
+        "runtime": {
+          "P127_IfBasic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P127_IfBasic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

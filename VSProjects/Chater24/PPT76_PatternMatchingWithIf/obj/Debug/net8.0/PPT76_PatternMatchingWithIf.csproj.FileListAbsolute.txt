@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\bin\Debug\net8.0\PPT76_PatternMatchingWithIf.exe
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\bin\Debug\net8.0\PPT76_PatternMatchingWithIf.deps.json
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\bin\Debug\net8.0\PPT76_PatternMatchingWithIf.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\bin\Debug\net8.0\PPT76_PatternMatchingWithIf.dll
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\bin\Debug\net8.0\PPT76_PatternMatchingWithIf.pdb
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\PPT76_PatternMatchingWithIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\PPT76_PatternMatchingWithIf.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\PPT76_PatternMatchingWithIf.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\PPT76_PatternMatchingWithIf.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\PPT76_PatternMatchingWithIf.dll
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\refint\PPT76_PatternMatchingWithIf.dll
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\PPT76_PatternMatchingWithIf.pdb
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\PPT76_PatternMatchingWithIf.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT76_PatternMatchingWithIf\obj\Debug\net8.0\ref\PPT76_PatternMatchingWithIf.dll

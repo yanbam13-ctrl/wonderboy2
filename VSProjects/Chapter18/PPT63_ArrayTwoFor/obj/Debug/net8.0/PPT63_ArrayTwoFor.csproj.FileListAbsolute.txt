@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\bin\Debug\net8.0\PPT63_ArrayTwoFor.exe
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\bin\Debug\net8.0\PPT63_ArrayTwoFor.deps.json
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\bin\Debug\net8.0\PPT63_ArrayTwoFor.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\bin\Debug\net8.0\PPT63_ArrayTwoFor.dll
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\bin\Debug\net8.0\PPT63_ArrayTwoFor.pdb
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\PPT63_ArrayTwoFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\PPT63_ArrayTwoFor.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\PPT63_ArrayTwoFor.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\PPT63_ArrayTwoFor.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\PPT63_ArrayTwoFor.dll
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\refint\PPT63_ArrayTwoFor.dll
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\PPT63_ArrayTwoFor.pdb
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\PPT63_ArrayTwoFor.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\PPT63_ArrayTwoFor\obj\Debug\net8.0\ref\PPT63_ArrayTwoFor.dll

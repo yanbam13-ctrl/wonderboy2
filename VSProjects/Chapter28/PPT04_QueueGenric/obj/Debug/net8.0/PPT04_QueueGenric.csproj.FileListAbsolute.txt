@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\bin\Debug\net8.0\PPT04_QueueGenric.exe
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\bin\Debug\net8.0\PPT04_QueueGenric.deps.json
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\bin\Debug\net8.0\PPT04_QueueGenric.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\bin\Debug\net8.0\PPT04_QueueGenric.dll
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\bin\Debug\net8.0\PPT04_QueueGenric.pdb
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\PPT04_QueueGenric.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\PPT04_QueueGenric.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\PPT04_QueueGenric.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\PPT04_QueueGenric.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\PPT04_QueueGenric.dll
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\refint\PPT04_QueueGenric.dll
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\PPT04_QueueGenric.pdb
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\PPT04_QueueGenric.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter28\PPT04_QueueGenric\obj\Debug\net8.0\ref\PPT04_QueueGenric.dll

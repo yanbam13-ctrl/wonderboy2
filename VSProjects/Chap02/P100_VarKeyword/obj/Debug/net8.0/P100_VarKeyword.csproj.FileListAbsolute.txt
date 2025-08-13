@@ -1,0 +1,4 @@
+C:\250616JY\VSProjects\Chap02\P100_VarKeyword\obj\Debug\net8.0\P100_VarKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P100_VarKeyword\obj\Debug\net8.0\P100_VarKeyword.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P100_VarKeyword\obj\Debug\net8.0\P100_VarKeyword.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P100_VarKeyword\obj\Debug\net8.0\P100_VarKeyword.csproj.CoreCompileInputs.cache

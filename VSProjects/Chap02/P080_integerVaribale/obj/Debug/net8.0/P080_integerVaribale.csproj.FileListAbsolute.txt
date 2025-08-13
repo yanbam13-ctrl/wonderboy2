@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\bin\Debug\net8.0\P080_integerVaribale.exe
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\bin\Debug\net8.0\P080_integerVaribale.deps.json
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\bin\Debug\net8.0\P080_integerVaribale.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\bin\Debug\net8.0\P080_integerVaribale.dll
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\bin\Debug\net8.0\P080_integerVaribale.pdb
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\P080_integerVaribale.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\P080_integerVaribale.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\P080_integerVaribale.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\P080_integerVaribale.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\P080_integerVaribale.dll
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\refint\P080_integerVaribale.dll
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\P080_integerVaribale.pdb
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\P080_integerVaribale.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P080_integerVaribale\obj\Debug\net8.0\ref\P080_integerVaribale.dll

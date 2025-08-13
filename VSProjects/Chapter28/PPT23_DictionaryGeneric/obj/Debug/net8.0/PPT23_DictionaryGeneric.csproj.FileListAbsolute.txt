@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\bin\Debug\net8.0\PPT23_DictionaryGeneric.exe
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\bin\Debug\net8.0\PPT23_DictionaryGeneric.deps.json
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\bin\Debug\net8.0\PPT23_DictionaryGeneric.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\bin\Debug\net8.0\PPT23_DictionaryGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\bin\Debug\net8.0\PPT23_DictionaryGeneric.pdb
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\PPT23_DictionaryGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\PPT23_DictionaryGeneric.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\PPT23_DictionaryGeneric.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\PPT23_DictionaryGeneric.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\PPT23_DictionaryGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\refint\PPT23_DictionaryGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\PPT23_DictionaryGeneric.pdb
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\PPT23_DictionaryGeneric.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter28\PPT23_DictionaryGeneric\obj\Debug\net8.0\ref\PPT23_DictionaryGeneric.dll

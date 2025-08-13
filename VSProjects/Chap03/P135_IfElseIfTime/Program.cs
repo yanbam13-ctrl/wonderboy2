@@ -1,0 +1,10 @@
+﻿namespace P135_IfElseIfTime
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+}

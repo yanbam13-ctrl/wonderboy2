@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\bin\Debug\net8.0\P098_TypeCheck.exe
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\bin\Debug\net8.0\P098_TypeCheck.deps.json
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\bin\Debug\net8.0\P098_TypeCheck.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\bin\Debug\net8.0\P098_TypeCheck.dll
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\bin\Debug\net8.0\P098_TypeCheck.pdb
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\P098_TypeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\P098_TypeCheck.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\P098_TypeCheck.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\P098_TypeCheck.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\P098_TypeCheck.dll
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\refint\P098_TypeCheck.dll
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\P098_TypeCheck.pdb
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\P098_TypeCheck.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P098_TypeCheck\obj\Debug\net8.0\ref\P098_TypeCheck.dll

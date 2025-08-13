@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\bin\Debug\net8.0\PPT20_FunctionReturnValue.exe
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\bin\Debug\net8.0\PPT20_FunctionReturnValue.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\bin\Debug\net8.0\PPT20_FunctionReturnValue.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\bin\Debug\net8.0\PPT20_FunctionReturnValue.dll
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\bin\Debug\net8.0\PPT20_FunctionReturnValue.pdb
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\PPT20_FunctionReturnValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\PPT20_FunctionReturnValue.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\PPT20_FunctionReturnValue.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\PPT20_FunctionReturnValue.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\PPT20_FunctionReturnValue.dll
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\refint\PPT20_FunctionReturnValue.dll
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\PPT20_FunctionReturnValue.pdb
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\PPT20_FunctionReturnValue.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT20_FunctionReturnValue\obj\Debug\net8.0\ref\PPT20_FunctionReturnValue.dll

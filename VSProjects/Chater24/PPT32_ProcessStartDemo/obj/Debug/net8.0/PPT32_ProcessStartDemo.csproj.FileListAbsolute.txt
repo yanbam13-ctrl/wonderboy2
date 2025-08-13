@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\bin\Debug\net8.0\PPT32_ProcessStartDemo.exe
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\bin\Debug\net8.0\PPT32_ProcessStartDemo.deps.json
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\bin\Debug\net8.0\PPT32_ProcessStartDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\bin\Debug\net8.0\PPT32_ProcessStartDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\bin\Debug\net8.0\PPT32_ProcessStartDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\PPT32_ProcessStartDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\PPT32_ProcessStartDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\PPT32_ProcessStartDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\PPT32_ProcessStartDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\PPT32_ProcessStartDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\refint\PPT32_ProcessStartDemo.dll
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\PPT32_ProcessStartDemo.pdb
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\PPT32_ProcessStartDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT32_ProcessStartDemo\obj\Debug\net8.0\ref\PPT32_ProcessStartDemo.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\P106_Casts.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\P106_Casts.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\P106_Casts.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\P106_Casts.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P106_Casts\bin\Debug\net8.0\P106_Casts.exe
+C:\250616JY\VSProjects\Chap02\P106_Casts\bin\Debug\net8.0\P106_Casts.deps.json
+C:\250616JY\VSProjects\Chap02\P106_Casts\bin\Debug\net8.0\P106_Casts.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P106_Casts\bin\Debug\net8.0\P106_Casts.dll
+C:\250616JY\VSProjects\Chap02\P106_Casts\bin\Debug\net8.0\P106_Casts.pdb
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\P106_Casts.dll
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\refint\P106_Casts.dll
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\P106_Casts.pdb
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\P106_Casts.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P106_Casts\obj\Debug\net8.0\ref\P106_Casts.dll

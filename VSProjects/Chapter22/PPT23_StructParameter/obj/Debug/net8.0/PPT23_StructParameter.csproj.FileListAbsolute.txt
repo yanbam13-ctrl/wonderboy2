@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\bin\Debug\net8.0\PPT23_StructParameter.exe
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\bin\Debug\net8.0\PPT23_StructParameter.deps.json
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\bin\Debug\net8.0\PPT23_StructParameter.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\bin\Debug\net8.0\PPT23_StructParameter.dll
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\bin\Debug\net8.0\PPT23_StructParameter.pdb
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\PPT23_StructParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\PPT23_StructParameter.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\PPT23_StructParameter.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\PPT23_StructParameter.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\PPT23_StructParameter.dll
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\refint\PPT23_StructParameter.dll
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\PPT23_StructParameter.pdb
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\PPT23_StructParameter.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter22\PPT23_StructParameter\obj\Debug\net8.0\ref\PPT23_StructParameter.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\bin\Debug\net8.0\PPT04_StackGeneric.exe
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\bin\Debug\net8.0\PPT04_StackGeneric.deps.json
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\bin\Debug\net8.0\PPT04_StackGeneric.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\bin\Debug\net8.0\PPT04_StackGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\bin\Debug\net8.0\PPT04_StackGeneric.pdb
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\PPT04_StackGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\PPT04_StackGeneric.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\PPT04_StackGeneric.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\PPT04_StackGeneric.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\PPT04_StackGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\refint\PPT04_StackGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\PPT04_StackGeneric.pdb
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\PPT04_StackGeneric.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter28\PPT04_StackGeneric\obj\Debug\net8.0\ref\PPT04_StackGeneric.dll

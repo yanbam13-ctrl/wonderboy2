@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\bin\Debug\net8.0\PPT_QueueNote.exe
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\bin\Debug\net8.0\PPT_QueueNote.deps.json
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\bin\Debug\net8.0\PPT_QueueNote.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\bin\Debug\net8.0\PPT_QueueNote.dll
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\bin\Debug\net8.0\PPT_QueueNote.pdb
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\PPT_QueueNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\PPT_QueueNote.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\PPT_QueueNote.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\PPT_QueueNote.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\PPT_QueueNote.dll
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\refint\PPT_QueueNote.dll
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\PPT_QueueNote.pdb
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\PPT_QueueNote.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter27\PPT_QueueNote\obj\Debug\net8.0\ref\PPT_QueueNote.dll

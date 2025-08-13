@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\bin\Debug\net8.0\P127_IfBasic.exe
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\bin\Debug\net8.0\P127_IfBasic.deps.json
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\bin\Debug\net8.0\P127_IfBasic.runtimeconfig.json
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\bin\Debug\net8.0\P127_IfBasic.dll
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\bin\Debug\net8.0\P127_IfBasic.pdb
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\P127_IfBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\P127_IfBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\P127_IfBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\P127_IfBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\P127_IfBasic.dll
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\refint\P127_IfBasic.dll
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\P127_IfBasic.pdb
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\P127_IfBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap03\P127_IfBasic\obj\Debug\net8.0\ref\P127_IfBasic.dll

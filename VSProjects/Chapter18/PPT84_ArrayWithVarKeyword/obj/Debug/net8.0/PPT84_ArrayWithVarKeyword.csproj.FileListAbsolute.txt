@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\bin\Debug\net8.0\PPT84_ArrayWithVarKeyword.exe
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\bin\Debug\net8.0\PPT84_ArrayWithVarKeyword.deps.json
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\bin\Debug\net8.0\PPT84_ArrayWithVarKeyword.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\bin\Debug\net8.0\PPT84_ArrayWithVarKeyword.dll
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\bin\Debug\net8.0\PPT84_ArrayWithVarKeyword.pdb
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\PPT84_ArrayWithVarKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\PPT84_ArrayWithVarKeyword.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\PPT84_ArrayWithVarKeyword.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\PPT84_ArrayWithVarKeyword.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\PPT84_ArrayWithVarKeyword.dll
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\refint\PPT84_ArrayWithVarKeyword.dll
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\PPT84_ArrayWithVarKeyword.pdb
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\PPT84_ArrayWithVarKeyword.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\PPT84_ArrayWithVarKeyword\obj\Debug\net8.0\ref\PPT84_ArrayWithVarKeyword.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\bin\Debug\net8.0\PPT12_MyFirstClass.exe
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\bin\Debug\net8.0\PPT12_MyFirstClass.deps.json
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\bin\Debug\net8.0\PPT12_MyFirstClass.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\bin\Debug\net8.0\PPT12_MyFirstClass.dll
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\bin\Debug\net8.0\PPT12_MyFirstClass.pdb
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\PPT12_MyFirstClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\PPT12_MyFirstClass.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\PPT12_MyFirstClass.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\PPT12_MyFirstClass.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\PPT12_MyFirstClass.dll
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\refint\PPT12_MyFirstClass.dll
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\PPT12_MyFirstClass.pdb
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\PPT12_MyFirstClass.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT12_MyFirstClass\obj\Debug\net8.0\ref\PPT12_MyFirstClass.dll

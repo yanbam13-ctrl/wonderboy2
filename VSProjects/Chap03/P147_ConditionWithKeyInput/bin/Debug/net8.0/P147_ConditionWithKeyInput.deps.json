@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "P147_ConditionWithKeyInput/1.0.0": {
+        "runtime": {
+          "P147_ConditionWithKeyInput.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P147_ConditionWithKeyInput/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

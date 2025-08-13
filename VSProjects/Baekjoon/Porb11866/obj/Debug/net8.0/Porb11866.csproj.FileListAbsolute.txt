@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Baekjoon\Porb11866\bin\Debug\net8.0\Porb11866.exe
+C:\250616JY\VSProjects\Baekjoon\Porb11866\bin\Debug\net8.0\Porb11866.deps.json
+C:\250616JY\VSProjects\Baekjoon\Porb11866\bin\Debug\net8.0\Porb11866.runtimeconfig.json
+C:\250616JY\VSProjects\Baekjoon\Porb11866\bin\Debug\net8.0\Porb11866.dll
+C:\250616JY\VSProjects\Baekjoon\Porb11866\bin\Debug\net8.0\Porb11866.pdb
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\Porb11866.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\Porb11866.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\Porb11866.AssemblyInfo.cs
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\Porb11866.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\Porb11866.dll
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\refint\Porb11866.dll
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\Porb11866.pdb
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\Porb11866.genruntimeconfig.cache
+C:\250616JY\VSProjects\Baekjoon\Porb11866\obj\Debug\net8.0\ref\Porb11866.dll

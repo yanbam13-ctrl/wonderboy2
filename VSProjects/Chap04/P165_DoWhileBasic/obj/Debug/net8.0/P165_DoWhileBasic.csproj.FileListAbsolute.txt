@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\bin\Debug\net8.0\P165_DoWhileBasic.exe
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\bin\Debug\net8.0\P165_DoWhileBasic.deps.json
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\bin\Debug\net8.0\P165_DoWhileBasic.runtimeconfig.json
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\bin\Debug\net8.0\P165_DoWhileBasic.dll
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\bin\Debug\net8.0\P165_DoWhileBasic.pdb
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\P165_DoWhileBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\P165_DoWhileBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\P165_DoWhileBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\P165_DoWhileBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\P165_DoWhileBasic.dll
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\refint\P165_DoWhileBasic.dll
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\P165_DoWhileBasic.pdb
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\P165_DoWhileBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap04\P165_DoWhileBasic\obj\Debug\net8.0\ref\P165_DoWhileBasic.dll

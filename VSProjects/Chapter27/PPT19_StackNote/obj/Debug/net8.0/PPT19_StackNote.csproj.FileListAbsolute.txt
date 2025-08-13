@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\bin\Debug\net8.0\PPT19_StackNote.exe
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\bin\Debug\net8.0\PPT19_StackNote.deps.json
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\bin\Debug\net8.0\PPT19_StackNote.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\bin\Debug\net8.0\PPT19_StackNote.dll
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\bin\Debug\net8.0\PPT19_StackNote.pdb
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\PPT19_StackNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\PPT19_StackNote.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\PPT19_StackNote.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\PPT19_StackNote.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\PPT19_StackNote.dll
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\refint\PPT19_StackNote.dll
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\PPT19_StackNote.pdb
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\PPT19_StackNote.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter27\PPT19_StackNote\obj\Debug\net8.0\ref\PPT19_StackNote.dll

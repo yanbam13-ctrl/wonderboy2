@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\bin\Debug\net8.0\PPT14_EnumAnimal.exe
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\bin\Debug\net8.0\PPT14_EnumAnimal.deps.json
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\bin\Debug\net8.0\PPT14_EnumAnimal.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\bin\Debug\net8.0\PPT14_EnumAnimal.dll
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\bin\Debug\net8.0\PPT14_EnumAnimal.pdb
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\PPT14_EnumAnimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\PPT14_EnumAnimal.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\PPT14_EnumAnimal.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\PPT14_EnumAnimal.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\PPT14_EnumAnimal.dll
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\refint\PPT14_EnumAnimal.dll
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\PPT14_EnumAnimal.pdb
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\PPT14_EnumAnimal.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter23\PPT14_EnumAnimal\obj\Debug\net8.0\ref\PPT14_EnumAnimal.dll

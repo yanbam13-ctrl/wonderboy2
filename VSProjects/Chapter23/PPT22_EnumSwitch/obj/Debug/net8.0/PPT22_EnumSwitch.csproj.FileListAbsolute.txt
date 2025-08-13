@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\bin\Debug\net8.0\PPT22_EnumSwitch.exe
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\bin\Debug\net8.0\PPT22_EnumSwitch.deps.json
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\bin\Debug\net8.0\PPT22_EnumSwitch.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\bin\Debug\net8.0\PPT22_EnumSwitch.dll
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\bin\Debug\net8.0\PPT22_EnumSwitch.pdb
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\PPT22_EnumSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\PPT22_EnumSwitch.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\PPT22_EnumSwitch.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\PPT22_EnumSwitch.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\PPT22_EnumSwitch.dll
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\refint\PPT22_EnumSwitch.dll
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\PPT22_EnumSwitch.pdb
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\PPT22_EnumSwitch.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter23\PPT22_EnumSwitch\obj\Debug\net8.0\ref\PPT22_EnumSwitch.dll

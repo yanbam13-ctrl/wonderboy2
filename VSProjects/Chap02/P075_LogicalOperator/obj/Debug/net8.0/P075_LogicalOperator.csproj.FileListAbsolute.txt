@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\bin\Debug\net8.0\P075_LogicalOperator.exe
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\bin\Debug\net8.0\P075_LogicalOperator.deps.json
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\bin\Debug\net8.0\P075_LogicalOperator.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\bin\Debug\net8.0\P075_LogicalOperator.dll
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\bin\Debug\net8.0\P075_LogicalOperator.pdb
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\P075_LogicalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\P075_LogicalOperator.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\P075_LogicalOperator.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\P075_LogicalOperator.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\P075_LogicalOperator.dll
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\refint\P075_LogicalOperator.dll
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\P075_LogicalOperator.pdb
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\P075_LogicalOperator.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P075_LogicalOperator\obj\Debug\net8.0\ref\P075_LogicalOperator.dll

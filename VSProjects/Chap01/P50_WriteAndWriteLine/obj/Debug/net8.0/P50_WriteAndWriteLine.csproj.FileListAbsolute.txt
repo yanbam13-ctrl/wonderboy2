@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\bin\Debug\net8.0\P50_WriteAndWriteLine.exe
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\bin\Debug\net8.0\P50_WriteAndWriteLine.deps.json
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\bin\Debug\net8.0\P50_WriteAndWriteLine.runtimeconfig.json
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\bin\Debug\net8.0\P50_WriteAndWriteLine.dll
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\bin\Debug\net8.0\P50_WriteAndWriteLine.pdb
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\P50_WriteAndWriteLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\P50_WriteAndWriteLine.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\P50_WriteAndWriteLine.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\P50_WriteAndWriteLine.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\P50_WriteAndWriteLine.dll
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\refint\P50_WriteAndWriteLine.dll
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\P50_WriteAndWriteLine.pdb
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\P50_WriteAndWriteLine.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap01\P50_WriteAndWriteLine\obj\Debug\net8.0\ref\P50_WriteAndWriteLine.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\bin\Debug\net8.0\PPT59_ArrowFunction.exe
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\bin\Debug\net8.0\PPT59_ArrowFunction.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\bin\Debug\net8.0\PPT59_ArrowFunction.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\bin\Debug\net8.0\PPT59_ArrowFunction.dll
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\bin\Debug\net8.0\PPT59_ArrowFunction.pdb
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\PPT59_ArrowFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\PPT59_ArrowFunction.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\PPT59_ArrowFunction.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\PPT59_ArrowFunction.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\PPT59_ArrowFunction.dll
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\refint\PPT59_ArrowFunction.dll
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\PPT59_ArrowFunction.pdb
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\PPT59_ArrowFunction.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT59_ArrowFunction\obj\Debug\net8.0\ref\PPT59_ArrowFunction.dll

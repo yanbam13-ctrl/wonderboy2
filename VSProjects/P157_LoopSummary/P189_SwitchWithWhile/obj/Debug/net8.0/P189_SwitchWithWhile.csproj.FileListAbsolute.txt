@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\bin\Debug\net8.0\P189_SwitchWithWhile.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\bin\Debug\net8.0\P189_SwitchWithWhile.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\bin\Debug\net8.0\P189_SwitchWithWhile.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\bin\Debug\net8.0\P189_SwitchWithWhile.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\bin\Debug\net8.0\P189_SwitchWithWhile.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\P189_SwitchWithWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\P189_SwitchWithWhile.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\P189_SwitchWithWhile.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\P189_SwitchWithWhile.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\P189_SwitchWithWhile.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\refint\P189_SwitchWithWhile.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\P189_SwitchWithWhile.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\P189_SwitchWithWhile.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P189_SwitchWithWhile\obj\Debug\net8.0\ref\P189_SwitchWithWhile.dll

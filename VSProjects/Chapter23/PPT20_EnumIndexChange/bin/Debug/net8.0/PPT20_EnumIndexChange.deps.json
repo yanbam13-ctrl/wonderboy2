@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT20_EnumIndexChange/1.0.0": {
+        "runtime": {
+          "PPT20_EnumIndexChange.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT20_EnumIndexChange/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

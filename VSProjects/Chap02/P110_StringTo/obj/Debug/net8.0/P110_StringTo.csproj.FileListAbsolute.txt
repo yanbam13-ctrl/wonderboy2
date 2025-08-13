@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\P110_StringTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\P110_StringTo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\P110_StringTo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\P110_StringTo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\P110_StringTo\bin\Debug\net8.0\P110_StringTo.exe
+C:\250616JY\VSProjects\Chap02\P110_StringTo\bin\Debug\net8.0\P110_StringTo.deps.json
+C:\250616JY\VSProjects\Chap02\P110_StringTo\bin\Debug\net8.0\P110_StringTo.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\P110_StringTo\bin\Debug\net8.0\P110_StringTo.dll
+C:\250616JY\VSProjects\Chap02\P110_StringTo\bin\Debug\net8.0\P110_StringTo.pdb
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\P110_StringTo.dll
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\refint\P110_StringTo.dll
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\P110_StringTo.pdb
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\P110_StringTo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\P110_StringTo\obj\Debug\net8.0\ref\P110_StringTo.dll

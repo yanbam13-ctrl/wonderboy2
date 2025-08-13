@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\bin\Debug\net8.0\PPT13_ListGeneric.exe
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\bin\Debug\net8.0\PPT13_ListGeneric.deps.json
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\bin\Debug\net8.0\PPT13_ListGeneric.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\bin\Debug\net8.0\PPT13_ListGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\bin\Debug\net8.0\PPT13_ListGeneric.pdb
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\PPT13_ListGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\PPT13_ListGeneric.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\PPT13_ListGeneric.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\PPT13_ListGeneric.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\PPT13_ListGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\refint\PPT13_ListGeneric.dll
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\PPT13_ListGeneric.pdb
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\PPT13_ListGeneric.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter28\PPT13_ListGeneric\obj\Debug\net8.0\ref\PPT13_ListGeneric.dll

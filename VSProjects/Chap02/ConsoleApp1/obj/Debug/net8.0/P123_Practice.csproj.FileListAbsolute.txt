@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\bin\Debug\net8.0\P123_Practice.exe
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\bin\Debug\net8.0\P123_Practice.deps.json
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\bin\Debug\net8.0\P123_Practice.runtimeconfig.json
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\bin\Debug\net8.0\P123_Practice.dll
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\bin\Debug\net8.0\P123_Practice.pdb
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\P123_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\P123_Practice.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\P123_Practice.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\P123_Practice.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\P123_Practice.dll
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\refint\P123_Practice.dll
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\P123_Practice.pdb
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\P123_Practice.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap02\ConsoleApp1\obj\Debug\net8.0\ref\P123_Practice.dll

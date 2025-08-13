@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\bin\Debug\net8.0\P159_ArrayBasic.exe
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\bin\Debug\net8.0\P159_ArrayBasic.deps.json
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\bin\Debug\net8.0\P159_ArrayBasic.runtimeconfig.json
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\bin\Debug\net8.0\P159_ArrayBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\bin\Debug\net8.0\P159_ArrayBasic.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\P159_ArrayBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\P159_ArrayBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\P159_ArrayBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\P159_ArrayBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\P159_ArrayBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\refint\P159_ArrayBasic.dll
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\P159_ArrayBasic.pdb
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\P159_ArrayBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\P157_LoopSummary\P159_ArrayBasic\obj\Debug\net8.0\ref\P159_ArrayBasic.dll

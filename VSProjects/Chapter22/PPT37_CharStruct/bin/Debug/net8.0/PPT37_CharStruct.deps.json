@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT37_CharStruct/1.0.0": {
+        "runtime": {
+          "PPT37_CharStruct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT37_CharStruct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

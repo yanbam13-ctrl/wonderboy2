@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\Prob2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\Prob2023.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\Prob2023.AssemblyInfo.cs
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\Prob2023.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Baekjoon\Prob2023\bin\Debug\net8.0\Prob2023.exe
+C:\250616JY\VSProjects\Baekjoon\Prob2023\bin\Debug\net8.0\Prob2023.deps.json
+C:\250616JY\VSProjects\Baekjoon\Prob2023\bin\Debug\net8.0\Prob2023.runtimeconfig.json
+C:\250616JY\VSProjects\Baekjoon\Prob2023\bin\Debug\net8.0\Prob2023.dll
+C:\250616JY\VSProjects\Baekjoon\Prob2023\bin\Debug\net8.0\Prob2023.pdb
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\Prob2023.dll
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\refint\Prob2023.dll
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\Prob2023.pdb
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\Prob2023.genruntimeconfig.cache
+C:\250616JY\VSProjects\Baekjoon\Prob2023\obj\Debug\net8.0\ref\Prob2023.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\bin\Debug\net8.0\PPT52_RecursionPower.exe
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\bin\Debug\net8.0\PPT52_RecursionPower.deps.json
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\bin\Debug\net8.0\PPT52_RecursionPower.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\bin\Debug\net8.0\PPT52_RecursionPower.dll
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\bin\Debug\net8.0\PPT52_RecursionPower.pdb
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\PPT52_RecursionPower.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\PPT52_RecursionPower.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\PPT52_RecursionPower.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\PPT52_RecursionPower.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\PPT52_RecursionPower.dll
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\refint\PPT52_RecursionPower.dll
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\PPT52_RecursionPower.pdb
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\PPT52_RecursionPower.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter19\PPT52_RecursionPower\obj\Debug\net8.0\ref\PPT52_RecursionPower.dll

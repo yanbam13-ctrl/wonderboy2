@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Test\Test\bin\Debug\net8.0\CallBack.exe
+C:\250616JY\VSProjects\Test\Test\bin\Debug\net8.0\CallBack.deps.json
+C:\250616JY\VSProjects\Test\Test\bin\Debug\net8.0\CallBack.runtimeconfig.json
+C:\250616JY\VSProjects\Test\Test\bin\Debug\net8.0\CallBack.dll
+C:\250616JY\VSProjects\Test\Test\bin\Debug\net8.0\CallBack.pdb
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\CallBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\CallBack.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\CallBack.AssemblyInfo.cs
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\CallBack.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\CallBack.dll
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\refint\CallBack.dll
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\CallBack.pdb
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\CallBack.genruntimeconfig.cache
+C:\250616JY\VSProjects\Test\Test\obj\Debug\net8.0\ref\CallBack.dll

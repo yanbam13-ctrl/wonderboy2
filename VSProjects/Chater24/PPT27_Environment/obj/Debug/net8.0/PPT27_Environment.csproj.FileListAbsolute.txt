@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\bin\Debug\net8.0\PPT27_Environment.exe
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\bin\Debug\net8.0\PPT27_Environment.deps.json
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\bin\Debug\net8.0\PPT27_Environment.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\bin\Debug\net8.0\PPT27_Environment.dll
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\bin\Debug\net8.0\PPT27_Environment.pdb
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\PPT27_Environment.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\PPT27_Environment.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\PPT27_Environment.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\PPT27_Environment.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\PPT27_Environment.dll
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\refint\PPT27_Environment.dll
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\PPT27_Environment.pdb
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\PPT27_Environment.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT27_Environment\obj\Debug\net8.0\ref\PPT27_Environment.dll

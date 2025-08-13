@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\bin\Debug\net8.0\PPT79_ArrayGetLengthDemo.exe
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\bin\Debug\net8.0\PPT79_ArrayGetLengthDemo.deps.json
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\bin\Debug\net8.0\PPT79_ArrayGetLengthDemo.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\bin\Debug\net8.0\PPT79_ArrayGetLengthDemo.dll
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\bin\Debug\net8.0\PPT79_ArrayGetLengthDemo.pdb
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\PPT79_ArrayGetLengthDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\PPT79_ArrayGetLengthDemo.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\PPT79_ArrayGetLengthDemo.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\PPT79_ArrayGetLengthDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\PPT79_ArrayGetLengthDemo.dll
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\refint\PPT79_ArrayGetLengthDemo.dll
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\PPT79_ArrayGetLengthDemo.pdb
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\PPT79_ArrayGetLengthDemo.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\PPT79_ArrayGetLengthDemo\obj\Debug\net8.0\ref\PPT79_ArrayGetLengthDemo.dll

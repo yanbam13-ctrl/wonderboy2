@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chater24\PPT65_is\bin\Debug\net8.0\PPT65_is.exe
+C:\250616JY\VSProjects\Chater24\PPT65_is\bin\Debug\net8.0\PPT65_is.deps.json
+C:\250616JY\VSProjects\Chater24\PPT65_is\bin\Debug\net8.0\PPT65_is.runtimeconfig.json
+C:\250616JY\VSProjects\Chater24\PPT65_is\bin\Debug\net8.0\PPT65_is.dll
+C:\250616JY\VSProjects\Chater24\PPT65_is\bin\Debug\net8.0\PPT65_is.pdb
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\PPT65_is.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\PPT65_is.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\PPT65_is.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\PPT65_is.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\PPT65_is.dll
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\refint\PPT65_is.dll
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\PPT65_is.pdb
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\PPT65_is.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chater24\PPT65_is\obj\Debug\net8.0\ref\PPT65_is.dll

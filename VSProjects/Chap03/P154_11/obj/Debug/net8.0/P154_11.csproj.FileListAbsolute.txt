@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap03\P154_11\bin\Debug\net8.0\P154_11.exe
+C:\250616JY\VSProjects\Chap03\P154_11\bin\Debug\net8.0\P154_11.deps.json
+C:\250616JY\VSProjects\Chap03\P154_11\bin\Debug\net8.0\P154_11.runtimeconfig.json
+C:\250616JY\VSProjects\Chap03\P154_11\bin\Debug\net8.0\P154_11.dll
+C:\250616JY\VSProjects\Chap03\P154_11\bin\Debug\net8.0\P154_11.pdb
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\P154_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\P154_11.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\P154_11.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\P154_11.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\P154_11.dll
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\refint\P154_11.dll
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\P154_11.pdb
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\P154_11.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap03\P154_11\obj\Debug\net8.0\ref\P154_11.dll

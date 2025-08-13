@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\bin\Debug\net8.0\P138_SwitchBasic.exe
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\bin\Debug\net8.0\P138_SwitchBasic.deps.json
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\bin\Debug\net8.0\P138_SwitchBasic.runtimeconfig.json
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\bin\Debug\net8.0\P138_SwitchBasic.dll
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\bin\Debug\net8.0\P138_SwitchBasic.pdb
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\P138_SwitchBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\P138_SwitchBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\P138_SwitchBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\P138_SwitchBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\P138_SwitchBasic.dll
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\refint\P138_SwitchBasic.dll
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\P138_SwitchBasic.pdb
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\P138_SwitchBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap03\P138_SwitchBasic\obj\Debug\net8.0\ref\P138_SwitchBasic.dll

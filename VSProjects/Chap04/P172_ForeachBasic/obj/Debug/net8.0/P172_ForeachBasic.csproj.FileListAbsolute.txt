@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\bin\Debug\net8.0\P172_ForeachBasic.exe
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\bin\Debug\net8.0\P172_ForeachBasic.deps.json
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\bin\Debug\net8.0\P172_ForeachBasic.runtimeconfig.json
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\bin\Debug\net8.0\P172_ForeachBasic.dll
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\bin\Debug\net8.0\P172_ForeachBasic.pdb
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\P172_ForeachBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\P172_ForeachBasic.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\P172_ForeachBasic.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\P172_ForeachBasic.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\P172_ForeachBasic.dll
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\refint\P172_ForeachBasic.dll
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\P172_ForeachBasic.pdb
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\P172_ForeachBasic.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chap04\P172_ForeachBasic\obj\Debug\net8.0\ref\P172_ForeachBasic.dll

@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\bin\Debug\net8.0\PPT74_ArrayThree.exe
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\bin\Debug\net8.0\PPT74_ArrayThree.deps.json
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\bin\Debug\net8.0\PPT74_ArrayThree.runtimeconfig.json
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\bin\Debug\net8.0\PPT74_ArrayThree.dll
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\bin\Debug\net8.0\PPT74_ArrayThree.pdb
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\PPT74_ArrayThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\PPT74_ArrayThree.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\PPT74_ArrayThree.AssemblyInfo.cs
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\PPT74_ArrayThree.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\PPT74_ArrayThree.dll
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\refint\PPT74_ArrayThree.dll
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\PPT74_ArrayThree.pdb
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\PPT74_ArrayThree.genruntimeconfig.cache
+C:\250616JY\VSProjects\Chapter18\PPT74_ArrayThree\obj\Debug\net8.0\ref\PPT74_ArrayThree.dll

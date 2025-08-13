@@ -1,0 +1,14 @@
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\bin\Debug\net8.0\PPT37_NamedParameter.exe
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\bin\Debug\net8.0\PPT37_NamedParameter.deps.json
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\bin\Debug\net8.0\PPT37_NamedParameter.runtimeconfig.json
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\bin\Debug\net8.0\PPT37_NamedParameter.dll
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\bin\Debug\net8.0\PPT37_NamedParameter.pdb
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\PPT37_NamedParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\PPT37_NamedParameter.AssemblyInfoInputs.cache
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\PPT37_NamedParameter.AssemblyInfo.cs
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\PPT37_NamedParameter.csproj.CoreCompileInputs.cache
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\PPT37_NamedParameter.dll
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\refint\PPT37_NamedParameter.dll
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\PPT37_NamedParameter.pdb
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\PPT37_NamedParameter.genruntimeconfig.cache
+C:\250616JY\VSProjects\Baekjoon\PPT37_NamedParameter\obj\Debug\net8.0\ref\PPT37_NamedParameter.dll
