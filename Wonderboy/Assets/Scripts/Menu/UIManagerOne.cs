@@ -16,9 +16,6 @@ public class UIManagerOne : MonoBehaviour
     public Text Credit;
     public string nextSceneName = "Menu02"; // 전환할 씬 이름    
 
-
-
-
     void Start()
     {
         CoinManager.Instance.ResetCoin();
