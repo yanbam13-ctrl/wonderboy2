@@ -801,6 +801,7 @@ MonoBehaviour:
   MessageUI: {fileID: 854915280}
   Credit: {fileID: 1601480287}
   MenuTwoperiod: 1.5
+  nextSceneName: Stage01
 --- !u!1 &1601480284
 GameObject:
   m_ObjectHideFlags: 0

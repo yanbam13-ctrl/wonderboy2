@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerRoate : MonoBehaviour
 {
     //회전 속도 변수
-    public float rotSpeed;
+    public float rotSpeed; // 200f;
 
     //회전 값 변수
     float mx = 0;

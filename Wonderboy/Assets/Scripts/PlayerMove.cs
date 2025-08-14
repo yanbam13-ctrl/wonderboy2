@@ -97,8 +97,8 @@ public class PlayerMove : MonoBehaviour
             // 위 방향 초기 속도 부여 → 항상 같은 높이로 점프
             rb.velocity = new Vector2(rb.velocity.x, v);
 
-            animator.SetTrigger("Jump");
         }
+            animator.SetBool("IsJumping",!grounded);
     }
 
     void FixedUpdate()
@@ -127,19 +127,6 @@ public class PlayerMove : MonoBehaviour
         if (rb.velocity.y < maxFallSpeed)
             rb.velocity = new Vector2(rb.velocity.x, maxFallSpeed);
 
-
-
     }
 
-
-
-
-
-    // (선택) 씬 뷰에서 groundCheck 범위를 보이게 해주는 기즈모
-    void OnDrawGizmosSelected()
-    {
-        if (groundCheck == null) return;
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawWireSphere(groundCheck.position, groundRadius);
-    }
 }

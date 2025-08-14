@@ -16,11 +16,10 @@ public class CoinManager : MonoBehaviour
     //공통으로 관리할 코인
     private int coin;
 
-
-
     private void Start()
     {
         coin = PlayerPrefs.GetInt("Coin");
+        DontDestroyOnLoad(gameObject);
     }
     public int Coin { get { return coin; } }
     public void AddCoin(int value = 1)
