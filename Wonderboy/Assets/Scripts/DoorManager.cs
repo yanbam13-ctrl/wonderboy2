@@ -54,6 +54,9 @@ public class DoorManager : MonoBehaviour
 
         SceneManager.LoadScene(sceneName);
     }
+    //SwordRoomÀÏ °æ¿ì
+}
+
 
     //public void OpenDoor() {
     //    Debug.Log("OpenDoor");
@@ -72,4 +75,4 @@ public class DoorManager : MonoBehaviour
 
     //}
 
-}
+

@@ -5,17 +5,27 @@ using UnityEngine;
 public class PlayerDoorCheckInTrigger : MonoBehaviour
 {
     private bool isInDoorTrigger = false;
-    private Transform doorTransform;
     private DoorManager dm;
 
+    private void Start()
+    {
+        float x = PlayerPrefs.GetFloat("PlayerPosX", transform.position.x);
+        float y = PlayerPrefs.GetFloat("PlayerPosY", transform.position.y);
+
+        transform.position = new Vector3(x, y, 0);
+
+        PlayerPrefs.DeleteKey("PlayerPosX");
+        PlayerPrefs.DeleteKey("PlayerPosY");
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Door"))
+        if (other.CompareTag("Door") && !isInDoorTrigger)
         {
             Debug.Log("Door Trigger Enter");
             isInDoorTrigger = true;
             dm = other.GetComponent<DoorManager>();
+            Debug.Log(dm.availableCount);
         }
     }
 
@@ -45,8 +55,11 @@ public class PlayerDoorCheckInTrigger : MonoBehaviour
 
                 if (dm.availableCount >= 1)
                 {
-                    dm.LoadScene(dm.sceneName);
+                    // ¾À ÀüÈ¯ Àü¿¡
+                    PlayerPrefs.SetFloat("PlayerPosX", transform.position.x);
+                    PlayerPrefs.SetFloat("PlayerPosY", transform.position.y);
 
+                    dm.LoadScene(dm.sceneName);
                 }
 
                 else
