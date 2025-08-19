@@ -22,7 +22,7 @@ public class CamRotate : MonoBehaviour
         mx += mouse_X * rotSpeed * Time.deltaTime;
         my += mouse_Y * rotSpeed * Time.deltaTime;
 
-        //1-2. 마우스 상하 이동 회전 변수(my)의 값을 -90 ~ 90 사리오 제한한다.
+        //1-2. 마우스 상하 이동 회전 변수(my)의 값을 -90 ~ 90 사이로 제한한다.
         my = Mathf.Clamp(my, -90f, 90f);
 
         //2. 회전 방향으로 물체를 회전시킨다.

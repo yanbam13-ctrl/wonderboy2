@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\bin\Debug\net8.0\PPT05_LinqSum.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\bin\Debug\net8.0\PPT05_LinqSum.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\bin\Debug\net8.0\PPT05_LinqSum.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\bin\Debug\net8.0\PPT05_LinqSum.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\bin\Debug\net8.0\PPT05_LinqSum.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\PPT05_LinqSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\PPT05_LinqSum.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\PPT05_LinqSum.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\PPT05_LinqSum.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\PPT05_LinqSum.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\PPT05_LinqSum.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\refint\PPT05_LinqSum.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\PPT05_LinqSum.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\PPT05_LinqSum.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT05_LinqSum\obj\Debug\net8.0\ref\PPT05_LinqSum.dll

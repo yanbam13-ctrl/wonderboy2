@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\bin\Debug\net8.0\PPT27_Filter.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\bin\Debug\net8.0\PPT27_Filter.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\bin\Debug\net8.0\PPT27_Filter.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\bin\Debug\net8.0\PPT27_Filter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\bin\Debug\net8.0\PPT27_Filter.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\PPT27_Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\PPT27_Filter.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\PPT27_Filter.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\PPT27_Filter.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\PPT27_Filter.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\PPT27_Filter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\refint\PPT27_Filter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\PPT27_Filter.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\PPT27_Filter.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT27_Filter\obj\Debug\net8.0\ref\PPT27_Filter.dll

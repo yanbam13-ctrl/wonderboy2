@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\bin\Debug\net8.0\PPT09_LinqAverage.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\bin\Debug\net8.0\PPT09_LinqAverage.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\bin\Debug\net8.0\PPT09_LinqAverage.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\bin\Debug\net8.0\PPT09_LinqAverage.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\bin\Debug\net8.0\PPT09_LinqAverage.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\PPT09_LinqAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\PPT09_LinqAverage.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\PPT09_LinqAverage.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\PPT09_LinqAverage.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\PPT09_LinqAverage.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\PPT09_LinqAverage.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\refint\PPT09_LinqAverage.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\PPT09_LinqAverage.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\PPT09_LinqAverage.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT09_LinqAverage\obj\Debug\net8.0\ref\PPT09_LinqAverage.dll

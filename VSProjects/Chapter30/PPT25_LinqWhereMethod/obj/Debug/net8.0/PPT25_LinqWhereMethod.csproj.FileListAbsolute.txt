@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\bin\Debug\net8.0\PPT25_LinqWhereMethod.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\bin\Debug\net8.0\PPT25_LinqWhereMethod.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\bin\Debug\net8.0\PPT25_LinqWhereMethod.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\bin\Debug\net8.0\PPT25_LinqWhereMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\bin\Debug\net8.0\PPT25_LinqWhereMethod.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\PPT25_LinqWhereMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\PPT25_LinqWhereMethod.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\PPT25_LinqWhereMethod.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\PPT25_LinqWhereMethod.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\PPT25_LinqWhereMethod.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\PPT25_LinqWhereMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\refint\PPT25_LinqWhereMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\PPT25_LinqWhereMethod.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\PPT25_LinqWhereMethod.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT25_LinqWhereMethod\obj\Debug\net8.0\ref\PPT25_LinqWhereMethod.dll

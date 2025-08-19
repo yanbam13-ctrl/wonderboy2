@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\bin\Debug\net8.0\PPT11_LinqMaxMin.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\bin\Debug\net8.0\PPT11_LinqMaxMin.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\bin\Debug\net8.0\PPT11_LinqMaxMin.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\bin\Debug\net8.0\PPT11_LinqMaxMin.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\bin\Debug\net8.0\PPT11_LinqMaxMin.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\PPT11_LinqMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\PPT11_LinqMaxMin.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\PPT11_LinqMaxMin.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\PPT11_LinqMaxMin.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\PPT11_LinqMaxMin.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\PPT11_LinqMaxMin.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\refint\PPT11_LinqMaxMin.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\PPT11_LinqMaxMin.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\PPT11_LinqMaxMin.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT11_LinqMaxMin\obj\Debug\net8.0\ref\PPT11_LinqMaxMin.dll

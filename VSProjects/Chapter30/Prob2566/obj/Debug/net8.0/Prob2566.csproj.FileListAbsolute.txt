@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\bin\Debug\net8.0\Prob2566.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\bin\Debug\net8.0\Prob2566.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\bin\Debug\net8.0\Prob2566.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\bin\Debug\net8.0\Prob2566.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\bin\Debug\net8.0\Prob2566.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\Prob2566.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\Prob2566.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\Prob2566.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\Prob2566.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\Prob2566.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\Prob2566.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\refint\Prob2566.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\Prob2566.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\Prob2566.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\Prob2566\obj\Debug\net8.0\ref\Prob2566.dll

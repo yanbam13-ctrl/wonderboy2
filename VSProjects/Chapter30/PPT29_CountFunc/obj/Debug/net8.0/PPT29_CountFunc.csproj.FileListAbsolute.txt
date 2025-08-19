@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\bin\Debug\net8.0\PPT29_CountFunc.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\bin\Debug\net8.0\PPT29_CountFunc.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\bin\Debug\net8.0\PPT29_CountFunc.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\bin\Debug\net8.0\PPT29_CountFunc.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\bin\Debug\net8.0\PPT29_CountFunc.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\PPT29_CountFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\PPT29_CountFunc.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\PPT29_CountFunc.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\PPT29_CountFunc.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\PPT29_CountFunc.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\PPT29_CountFunc.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\refint\PPT29_CountFunc.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\PPT29_CountFunc.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\PPT29_CountFunc.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT29_CountFunc\obj\Debug\net8.0\ref\PPT29_CountFunc.dll

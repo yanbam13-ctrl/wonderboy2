@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\bin\Debug\net8.0\PPT07_LinqCount.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\bin\Debug\net8.0\PPT07_LinqCount.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\bin\Debug\net8.0\PPT07_LinqCount.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\bin\Debug\net8.0\PPT07_LinqCount.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\bin\Debug\net8.0\PPT07_LinqCount.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\PPT07_LinqCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\PPT07_LinqCount.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\PPT07_LinqCount.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\PPT07_LinqCount.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\PPT07_LinqCount.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\PPT07_LinqCount.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\refint\PPT07_LinqCount.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\PPT07_LinqCount.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\PPT07_LinqCount.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT07_LinqCount\obj\Debug\net8.0\ref\PPT07_LinqCount.dll
