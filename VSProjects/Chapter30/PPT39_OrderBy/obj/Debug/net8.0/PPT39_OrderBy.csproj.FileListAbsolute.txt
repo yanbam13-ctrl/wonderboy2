@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\bin\Debug\net8.0\PPT39_OrderBy.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\bin\Debug\net8.0\PPT39_OrderBy.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\bin\Debug\net8.0\PPT39_OrderBy.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\bin\Debug\net8.0\PPT39_OrderBy.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\bin\Debug\net8.0\PPT39_OrderBy.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\PPT39_OrderBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\PPT39_OrderBy.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\PPT39_OrderBy.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\PPT39_OrderBy.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\PPT39_OrderBy.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\PPT39_OrderBy.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\refint\PPT39_OrderBy.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\PPT39_OrderBy.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\PPT39_OrderBy.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT39_OrderBy\obj\Debug\net8.0\ref\PPT39_OrderBy.dll

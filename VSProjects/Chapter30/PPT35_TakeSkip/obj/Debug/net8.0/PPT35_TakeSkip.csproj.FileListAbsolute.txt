@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\PPT35_TakeSkip.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\PPT35_TakeSkip.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\PPT35_TakeSkip.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\PPT35_TakeSkip.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\PPT35_TakeSkip.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\bin\Debug\net8.0\PPT35_TakeSkip.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\bin\Debug\net8.0\PPT35_TakeSkip.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\bin\Debug\net8.0\PPT35_TakeSkip.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\bin\Debug\net8.0\PPT35_TakeSkip.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\bin\Debug\net8.0\PPT35_TakeSkip.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\PPT35_TakeSkip.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\refint\PPT35_TakeSkip.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\PPT35_TakeSkip.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\PPT35_TakeSkip.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT35_TakeSkip\obj\Debug\net8.0\ref\PPT35_TakeSkip.dll

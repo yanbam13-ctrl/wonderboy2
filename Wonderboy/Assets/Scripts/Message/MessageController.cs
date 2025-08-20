@@ -51,7 +51,11 @@ public class MessageController : MonoBehaviour
                 }
 
                 // 한 페이지 끝 → 입력 대기
-                yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.LeftControl));
+                // ★ 페이지 끝 대기: 입력을 기다릴 때만
+                if (data.waitForInput)
+                {
+                    yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.LeftControl));
+                }  // waitForInput == false면 바로 다음 페이지로 진행 (대기 없음)
 
                 //메세지 재실행을 막기 위해 MessageTrigger 값 변경
             }
@@ -63,17 +67,22 @@ public class MessageController : MonoBehaviour
             //}
 
             //종료 대기 : 입력 or 자동
+            // ★ 전체 메시지 출력이 끝난 후: 자동 닫기 시간이 있으면 그만큼 대기
             if (data.waitForInput && data.autoCloseAfter <= 0f)
             {
                 yield return new WaitUntil(() => Input.GetKeyDown(KeyCode.LeftControl));
-                Time.timeScale = 1f; //재개
+                //Time.timeScale = 1f; //재개
             }
             else if (data.autoCloseAfter > 0f)
             {
                 Time.timeScale = 1f; //재개
                 yield return new WaitForSecondsRealtime(data.autoCloseAfter);
-                messageUI.SetActive(false);
+                //messageUI.SetActive(false);
             }
+
+            // 공통 마무리(항상 실행)
+            messageUI.SetActive(false);
+            Time.timeScale = 1f;
         }
         else
         {

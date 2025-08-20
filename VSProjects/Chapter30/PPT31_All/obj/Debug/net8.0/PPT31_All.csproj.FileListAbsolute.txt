@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\PPT31_All.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\PPT31_All.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\PPT31_All.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\PPT31_All.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\PPT31_All.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\bin\Debug\net8.0\PPT31_All.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\bin\Debug\net8.0\PPT31_All.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\bin\Debug\net8.0\PPT31_All.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\bin\Debug\net8.0\PPT31_All.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\bin\Debug\net8.0\PPT31_All.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\PPT31_All.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\refint\PPT31_All.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\PPT31_All.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\PPT31_All.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT31_All\obj\Debug\net8.0\ref\PPT31_All.dll

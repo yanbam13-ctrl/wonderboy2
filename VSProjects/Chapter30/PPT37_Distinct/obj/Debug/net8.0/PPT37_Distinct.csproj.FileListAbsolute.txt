@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\bin\Debug\net8.0\PPT37_Distinct.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\bin\Debug\net8.0\PPT37_Distinct.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\bin\Debug\net8.0\PPT37_Distinct.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\bin\Debug\net8.0\PPT37_Distinct.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\bin\Debug\net8.0\PPT37_Distinct.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\PPT37_Distinct.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\PPT37_Distinct.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\PPT37_Distinct.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\PPT37_Distinct.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\PPT37_Distinct.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\PPT37_Distinct.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\refint\PPT37_Distinct.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\PPT37_Distinct.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\PPT37_Distinct.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT37_Distinct\obj\Debug\net8.0\ref\PPT37_Distinct.dll

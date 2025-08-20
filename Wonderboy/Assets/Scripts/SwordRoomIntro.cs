@@ -34,6 +34,9 @@ public class SwordRoomIntro : MonoBehaviour
     {
         if (!md.MessageTrigger)
         {
+            SaveFlags.SetBool(SaveFlags.HasSword, true);
+            SaveFlags.SetBool(SaveFlags.Stage01_BrickBounce, true);
+
             SceneManager.LoadScene(nextSceneName);
         }
     }

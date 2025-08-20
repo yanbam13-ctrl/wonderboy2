@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\bin\Debug\net8.0\PPT33_Any.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\bin\Debug\net8.0\PPT33_Any.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\bin\Debug\net8.0\PPT33_Any.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\bin\Debug\net8.0\PPT33_Any.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\bin\Debug\net8.0\PPT33_Any.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\PPT33_Any.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\PPT33_Any.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\PPT33_Any.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\PPT33_Any.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\PPT33_Any.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\PPT33_Any.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\refint\PPT33_Any.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\PPT33_Any.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\PPT33_Any.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT33_Any\obj\Debug\net8.0\ref\PPT33_Any.dll

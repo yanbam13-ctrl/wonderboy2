@@ -6,14 +6,15 @@
         {
             int[] numbers = { 1, 2, 3, 4, 5, 6 };
 
-            var nums = numbers.Where(it => it % 2 == 0 && it > 3).Sum();
+            var maxN = numbers.Max();
+            //var nums = numbers.Where(it => it % 2 == 0 && it > 3).Sum();
             //foreach (var num in nums){
 
             //    Console.WriteLine(num);
 
             //}
 
-            Console.WriteLine(nums);
+            Console.WriteLine(maxN);
         }
     }
 }

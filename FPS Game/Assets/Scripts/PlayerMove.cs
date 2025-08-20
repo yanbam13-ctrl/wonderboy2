@@ -23,6 +23,9 @@ public class PlayerMove : MonoBehaviour
     //점프 상태 변수
     public bool isJumping = false;
 
+    //플레이어 hp
+    int hp = 20;
+
     private void Start()
     {
         //캐릭터 컨트롤러 컴포넌트 받아옴
@@ -79,5 +82,13 @@ public class PlayerMove : MonoBehaviour
 
         cc.Move(dir * moveSpeed * Time.deltaTime);
 
+    }
+
+    //플레이어의 피격 함수
+    public void DamageAction(int damage)
+    {
+        //에너미의 공격력만큼 플레이어의 체력을 깎는다.
+        hp -= damage;
+        print(hp);
     }
 }
