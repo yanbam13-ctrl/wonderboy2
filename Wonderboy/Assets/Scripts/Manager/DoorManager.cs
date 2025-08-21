@@ -29,6 +29,8 @@ public class DoorManager : MonoBehaviour
     {
         //PlayerPrefs.DeleteKey($"DoorCount_{doorId}"); //PlayerPrefs 값 초기화
         //PlayerPrefs.DeleteKey($"Stage01_BrickBounce"); //PlayerPrefs 값 초기화
+        //PlayerPrefs.DeleteKey("SwordId"); //PlayerPrefs 값 초기화
+
 
         // 저장된 값이 있으면 복원 (없으면 인스펙터 값 유지)
         availableCount = PlayerPrefs.GetInt($"DoorCount_{doorId}", availableCount);

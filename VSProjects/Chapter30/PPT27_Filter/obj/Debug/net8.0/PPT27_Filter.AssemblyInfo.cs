@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPT27_Filter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9df70ec9e20bf26373dab43b17dc906f1b0b99b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+563aeabe9ab95ec1010aa1e776d0569de1b38758")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPT27_Filter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPT27_Filter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

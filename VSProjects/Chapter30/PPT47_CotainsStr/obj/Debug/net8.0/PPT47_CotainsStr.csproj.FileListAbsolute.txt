@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\bin\Debug\net8.0\PPT47_CotainsStr.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\bin\Debug\net8.0\PPT47_CotainsStr.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\bin\Debug\net8.0\PPT47_CotainsStr.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\bin\Debug\net8.0\PPT47_CotainsStr.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\bin\Debug\net8.0\PPT47_CotainsStr.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\PPT47_CotainsStr.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\PPT47_CotainsStr.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\PPT47_CotainsStr.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\PPT47_CotainsStr.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\PPT47_CotainsStr.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\PPT47_CotainsStr.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\refint\PPT47_CotainsStr.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\PPT47_CotainsStr.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\PPT47_CotainsStr.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT47_CotainsStr\obj\Debug\net8.0\ref\PPT47_CotainsStr.dll

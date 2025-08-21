@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\bin\Debug\net8.0\PPT54_First.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\bin\Debug\net8.0\PPT54_First.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\bin\Debug\net8.0\PPT54_First.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\bin\Debug\net8.0\PPT54_First.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\bin\Debug\net8.0\PPT54_First.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\PPT54_First.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\PPT54_First.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\PPT54_First.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\PPT54_First.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\PPT54_First.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\PPT54_First.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\refint\PPT54_First.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\PPT54_First.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\PPT54_First.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT54_First\obj\Debug\net8.0\ref\PPT54_First.dll

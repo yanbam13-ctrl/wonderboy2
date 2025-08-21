@@ -20,6 +20,9 @@ public class PlayerFire : MonoBehaviour
     //피격 이펙트 파티클 시스템
     ParticleSystem ps; // 피격 이펙트 오브젝트를 이동 시킨후 재생 시키기 위해 필요.
 
+    //발사 무기 공격력
+    public int weaponPower; //5
+
     private void Start()
     {
         //피격 이펙트 오브젝트에서 파티클 시스템 컴포넌트 가져오기
@@ -55,20 +58,30 @@ public class PlayerFire : MonoBehaviour
             //레이가 부딪힌 대상의 정보를 저장할 변수를 생성한다.
             RaycastHit hitInfo = new RaycastHit();
 
-            //레이를 발사한 후 만일 부딪힌 물체가 있으면 피격 이펙트를 표시
+            //레이를 발사한 후 만일 부딪힌 물체가 있으면
             if (Physics.Raycast(ray, out hitInfo))
             {
-                //Debug.Log(hitInfo.transform.gameObject.name);
-                //피격 이펙트의 위치를 레이가 부딪힌 지점으로 이동
-                bulletEffect.transform.position = hitInfo.point;
+                //만일 레이에 부딪힌 대상의 레이어가 'Enemy라면 데미지 함수를 실행한다.
+                if (hitInfo.transform.gameObject.layer == LayerMask.NameToLayer("Enemy"))
+                {
+                    EnemyFSM eFSM = hitInfo.transform.GetComponent<EnemyFSM>();
+                    eFSM.HitEnemy(weaponPower);
+                }
+                //그렇지 않다면, 레이에 부딪힌 지점에 피격 이펙트를 플레이한다.
+                else
+                {
+                    //Debug.Log(hitInfo.transform.gameObject.name);
+                    //피격 이펙트의 위치를 레이가 부딪힌 지점으로 이동
+                    bulletEffect.transform.position = hitInfo.point;
 
-                //피격 이펙트의 forward 방향을 레이가 부딪힌 지점의 법선 벡터와 일치시킨다.
-                bulletEffect.transform.forward = hitInfo.normal;
+                    //피격 이펙트의 forward 방향을 레이가 부딪힌 지점의 법선 벡터와 일치시킨다.
+                    bulletEffect.transform.forward = hitInfo.normal;
 
-                //피격 이펙트를 플레이
-                ps.Play();
+                    //피격 이펙트를 플레이
+                    ps.Play();
+                }
+                
             }
-
 
         }
     }

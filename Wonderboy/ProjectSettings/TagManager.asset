@@ -64,3 +64,6 @@ TagManager:
   - name: Player
     uniqueID: 1893576499
     locked: 0
+  - name: Sword
+    uniqueID: 1019425233
+    locked: 0

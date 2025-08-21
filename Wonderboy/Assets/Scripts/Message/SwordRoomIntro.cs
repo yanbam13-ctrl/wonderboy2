@@ -34,7 +34,9 @@ public class SwordRoomIntro : MonoBehaviour
     {
         if (!md.MessageTrigger)
         {
-            SaveFlags.SetBool(SaveFlags.HasSword, true);
+            SaveInventory.SwordId = 0;  // 장착(표시할 종류)
+            SaveInventory.SetOwned("sword_01", true); // (선택) 소유 목록에 기록
+
             SaveFlags.SetBool(SaveFlags.Stage01_BrickBounce, true);
 
             SceneManager.LoadScene(nextSceneName);

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\bin\Debug\net8.0\PPT65_Map.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\bin\Debug\net8.0\PPT65_Map.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\bin\Debug\net8.0\PPT65_Map.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\bin\Debug\net8.0\PPT65_Map.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\bin\Debug\net8.0\PPT65_Map.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\PPT65_Map.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\PPT65_Map.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\PPT65_Map.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\PPT65_Map.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\PPT65_Map.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\PPT65_Map.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\refint\PPT65_Map.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\PPT65_Map.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\PPT65_Map.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT65_Map\obj\Debug\net8.0\ref\PPT65_Map.dll

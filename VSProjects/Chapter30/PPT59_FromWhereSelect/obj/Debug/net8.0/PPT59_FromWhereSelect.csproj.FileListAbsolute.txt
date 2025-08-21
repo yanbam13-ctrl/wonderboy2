@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\bin\Debug\net8.0\PPT59_FromWhereSelect.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\bin\Debug\net8.0\PPT59_FromWhereSelect.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\bin\Debug\net8.0\PPT59_FromWhereSelect.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\bin\Debug\net8.0\PPT59_FromWhereSelect.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\bin\Debug\net8.0\PPT59_FromWhereSelect.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\PPT59_FromWhereSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\PPT59_FromWhereSelect.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\PPT59_FromWhereSelect.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\PPT59_FromWhereSelect.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\PPT59_FromWhereSelect.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\PPT59_FromWhereSelect.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\refint\PPT59_FromWhereSelect.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\PPT59_FromWhereSelect.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\PPT59_FromWhereSelect.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter30\PPT59_FromWhereSelect\obj\Debug\net8.0\ref\PPT59_FromWhereSelect.dll

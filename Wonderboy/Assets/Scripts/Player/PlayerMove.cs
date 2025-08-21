@@ -4,7 +4,8 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
-
+    //Player jump시 검의 이미지 변경을 위한 변수
+    PlayerInventory pInv;  // 캐시
 
     // =========[ 이동/점프 파라미터 ]=========
     public float moveSpeed = 5f;      // 지상에서 좌우 이동 속도
@@ -43,6 +44,8 @@ public class PlayerMove : MonoBehaviour
         sr = GetComponent<SpriteRenderer>(); // 스프라이트가 자식에 있으면 GetComponentInChildren<SpriteRenderer>()
 
         animator = GetComponent<Animator>();
+
+        pInv = GetComponent<PlayerInventory>();
     }
 
 
@@ -77,7 +80,14 @@ public class PlayerMove : MonoBehaviour
         // 움직임 애니메이션 적용
         // x가 0보다 작다(왼쪽 입력)면 스프라이트를 좌우 반전시켜 왼쪽을 보게 함.
         // x가 0 이상(정지 또는 오른쪽 입력)이면 반전 해제 → 오른쪽 바라봄.
-        if (movingNow) sr.flipX = (axis < 0);
+        if (movingNow)
+        {
+            if (axis > 0) transform.rotation = Quaternion.Euler(0, 0, 0);
+            else transform.rotation = Quaternion.Euler(0, 180, 0);
+        }
+
+
+        //if (movingNow) sr.flipX = (axis < 0);
 
         animator.SetBool("Move", moveState && grounded);
 
@@ -85,6 +95,7 @@ public class PlayerMove : MonoBehaviour
         // ★ 입력은 Update에서 읽는 게 좋음(프레임 기반).
         if (Input.GetButtonDown("Fire1") && grounded)
         {
+
             // 점프 속도 계산: v = sqrt(2 * g * h)
             // g : 실제 중력 가속도(Physics2D.gravity.y * gravityScale)
             // h : 목표 점프 높이(jumpHeight)
@@ -97,9 +108,14 @@ public class PlayerMove : MonoBehaviour
             // 위 방향 초기 속도 부여 → 항상 같은 높이로 점프
             rb.velocity = new Vector2(rb.velocity.x, v);
 
+            // <<< 점프 시작 알림
+            pInv?.SwordStateJump(true);
+
         }
-            animator.SetBool("IsJumping",!grounded);
+        animator.SetBool("IsJumping", !grounded);
     }
+
+    bool wasGrounded;
 
     void FixedUpdate()
     {
@@ -126,6 +142,13 @@ public class PlayerMove : MonoBehaviour
         // 낙하 속도가 너무 빨라지지 않도록 하한 클램프
         if (rb.velocity.y < maxFallSpeed)
             rb.velocity = new Vector2(rb.velocity.x, maxFallSpeed);
+
+        // 4) 착지 전환 감지  <<< 이 블록 추가
+        if (grounded && !wasGrounded)
+        {
+            pInv?.SwordStateJump(false); // 착지 시: 대기 검 켜기
+        }
+        wasGrounded = grounded;
 
     }
 
