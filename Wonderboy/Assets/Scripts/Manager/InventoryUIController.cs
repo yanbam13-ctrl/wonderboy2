@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class InventoryUIController : MonoBehaviour
 {
-    public Item01SlotUI item01Slot;
+    public ItemSlotUI itemSlot;
 
     void Start()
     {
@@ -19,8 +19,8 @@ public class InventoryUIController : MonoBehaviour
 
         int id = SaveInventory.SwordId; // -1이면 없음
 
-        Sprite s = (id >= 0 && id < item01Slot.options.Count) ? item01Slot.options[id] : null;
-        item01Slot.SetSprite(s);
+        Sprite s = (id >= 0 && id < itemSlot.options.Count) ? itemSlot.options[id] : null;
+        itemSlot.SetSprite(s);
 
 
     }

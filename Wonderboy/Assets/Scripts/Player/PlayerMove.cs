@@ -1,11 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Net.NetworkInformation;
 using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
     //Player jump시 검의 이미지 변경을 위한 변수
     PlayerInventory pInv;  // 캐시
+
+    //공중 공격을 위해 필요한 변수
+    bool attackQueued;
+    float attackQueueT;
+    const float attackBuffer = 0.18f;   // 예약 유지 시간(0.15~0.2 추천)
 
     // =========[ 이동/점프 파라미터 ]=========
     public float moveSpeed = 5f;      // 지상에서 좌우 이동 속도
@@ -26,8 +32,6 @@ public class PlayerMove : MonoBehaviour
     private Rigidbody2D rb;  // 물리 처리 담당 컴포넌트 캐시
     private bool grounded;   // 이번 물리 프레임에서 바닥에 닿아있는가?
 
-    SpriteRenderer sr;   // ← 스프라이트 렌더러 참조
-
     private Animator animator;
 
     public float moveTapBuffer = 0.12f;  // 살짝 눌러도 이 시간만큼 Move 유지
@@ -40,8 +44,6 @@ public class PlayerMove : MonoBehaviour
 
         // 기본 중력 세팅
         rb.gravityScale = baseGravity;
-
-        sr = GetComponent<SpriteRenderer>(); // 스프라이트가 자식에 있으면 GetComponentInChildren<SpriteRenderer>()
 
         animator = GetComponent<Animator>();
 
@@ -113,7 +115,18 @@ public class PlayerMove : MonoBehaviour
 
         }
         animator.SetBool("IsJumping", !grounded);
+
+        // 공격 버튼 눌렸을때 애니메이션 전환
+
+        if (SaveInventory.SwordId < 0) return; // 검을 가지고 있지 않다면 공격버튼 작동x
+
+        if (Input.GetButtonDown("Fire2"))
+        {
+            pInv?.AttackStart();
+            animator.SetTrigger("IsAttack");
+        }
     }
+
 
     bool wasGrounded;
 

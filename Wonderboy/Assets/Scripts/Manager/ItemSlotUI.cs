@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Item01SlotUI : MonoBehaviour
+public class ItemSlotUI : MonoBehaviour
 {
     Image img;
     Sprite emptySprite;
