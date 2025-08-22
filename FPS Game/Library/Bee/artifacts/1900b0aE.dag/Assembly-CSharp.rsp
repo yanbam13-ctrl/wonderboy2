@@ -362,6 +362,7 @@
 "Assets/Scripts/CamRotate.cs"
 "Assets/Scripts/DestroyEffect.cs"
 "Assets/Scripts/EnemyFSM.cs"
+"Assets/Scripts/GameManager.cs"
 "Assets/Scripts/PlayerFire.cs"
 "Assets/Scripts/PlayerMove.cs"
 "Assets/Scripts/PlayerRoate.cs"

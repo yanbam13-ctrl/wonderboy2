@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\bin\Debug\net8.0\PPT44_SortAlgorithm.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\bin\Debug\net8.0\PPT44_SortAlgorithm.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\bin\Debug\net8.0\PPT44_SortAlgorithm.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\bin\Debug\net8.0\PPT44_SortAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\bin\Debug\net8.0\PPT44_SortAlgorithm.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\PPT44_SortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\PPT44_SortAlgorithm.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\PPT44_SortAlgorithm.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\PPT44_SortAlgorithm.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\PPT44_SortAlgorithm.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\PPT44_SortAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\refint\PPT44_SortAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\PPT44_SortAlgorithm.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\PPT44_SortAlgorithm.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT44_SortAlgorithm\obj\Debug\net8.0\ref\PPT44_SortAlgorithm.dll

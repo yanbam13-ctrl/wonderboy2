@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\bin\Debug\net8.0\PPT31_RankAlgorithm.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\bin\Debug\net8.0\PPT31_RankAlgorithm.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\bin\Debug\net8.0\PPT31_RankAlgorithm.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\bin\Debug\net8.0\PPT31_RankAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\bin\Debug\net8.0\PPT31_RankAlgorithm.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\PPT31_RankAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\PPT31_RankAlgorithm.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\PPT31_RankAlgorithm.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\PPT31_RankAlgorithm.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\PPT31_RankAlgorithm.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\PPT31_RankAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\refint\PPT31_RankAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\PPT31_RankAlgorithm.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\PPT31_RankAlgorithm.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT31_RankAlgorithm\obj\Debug\net8.0\ref\PPT31_RankAlgorithm.dll

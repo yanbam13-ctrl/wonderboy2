@@ -12,6 +12,10 @@ public class PlayerRoate : MonoBehaviour
 
     private void Update()
     {
+        //게임 상태가 '게임 중' 상태 일때만 조작할수 있게 한다.
+        if (GameManager.gm.gState != GameManager.GameState.Run) return;
+
+
         //사용자 마우스 입력을 받아 플레이어를 회전
         //1. 마우스 좌우 입력을 받음
 

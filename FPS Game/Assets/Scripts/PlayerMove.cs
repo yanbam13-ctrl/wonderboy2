@@ -33,6 +33,9 @@ public class PlayerMove : MonoBehaviour
     //hp 슬라이더 변수
     public Slider hpSlider;
 
+    //Hit 효과 오브젝트
+    public GameObject hitEffect;
+
     private void Start()
     {
         //캐릭터 컨트롤러 컴포넌트 받아옴
@@ -41,6 +44,9 @@ public class PlayerMove : MonoBehaviour
 
     private void Update()
     {
+        //게임 상태가 '게임 중' 상태 일때만 조작할수 있게 한다.
+        if (GameManager.gm.gState != GameManager.GameState.Run) return;
+
         //키보드 W, A, S, D 버튼을 입력하면 캐릭터를 그 방향으로 이동시키고 싶다.
 
         //1.사용자의 입력을 받는다.
@@ -86,7 +92,7 @@ public class PlayerMove : MonoBehaviour
         //transform.position += dir * moveSpeed * Time.deltaTime;
 
         //그래서 캐릭터 컨트롤러를 사용
-                
+
         cc.Move(dir * moveSpeed * Time.deltaTime);
 
         //4. 현재 플레이어 hp(%)를 hp슬라이더의 value에 반영
@@ -100,5 +106,25 @@ public class PlayerMove : MonoBehaviour
         //에너미의 공격력만큼 플레이어의 체력을 깎는다.
         hp -= damage;
         print(hp);
+
+        //만일, 플레이어의 체력이 0보다 크면 피격 효과를 출력한다.
+        if (hp > 0)
+        {
+            //피격 이펙트 코루틴을 시작한다.
+            StartCoroutine(PlayHitEffect());
+        }
+    }
+
+    // 피격 효과 코루틴 함수
+    IEnumerator PlayHitEffect()
+    {
+        //1.피격 UI를 활성화 한다.
+        hitEffect.SetActive(true);
+
+        //2. 0.3초간 대기한다.
+        yield return new WaitForSeconds(0.3f);
+
+        //3. 피격 UI를 비활성화한다.
+        hitEffect.SetActive(false);
     }
 }

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\bin\Debug\net8.0\PPT22_NearAlgorithm.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\bin\Debug\net8.0\PPT22_NearAlgorithm.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\bin\Debug\net8.0\PPT22_NearAlgorithm.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\bin\Debug\net8.0\PPT22_NearAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\bin\Debug\net8.0\PPT22_NearAlgorithm.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\PPT22_NearAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\PPT22_NearAlgorithm.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\PPT22_NearAlgorithm.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\PPT22_NearAlgorithm.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\PPT22_NearAlgorithm.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\PPT22_NearAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\refint\PPT22_NearAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\PPT22_NearAlgorithm.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\PPT22_NearAlgorithm.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT22_NearAlgorithm\obj\Debug\net8.0\ref\PPT22_NearAlgorithm.dll

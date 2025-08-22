@@ -31,6 +31,10 @@ public class PlayerFire : MonoBehaviour
 
     private void Update()
     {
+        //게임 상태가 '게임 중' 상태 일때만 조작할수 있게 한다.
+        if (GameManager.gm.gState != GameManager.GameState.Run) return;
+
+
         //마우스 오른쪽 버튼을 누르면 시선이 바라보는 방향으로 수류탄을 던지고 싶다.
 
         //마우스 오른쪽 버튼을 입력받는다.
