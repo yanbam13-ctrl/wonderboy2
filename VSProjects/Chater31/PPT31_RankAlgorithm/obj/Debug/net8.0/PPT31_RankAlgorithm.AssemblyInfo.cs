@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPT31_RankAlgorithm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61a45d8ba12febeeec9edc4ce295d9eef83181e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7418d1c1291d502173859352c0e1988e93cf8e5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPT31_RankAlgorithm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPT31_RankAlgorithm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

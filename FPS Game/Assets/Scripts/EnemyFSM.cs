@@ -47,6 +47,7 @@ public class EnemyFSM : MonoBehaviour
 
     // 초기 위치 저장용 변수
     Vector3 originPos;
+    Quaternion originRot;    
 
     // 이동 가능 범위
     public float moveDistance; // 20f
@@ -61,16 +62,27 @@ public class EnemyFSM : MonoBehaviour
 
     public Slider hpSlider;
 
+    //애니메이터 변수
+    Animator anim;
+
+
     private void Start()
     {
         //최초의 에너미 상태를 대기
         m_State = EnemyState.Idle;
 
+        //플레이어의 트랜스폼 컴포넌트 가져옴
         player = GameObject.Find("Player").transform;
 
+        // 캐릭터 컨트롤러 컴포넌트 가져옴
         cc = GetComponent<CharacterController>();
 
+        //자식 오브젝트로부터 애니메이터 변수 받아오기
+        anim = transform.GetComponentInChildren<Animator>();
+
+        //자신의 초기 위치를 저장
         originPos = transform.position;
+        originRot = transform.rotation;
     }
 
 
@@ -112,7 +124,11 @@ public class EnemyFSM : MonoBehaviour
             transform.position, player.position) < findDistance)
         {
             m_State = EnemyState.Move;
-            print("상태전환 : Idle -> Move");
+            print("상태 전환: Idle -> Move");
+
+            //이동 애니메이션으로 전환하기
+            anim.SetTrigger("IdleToMove");
+
         }
     }
 
@@ -134,6 +150,9 @@ public class EnemyFSM : MonoBehaviour
 
             //캐릭터 컨트롤러를 이용해 이동
             cc.Move(dir * moveSpeed * Time.deltaTime);
+
+            //플레이어를 향해 방향을 전환한다.
+            transform.forward = dir;
         }
         else
         {
@@ -174,16 +193,25 @@ public class EnemyFSM : MonoBehaviour
         {
             Vector3 dir = (originPos - transform.position).normalized;
             cc.Move(dir * moveSpeed * Time.deltaTime);
+
+            //복귀 지점으로 방향을 전환
+            transform.forward = dir;
         }
         //그렇지 않다면, 자신의 위치를 초기 위치로 조정하고 현재 상태를 대기로 전환한다.
         else
         {
             transform.position = originPos;
+            transform.rotation = originRot;
+           
 
             //hp를 다시 회복
             //hp = maxHp;
             m_State = EnemyState.Idle;
             print("상태전환 : Return -> Idle");
+
+            //대기 애니메이션으로 전환하는 트렌지션을 호출한다.
+            anim.SetTrigger("MoveToIdle");
+
         }
     }
 
@@ -241,7 +269,7 @@ public class EnemyFSM : MonoBehaviour
         //죽음 상태를 처리하기 위한 코루틴을 실행한다.
         StartCoroutine(DieProcess());
     }
-        IEnumerator DieProcess()
+    IEnumerator DieProcess()
     {
         //캐릭터 콘트롤러 컴포넌트를 비활성화시킨다.
         cc.enabled = false;

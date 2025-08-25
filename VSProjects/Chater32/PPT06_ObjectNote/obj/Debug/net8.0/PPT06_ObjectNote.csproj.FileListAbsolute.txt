@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\bin\Debug\net8.0\PPT06_ObjectNote.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\bin\Debug\net8.0\PPT06_ObjectNote.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\bin\Debug\net8.0\PPT06_ObjectNote.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\bin\Debug\net8.0\PPT06_ObjectNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\bin\Debug\net8.0\PPT06_ObjectNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\PPT06_ObjectNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\PPT06_ObjectNote.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\PPT06_ObjectNote.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\PPT06_ObjectNote.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\PPT06_ObjectNote.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\PPT06_ObjectNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\refint\PPT06_ObjectNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\PPT06_ObjectNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\PPT06_ObjectNote.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT06_ObjectNote\obj\Debug\net8.0\ref\PPT06_ObjectNote.dll

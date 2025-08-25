@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\bin\Debug\net8.0\PPT55_SerchAlgorithm.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\bin\Debug\net8.0\PPT55_SerchAlgorithm.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\bin\Debug\net8.0\PPT55_SerchAlgorithm.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\bin\Debug\net8.0\PPT55_SerchAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\bin\Debug\net8.0\PPT55_SerchAlgorithm.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\PPT55_SerchAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\PPT55_SerchAlgorithm.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\PPT55_SerchAlgorithm.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\PPT55_SerchAlgorithm.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\PPT55_SerchAlgorithm.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\PPT55_SerchAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\refint\PPT55_SerchAlgorithm.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\PPT55_SerchAlgorithm.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\PPT55_SerchAlgorithm.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater31\PPT55_SerchAlgorithm\obj\Debug\net8.0\ref\PPT55_SerchAlgorithm.dll

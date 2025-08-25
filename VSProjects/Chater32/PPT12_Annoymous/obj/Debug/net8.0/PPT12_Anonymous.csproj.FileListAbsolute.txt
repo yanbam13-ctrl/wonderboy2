@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\bin\Debug\net8.0\PPT12_Anonymous.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\bin\Debug\net8.0\PPT12_Anonymous.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\bin\Debug\net8.0\PPT12_Anonymous.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\bin\Debug\net8.0\PPT12_Anonymous.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\bin\Debug\net8.0\PPT12_Anonymous.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\PPT12_Anonymous.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\PPT12_Anonymous.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\PPT12_Anonymous.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\PPT12_Anonymous.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\PPT12_Anonymous.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\PPT12_Anonymous.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\refint\PPT12_Anonymous.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\PPT12_Anonymous.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\PPT12_Anonymous.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT12_Annoymous\obj\Debug\net8.0\ref\PPT12_Anonymous.dll

@@ -10,6 +10,8 @@ public class CamRotate : MonoBehaviour
     //회전 값 변수
     float mx = 0;
     float my = 0;
+
+
     private void Update()
     {
         //게임 상태가 '게임 중' 상태 일때만 조작할수 있게 한다.
@@ -31,9 +33,5 @@ public class CamRotate : MonoBehaviour
 
         //2. 회전 방향으로 물체를 회전시킨다.
         transform.eulerAngles = new Vector3(-my, mx, 0);
-
-
-
-
     }
 }

@@ -15,7 +15,7 @@ TagManager:
   - UI
   - BG
   - BGObject
-  - 
+  - Coin
   - 
   - 
   - 
@@ -58,7 +58,7 @@ TagManager:
   - name: New Layer 5
     uniqueID: 2441462905
     locked: 0
-  - name: New Layer 6
+  - name: Monster
     uniqueID: 2106122811
     locked: 0
   - name: Player
