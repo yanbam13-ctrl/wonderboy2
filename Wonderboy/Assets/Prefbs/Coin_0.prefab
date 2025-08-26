@@ -121,6 +121,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0fc64cc5e883ec740a2876b28288273b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  airSpin: 4
+  airFallTarget: 1
+  groundSpin: 0.4
+  airDampRate: 3
+  groundDampRate: 2
+  stopDampRate: 6
+  rollSpeed: 3
+  rollDir: 1
+  rollDuration: 5
+  fallenKeepSeconds: 2
+  fallenSprite: {fileID: 0}
 --- !u!58 &1179145942268673421
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -182,4 +193,4 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4

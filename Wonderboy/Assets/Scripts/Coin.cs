@@ -1,78 +1,211 @@
-using System.Collections;
-using System.Collections.Generic;
+﻿using System.Collections;
 using UnityEngine;
 
 public class Coin : MonoBehaviour
 {
-    int CoinValue;
+    // ===== Inspector =====
+    [Header("Spin Speeds")]
+    public float airSpin = 4.0f;        // 공중 시작 회전
+    public float airFallTarget = 1.0f;  // 공중 감속 목표
+    public float groundSpin = 0.4f;     // 지면 감속 목표
+    public float airDampRate = 3f;      // 공중 회전 감속(초당)
+    public float groundDampRate = 2f;   // 지면 회전 감속(초당)
+    public float stopSpinDampRate = 6f; // 정지 단계 회전 감속(초당)
+
+    [Header("Linear Move")]
+    public float rollSpeed = 3f;            // 착지 직후 수평 속도
+    public float linearDampRate = 0.6f;     // 굴러가는 동안 자연 감속(초당)
+    public float stopLinearDampRate = 2.5f; // 정지 단계 수평 감속(초당)
+    public float bounceDamping = 0.8f;      // 벽 튕김시 속도 감쇠(에너지 손실)
+
+    [Header("Vanish")]
+    public float rollDuration = 5f;         // 굴러다니는 시간
+    public float fallenKeepSeconds = 2f;    // 눕고 난 뒤 유지 시간
+    public Sprite fallenSprite;             // 눕힌 스프라이트(있으면 사용)
+
+    // ===== Internal =====
+    int coinValue;
     Rigidbody2D rb;
+    Animator anim;
+    SpriteRenderer sr;
 
-    //Animator anim;
-    bool isRolling = false;
+    bool coinTouchGround;
+    bool isRolling;
+    bool isStopping;
+    bool fallStarted;
+
     float rollStartTime;
+    int rollDir = 1;          // 좌(−1)/우(+1)
+    float currentSpin;        // 애니 회전 속도 (Animator 파라미터 SpinSpeed로 반영)
+    float currentXSpeed;      // 실제 수평 이동 속도(물리)
 
-    private void Awake()
+    void Awake()
     {
-        CoinValue = Random.Range(1, 50);
-        print(CoinValue);
-        //anim = GetComponent<Animator>();
+        coinValue = Random.Range(1, 50);
 
-        rb = GetComponent<Rigidbody2D>();
-        if (rb == null) rb = gameObject.AddComponent<Rigidbody2D>();
+        rb = GetComponent<Rigidbody2D>() ?? gameObject.AddComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
+        sr = GetComponent<SpriteRenderer>();
 
-        // �߷� ����
+        // 물리 기본
         rb.gravityScale = 1.5f;
+        rb.collisionDetectionMode = CollisionDetectionMode2D.Continuous;
 
-        //���� ���� ���� Ƣ������� (5�� ���� ũ��)
+        // 살짝 위로 튀기기
         rb.AddForce(Vector2.up * 7.5f, ForceMode2D.Impulse);
 
+        // 시작: 공중 빠른 회전
+        currentSpin = airSpin;
+        if (anim) anim.SetFloat("SpinSpeed", currentSpin);
+
+        // 방향 랜덤(원하면 고정 유지)
+        rollDir = 1;
+        //rollDir = (Random.value < 0.5f) ? -1 : 1;
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    void OnCollisionEnter2D(Collision2D c)
     {
-        //������ �ٴڿ� ����� Ȯ��
-        bool coinTouchGround = collision.gameObject.layer == LayerMask.NameToLayer("Ground");
-        print(coinTouchGround);
-        if (!coinTouchGround) return; // �ٴڿ� ���� �ʾҴٸ� ����
+        if (c.gameObject.layer != LayerMask.NameToLayer("Ground")) return;
 
-        //5�ʵ� ������ �ٴڿ� �굵�� �ϱ� ���� ����ð� ����
+        // 위쪽 면과 닿았는지(벽/천장 제외)
+        bool hitTop = false;
+        foreach (var cp in c.contacts) if (cp.normal.y > 0.5f) { hitTop = true; break; }
+        if (!hitTop) return;
+
+        coinTouchGround = true;
         isRolling = true;
-
-
-        //�ٴڿ� ��Ҵٸ� ���������� �ϱ�
-        rb.velocity = new Vector2(3f, rb.velocity.y);
+        isStopping = false;
         rollStartTime = Time.time;
 
-        ////�ٴڿ� ��Ҵٸ� �ִϸ��̼� ����
-        //if (anim != null) anim.SetTrigger("CoinStop");
-        //print("CoinStop");
+        // 착지 직후: 수평 속도로 시작, 대각선 제거
+        currentXSpeed = rollSpeed;
+        rb.velocity = new Vector2(rollDir * currentXSpeed, 0f);
     }
 
-    private void Update()
+    void OnCollisionStay2D(Collision2D c)
     {
-        if (isRolling && Time.time - rollStartTime >= 5f)
+        // 벽 측면과 맞닿았을 때 방향 전환(튕김)
+        if (!isRolling) return;
+        if (c.gameObject.layer != LayerMask.NameToLayer("Ground")) return;
+
+        foreach (var cp in c.contacts)
         {
-            //�������� ����
-            rb.velocity = Vector2.zero;
-
-            //ȸ�� ���� ����
-            rb.freezeRotation = false;
-
-            //�������� �ϱ�
-            //1. �ٴڿ� ���� ����
-            //transform.rotation = Quaternion.Euler(80f, 0, 0);
-            //transform.position = new Vector2(0f, 0f);
-
-            //2.��ũ�� �༭ �ڿ�������
-
-            float dir = Random.value < 0.5f ? -1f : 1f;
-            rb.AddTorque(5f * dir, ForceMode2D.Impulse);
-
-            isRolling = false;
-
-
+            // 측면 충돌: normal.x이 크면 벽
+            if (Mathf.Abs(cp.normal.x) > 0.5f)
+            {
+                rollDir *= -1;
+                currentXSpeed *= bounceDamping; // 에너지 손실
+                break;
+            }
         }
     }
 
+    void Update()
+    {
+        // 회전 속도 감쇠(공중/지면)
+        if (!coinTouchGround)
+        {
+            currentSpin = Mathf.MoveTowards(currentSpin, airFallTarget, airDampRate * Time.deltaTime);
+        }
+        else if (isRolling && !isStopping)
+        {
+            currentSpin = Mathf.MoveTowards(currentSpin, groundSpin, groundDampRate * Time.deltaTime);
+        }
 
+        // 정지 단계 진입 조건
+        if (isRolling && (Time.time - rollStartTime >= rollDuration))
+        {
+            isStopping = true;
+        }
+
+        // 정지 단계: 회전 속도 0으로 수렴
+        if (isStopping)
+        {
+            currentSpin = Mathf.MoveTowards(currentSpin, 0f, stopSpinDampRate * Time.deltaTime);
+
+            // 이동/회전 모두 충분히 느려지면 눕히기 시작
+            if (!fallStarted && currentSpin <= 0.02f && Mathf.Abs(currentXSpeed) <= 0.05f)
+            {
+                fallStarted = true;
+                isRolling = false;
+                currentSpin = 0f;
+                if (anim) anim.SetFloat("SpinSpeed", 0f);
+                StartCoroutine(FallThenVanish());
+            }
+        }
+
+        // 매 프레임 애니 파라미터 반영
+        if (anim) anim.SetFloat("SpinSpeed", currentSpin);
+    }
+
+    void FixedUpdate()
+    {
+        if (!coinTouchGround) return;
+
+        if (isRolling && !isStopping)
+        {
+            // 굴러가는 동안 천천히 감속(프릭션 느낌)
+            currentXSpeed = Mathf.MoveTowards(currentXSpeed, 0f, linearDampRate * Time.fixedDeltaTime);
+            rb.velocity = new Vector2(rollDir * currentXSpeed, 0f);
+        }
+        else if (isStopping)
+        {
+            // 정지 단계: 더 빠르게 감속
+            currentXSpeed = Mathf.MoveTowards(currentXSpeed, 0f, stopLinearDampRate * Time.fixedDeltaTime);
+            rb.velocity = new Vector2(rollDir * currentXSpeed, 0f);
+        }
+        else
+        {
+            // 안전망: 굴러가지 않으면 y는 0으로 유지
+            rb.velocity = new Vector2(rb.velocity.x, 0f);
+        }
+    }
+
+    IEnumerator FallThenVanish()
+    {
+        rb.velocity = Vector2.zero;
+        rb.angularVelocity = 0f;
+        rb.bodyType = RigidbodyType2D.Kinematic;
+
+        yield return null;            // 1프레임 대기(바운드 안정화)
+        SnapToGround();               // 먼저 바닥에 붙이고
+
+        if (anim) anim.enabled = false;
+        if (sr && fallenSprite) sr.sprite = fallenSprite;
+
+        // ▼ 교체된 스프라이트가 ‘이미 눕혀진’ 그림이면 큰 회전 금지
+        float z = Random.Range(-90f, 90f); // 살짝만 기울이기
+        float dur = 0.25f, t = 0f;
+        Quaternion from = transform.rotation;
+        Quaternion to = Quaternion.Euler(0, 0, z);
+
+        while (t < dur) { t += Time.deltaTime; transform.rotation = Quaternion.Slerp(from, to, t / dur); yield return null; }
+
+        yield return new WaitForSecondsRealtime(fallenKeepSeconds);
+        Destroy(gameObject);
+    }
+
+    void SnapToGround()
+    {
+        int mask = LayerMask.GetMask("Ground");
+        var col = GetComponent<Collider2D>();
+        if (!col) return;
+
+        Vector2 origin = col.bounds.center;
+        float maxDist = 5f;
+        Debug.DrawRay(origin, Vector2.down * maxDist, Color.red, 2f);
+
+        var hit = Physics2D.Raycast(origin, Vector2.down, maxDist, mask);
+        if (!hit.collider)
+        {
+            Debug.Log("SnapToGround: no ground hit");
+            return;
+        }
+
+        float halfHeight = col.bounds.extents.y;
+        float targetY = hit.point.y + halfHeight;
+        Debug.Log($"SnapToGround hit {hit.collider.name}, hitY={hit.point.y}, targetY={targetY}");
+
+        transform.position = new Vector3(transform.position.x, targetY, transform.position.z);
+    }
 }

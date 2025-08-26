@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\bin\Debug\net8.0\PPT18_ClassDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\bin\Debug\net8.0\PPT18_ClassDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\bin\Debug\net8.0\PPT18_ClassDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\bin\Debug\net8.0\PPT18_ClassDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\bin\Debug\net8.0\PPT18_ClassDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\PPT18_ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\PPT18_ClassDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\PPT18_ClassDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\PPT18_ClassDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\PPT18_ClassDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\PPT18_ClassDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\refint\PPT18_ClassDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\PPT18_ClassDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\PPT18_ClassDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT18_ClassDemo\obj\Debug\net8.0\ref\PPT18_ClassDemo.dll

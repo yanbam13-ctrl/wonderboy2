@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPT06_ObjectNote")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7418d1c1291d502173859352c0e1988e93cf8e5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddf707627b2fc5260b5a644c68c9646c70aae5e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPT06_ObjectNote")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPT06_ObjectNote")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\bin\Debug\net8.0\PPT25_ToStringMethod.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\bin\Debug\net8.0\PPT25_ToStringMethod.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\bin\Debug\net8.0\PPT25_ToStringMethod.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\bin\Debug\net8.0\PPT25_ToStringMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\bin\Debug\net8.0\PPT25_ToStringMethod.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\PPT25_ToStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\PPT25_ToStringMethod.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\PPT25_ToStringMethod.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\PPT25_ToStringMethod.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\PPT25_ToStringMethod.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\PPT25_ToStringMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\refint\PPT25_ToStringMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\PPT25_ToStringMethod.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\PPT25_ToStringMethod.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater32\PPT25_ToStringMethod\obj\Debug\net8.0\ref\PPT25_ToStringMethod.dll

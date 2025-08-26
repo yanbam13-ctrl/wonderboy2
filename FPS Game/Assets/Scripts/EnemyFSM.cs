@@ -47,7 +47,7 @@ public class EnemyFSM : MonoBehaviour
 
     // 초기 위치 저장용 변수
     Vector3 originPos;
-    Quaternion originRot;    
+    Quaternion originRot;
 
     // 이동 가능 범위
     public float moveDistance; // 20f
@@ -159,7 +159,12 @@ public class EnemyFSM : MonoBehaviour
             // 그렇지 않다면, 현재 상태를 공격(attack)으로 전환
             m_State = EnemyState.Attack;
             print("상태 전환: Move -> Attack");
+
+            //누적 시간을 공격 딜레이 시간만큼 미리 진행시켜 놓음
             currentTime = attackDelay;
+
+            //공격 대기 애니메이션 플레이
+            anim.SetTrigger("MoveToAttackDelay");
         }
     }
 
@@ -172,9 +177,12 @@ public class EnemyFSM : MonoBehaviour
             currentTime += Time.deltaTime;
             if (currentTime > attackDelay)
             {
-                player.GetComponent<PlayerMove>().DamageAction(attackPower);
+                //player.GetComponent<PlayerMove>().DamageAction(attackPower);
                 print("공격");
                 currentTime = 0;
+
+                //공격 애니메이션 플레이
+                anim.SetTrigger("StartAttack");
             }
         }
         //그렇지 않다면, 현재 상태를 이동(Move)으로 전환한다.(재추격 실시)
@@ -183,7 +191,15 @@ public class EnemyFSM : MonoBehaviour
             m_State = EnemyState.Move;
             print("상태전환 : Attack -> Move");
             currentTime = 0;
+
+            //이동 애니메이션 플레이
+            anim.SetTrigger("AttackToMove");
         }
+    }
+    //플레이어의 스크립트의 데미지 처리 함수를 호출
+    public void AttackAction()
+    {
+        player.GetComponent<PlayerMove>().DamageAction(attackPower);
     }
 
     void Return()
@@ -202,7 +218,7 @@ public class EnemyFSM : MonoBehaviour
         {
             transform.position = originPos;
             transform.rotation = originRot;
-           
+
 
             //hp를 다시 회복
             //hp = maxHp;
@@ -233,6 +249,10 @@ public class EnemyFSM : MonoBehaviour
         {
             m_State = EnemyState.Damaged;
             print("상태전환 : Any state -> Damaged");
+
+            anim.SetTrigger("Damaged");
+
+            // 피격 애니메이션을 플레이
             Damaged();
         }
         //그렇지 않다면 죽음 상태로 전환
@@ -240,6 +260,8 @@ public class EnemyFSM : MonoBehaviour
         {
             m_State = EnemyState.Die;
             print("상태 전환: Any state -> Die");
+            //죽음 애니메이션을 플레이한다.
+            anim.SetTrigger("Die");
             Die();
         }
     }
@@ -254,7 +276,7 @@ public class EnemyFSM : MonoBehaviour
     IEnumerator DamageProcess()
     {
         //피격 모션 시간만큼 기다린다.
-        yield return new WaitForSeconds(0.5f);
+        yield return new WaitForSeconds(1.0f);
 
         //현재 상태를 이동 상태로 전환한다.
         m_State = EnemyState.Move;
