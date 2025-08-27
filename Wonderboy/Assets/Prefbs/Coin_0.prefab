@@ -126,9 +126,11 @@ MonoBehaviour:
   groundSpin: 0.4
   airDampRate: 3
   groundDampRate: 2
-  stopDampRate: 6
+  stopSpinDampRate: 6
   rollSpeed: 3
-  rollDir: 1
+  linearDampRate: 0.6
+  stopLinearDampRate: 2.5
+  bounceDamping: 0.8
   rollDuration: 5
   fallenKeepSeconds: 2
   fallenSprite: {fileID: 0}

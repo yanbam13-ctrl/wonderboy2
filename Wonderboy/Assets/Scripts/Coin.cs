@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class Coin : MonoBehaviour
 {
@@ -168,18 +169,29 @@ public class Coin : MonoBehaviour
         rb.bodyType = RigidbodyType2D.Kinematic;
 
         yield return null;            // 1프레임 대기(바운드 안정화)
-        SnapToGround();               // 먼저 바닥에 붙이고
+        //SnapToGround();               // 먼저 바닥에 붙이고
 
         if (anim) anim.enabled = false;
         if (sr && fallenSprite) sr.sprite = fallenSprite;
 
         // ▼ 교체된 스프라이트가 ‘이미 눕혀진’ 그림이면 큰 회전 금지
-        float z = Random.Range(-90f, 90f); // 살짝만 기울이기
+        float z = 90.0f; // 살짝만 기울이기
         float dur = 0.25f, t = 0f;
         Quaternion from = transform.rotation;
         Quaternion to = Quaternion.Euler(0, 0, z);
 
-        while (t < dur) { t += Time.deltaTime; transform.rotation = Quaternion.Slerp(from, to, t / dur); yield return null; }
+        while (t < dur)
+        {
+            t += Time.deltaTime;
+            transform.rotation = Quaternion.Slerp(from, to, t / dur);
+            yield return null;
+        }
+        Vector2 currentPosition = transform.position;
+        currentPosition.y = -2.93f;
+
+        transform.position = currentPosition;
+
+        print(currentPosition);
 
         yield return new WaitForSecondsRealtime(fallenKeepSeconds);
         Destroy(gameObject);
@@ -192,6 +204,7 @@ public class Coin : MonoBehaviour
         if (!col) return;
 
         Vector2 origin = col.bounds.center;
+        print("colPosition : " + origin);
         float maxDist = 5f;
         Debug.DrawRay(origin, Vector2.down * maxDist, Color.red, 2f);
 
