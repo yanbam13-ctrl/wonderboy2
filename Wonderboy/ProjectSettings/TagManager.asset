@@ -6,6 +6,7 @@ TagManager:
   tags:
   - MessageTrigger
   - Door
+  - Coin
   layers:
   - Default
   - TransparentFX

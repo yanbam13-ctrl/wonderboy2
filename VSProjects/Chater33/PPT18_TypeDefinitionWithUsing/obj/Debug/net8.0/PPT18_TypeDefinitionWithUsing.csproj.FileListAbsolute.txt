@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\bin\Debug\net8.0\PPT18_TypeDefinitionWithUsing.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\bin\Debug\net8.0\PPT18_TypeDefinitionWithUsing.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\bin\Debug\net8.0\PPT18_TypeDefinitionWithUsing.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\bin\Debug\net8.0\PPT18_TypeDefinitionWithUsing.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\bin\Debug\net8.0\PPT18_TypeDefinitionWithUsing.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\PPT18_TypeDefinitionWithUsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\PPT18_TypeDefinitionWithUsing.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\PPT18_TypeDefinitionWithUsing.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\PPT18_TypeDefinitionWithUsing.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\PPT18_TypeDefinitionWithUsing.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\PPT18_TypeDefinitionWithUsing.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\refint\PPT18_TypeDefinitionWithUsing.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\PPT18_TypeDefinitionWithUsing.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\PPT18_TypeDefinitionWithUsing.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT18_TypeDefinitionWithUsing\obj\Debug\net8.0\ref\PPT18_TypeDefinitionWithUsing.dll

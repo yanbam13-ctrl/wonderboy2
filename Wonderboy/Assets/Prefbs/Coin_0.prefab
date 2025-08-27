@@ -14,9 +14,10 @@ GameObject:
   - component: {fileID: -2747444448990557272}
   - component: {fileID: 1179145942268673421}
   - component: {fileID: 189170783555916237}
+  - component: {fileID: 4074640675190078437}
   m_Layer: 8
   m_Name: Coin_0
-  m_TagString: Untagged
+  m_TagString: Coin
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 5942140957783222060}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.4656279, y: -2.450021, z: 0}
+  m_LocalPosition: {x: -1.4656279, y: -2.947, z: 0}
   m_LocalScale: {x: 3.0369124, y: 3.0369124, z: 3.0369124}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -133,7 +134,10 @@ MonoBehaviour:
   bounceDamping: 0.8
   rollDuration: 5
   fallenKeepSeconds: 2
-  fallenSprite: {fileID: 0}
+  fallenSprite: {fileID: -1119271069, guid: 8ff4418beee6db84298ef128cafaf638, type: 3}
+  coinValue: 0
+  standingCol: {fileID: 1179145942268673421}
+  fallenCol: {fileID: 4074640675190078437}
 --- !u!58 &1179145942268673421
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -196,3 +200,48 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!61 &4074640675190078437
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5942140957783222060}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.25, y: 0.203125}
+    newSize: {x: 0.25, y: 0.203125}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.17125, y: 0.03525}
+  m_EdgeRadius: 0

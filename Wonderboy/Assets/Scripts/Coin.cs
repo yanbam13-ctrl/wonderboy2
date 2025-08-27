@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UIElements;
 
@@ -23,9 +24,9 @@ public class Coin : MonoBehaviour
     public float rollDuration = 5f;         // 굴러다니는 시간
     public float fallenKeepSeconds = 2f;    // 눕고 난 뒤 유지 시간
     public Sprite fallenSprite;             // 눕힌 스프라이트(있으면 사용)
+    public int coinValue;
 
     // ===== Internal =====
-    int coinValue;
     Rigidbody2D rb;
     Animator anim;
     SpriteRenderer sr;
@@ -40,8 +41,14 @@ public class Coin : MonoBehaviour
     float currentSpin;        // 애니 회전 속도 (Animator 파라미터 SpinSpeed로 반영)
     float currentXSpeed;      // 실제 수평 이동 속도(물리)
 
+    //세로 코인 / 가로 코인 콜라이더
+    public CircleCollider2D standingCol; // 회전중
+    public BoxCollider2D fallenCol; // 눕힌 후(처음엔 비활성)
+
+
     void Awake()
     {
+
         coinValue = Random.Range(1, 50);
 
         rb = GetComponent<Rigidbody2D>() ?? gameObject.AddComponent<Rigidbody2D>();
@@ -62,8 +69,13 @@ public class Coin : MonoBehaviour
         // 방향 랜덤(원하면 고정 유지)
         rollDir = 1;
         //rollDir = (Random.value < 0.5f) ? -1 : 1;
+
+        if (standingCol) standingCol.enabled = true;
+        if (fallenCol) fallenCol.enabled = false;
+
     }
 
+    // *********** 동전 움직임
     void OnCollisionEnter2D(Collision2D c)
     {
         if (c.gameObject.layer != LayerMask.NameToLayer("Ground")) return;
@@ -123,6 +135,7 @@ public class Coin : MonoBehaviour
         if (isStopping)
         {
             currentSpin = Mathf.MoveTowards(currentSpin, 0f, stopSpinDampRate * Time.deltaTime);
+            //print("currentSpint : " + currentSpin);
 
             // 이동/회전 모두 충분히 느려지면 눕히기 시작
             if (!fallStarted && currentSpin <= 0.02f && Mathf.Abs(currentXSpeed) <= 0.05f)
@@ -168,14 +181,33 @@ public class Coin : MonoBehaviour
         rb.angularVelocity = 0f;
         rb.bodyType = RigidbodyType2D.Kinematic;
 
-        yield return null;            // 1프레임 대기(바운드 안정화)
-        //SnapToGround();               // 먼저 바닥에 붙이고
+        //물리 스텝 하나 넘긴 뒤 콜라이더 스위치(충돌 해결 도중 변경 방지)
+        yield return new WaitForFixedUpdate();
+
+        //회전 애니 끄고, 눕힌 콜라이더 켜기
+
+        standingCol.enabled = false;
+        fallenCol.enabled = true;
 
         if (anim) anim.enabled = false;
-        if (sr && fallenSprite) sr.sprite = fallenSprite;
+
+        Vector3 currentPos = sr.transform.position;
+        currentPos.y += -0.437f;
+
+        //yield return null;
+        if (sr && fallenSprite)
+        {
+            sr.transform.position = currentPos;
+            sr.sprite = fallenSprite;
+
+            print("변경");
+        }
+
+        yield return null;            // 1프레임 대기(바운드 안정화)
+        Physics2D.SyncTransforms();   // (선택) 물리/트랜스폼 동기화
 
         // ▼ 교체된 스프라이트가 ‘이미 눕혀진’ 그림이면 큰 회전 금지
-        float z = 90.0f; // 살짝만 기울이기
+        float z = 0f; // 기울이기
         float dur = 0.25f, t = 0f;
         Quaternion from = transform.rotation;
         Quaternion to = Quaternion.Euler(0, 0, z);
@@ -186,27 +218,31 @@ public class Coin : MonoBehaviour
             transform.rotation = Quaternion.Slerp(from, to, t / dur);
             yield return null;
         }
-        Vector2 currentPosition = transform.position;
-        currentPosition.y = -2.93f;
 
-        transform.position = currentPosition;
-
-        print(currentPosition);
+        SnapToGround();               // 바닥에 붙이고
 
         yield return new WaitForSecondsRealtime(fallenKeepSeconds);
         Destroy(gameObject);
     }
 
+
+    //코인의 콜라이더 중심에서 아래로 레이캐스트해서 “바닥의 y값”을 얻고,
+    //코인의 절반 높이만큼 위로 올려서 “바닥에 딱 붙인 y위치”로 스냅
     void SnapToGround()
     {
         int mask = LayerMask.GetMask("Ground");
-        var col = GetComponent<Collider2D>();
-        if (!col) return;
+        var col = fallenCol;
+        if (!col)
+        {
+            print("!col : " + !col);
+            return;
+        }
 
-        Vector2 origin = col.bounds.center;
+        Vector2 origin = col.bounds.center; // 레이 시작점. col.bounds는 **월드 기준 AABB(축 정렬 바운딩 박스)**라서 스케일/오프셋 반영된 월드 좌표 중심 리턴
+
         print("colPosition : " + origin);
-        float maxDist = 5f;
-        Debug.DrawRay(origin, Vector2.down * maxDist, Color.red, 2f);
+        float maxDist = 5f; // 레이를 아래로 최대 5 유닛 사용
+        Debug.DrawRay(origin, Vector2.down * maxDist, Color.red, 2f); // Scene 뷰에서 빨간선으로 보이게 해서 디버그하기 쉬움(2초간 유지).
 
         var hit = Physics2D.Raycast(origin, Vector2.down, maxDist, mask);
         if (!hit.collider)

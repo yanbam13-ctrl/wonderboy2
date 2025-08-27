@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\bin\Debug\net8.0\PPT09_NamespceNote.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\bin\Debug\net8.0\PPT09_NamespceNote.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\bin\Debug\net8.0\PPT09_NamespceNote.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\bin\Debug\net8.0\PPT09_NamespceNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\bin\Debug\net8.0\PPT09_NamespceNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\PPT09_NamespceNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\PPT09_NamespceNote.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\PPT09_NamespceNote.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\PPT09_NamespceNote.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\PPT09_NamespceNote.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\PPT09_NamespceNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\refint\PPT09_NamespceNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\PPT09_NamespceNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\PPT09_NamespceNote.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT09_NamespceNote\obj\Debug\net8.0\ref\PPT09_NamespceNote.dll

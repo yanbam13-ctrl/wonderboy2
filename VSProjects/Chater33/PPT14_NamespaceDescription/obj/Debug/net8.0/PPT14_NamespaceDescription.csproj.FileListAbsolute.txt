@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\PPT14_NamespaceDescription.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\PPT14_NamespaceDescription.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\PPT14_NamespaceDescription.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\PPT14_NamespaceDescription.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\PPT14_NamespaceDescription.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\bin\Debug\net8.0\PPT14_NamespaceDescription.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\bin\Debug\net8.0\PPT14_NamespaceDescription.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\bin\Debug\net8.0\PPT14_NamespaceDescription.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\bin\Debug\net8.0\PPT14_NamespaceDescription.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\bin\Debug\net8.0\PPT14_NamespaceDescription.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\PPT14_NamespaceDescription.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\refint\PPT14_NamespaceDescription.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\PPT14_NamespaceDescription.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\PPT14_NamespaceDescription.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater33\PPT14_NamespaceDescription\obj\Debug\net8.0\ref\PPT14_NamespaceDescription.dll
