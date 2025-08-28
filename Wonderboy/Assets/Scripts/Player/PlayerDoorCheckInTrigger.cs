@@ -34,7 +34,7 @@ public class PlayerDoorCheckInTrigger : MonoBehaviour
     {
         if (other.CompareTag("Door") && !isInDoorTrigger)
         {
-            Debug.Log("Door Trigger Enter");
+            //Debug.Log("Door Trigger Enter");
             isInDoorTrigger = true;
             dm = other.GetComponent<DoorManager>();
             Debug.Log(dm.availableCount);
@@ -43,11 +43,11 @@ public class PlayerDoorCheckInTrigger : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        Debug.Log("Door Trigger Exit");
+        //Debug.Log("Door Trigger Exit");
 
         if (other.CompareTag("Door"))
         {
-            Debug.Log("Door Trigger Enter");
+            //Debug.Log("Door Trigger Enter");
             isInDoorTrigger = false;
             dm = null;
             isTransitioning = false;

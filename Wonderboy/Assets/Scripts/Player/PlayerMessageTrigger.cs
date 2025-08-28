@@ -8,7 +8,7 @@ public class PlayerMessageTrigger : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        Debug.Log("start");
+        //Debug.Log("start");
 
         // 태그로 필터링(선택)
         //if (!other.CompareTag("MessageTrigger")) return;
@@ -18,8 +18,8 @@ public class PlayerMessageTrigger : MonoBehaviour
         // 메세지 데이터 유무로 필터링
         if (data == null) return;
 
-        Debug.Log(data.MessageTrigger);
-        Debug.Log(data.message);
+        //Debug.Log(data.MessageTrigger);
+        //Debug.Log(data.message);
 
         //실행된 적이 없다면
         if (data.MessageTrigger)
@@ -29,6 +29,6 @@ public class PlayerMessageTrigger : MonoBehaviour
                 mc.ShowMessage(data);
         }
 
-        Debug.Log("end");
+        //Debug.Log("end");
     }
 }

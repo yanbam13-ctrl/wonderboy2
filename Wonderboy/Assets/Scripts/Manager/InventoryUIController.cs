@@ -9,7 +9,7 @@ public class InventoryUIController : MonoBehaviour
     void Start()
     {
         RefreshAll();
-        print("SwordID : " + SaveInventory.SwordId);
+        //print("SwordID : " + SaveInventory.SwordId);
     }
 
     public void RefreshAll()

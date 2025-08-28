@@ -27,9 +27,10 @@ public class DoorManager : MonoBehaviour
 
     private void Start()
     {
-        //PlayerPrefs.DeleteKey($"DoorCount_{doorId}"); //PlayerPrefs 값 초기화
-        //PlayerPrefs.DeleteKey($"Stage01_BrickBounce"); //PlayerPrefs 값 초기화
-        //PlayerPrefs.DeleteKey("SwordId"); //PlayerPrefs 값 초기화
+            //PlayerPrefs.DeleteKey($"DoorCount_{doorId}"); //PlayerPrefs 값 초기화
+            //PlayerPrefs.DeleteKey($"Stage01_BrickBounce"); //PlayerPrefs 값 초기화
+            //PlayerPrefs.DeleteKey("SwordId"); //PlayerPrefs 값 초기화
+            //PlayerPrefs.DeleteKey("GameMoney"); //PlayerPrefs 값 초기화
 
 
         // 저장된 값이 있으면 복원 (없으면 인스펙터 값 유지)
@@ -51,7 +52,7 @@ public class DoorManager : MonoBehaviour
         }
         // Sprite 변경
         sp.sprite = CloseDoorSP;
-        print("CloseDoor");
+        //print("CloseDoor");
 
 
         // 원래 스케일 다시 적용

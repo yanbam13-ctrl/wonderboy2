@@ -5,9 +5,11 @@ using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using TMPro;
 
 public class UIManagerStage01 : MonoBehaviour
 {
+    public TMP_Text goldText;
 
     //PUSH START BUTTON ONE OR TWO PLAYERS _ Menu02
     public Text PlayerOneUI;
@@ -17,10 +19,26 @@ public class UIManagerStage01 : MonoBehaviour
 
     void Start()
     {
+        UpdateGameMoneyUI();
 
+        void UpdateGameMoneyUI()
+        {
+            goldText.text = PlayerPrefs.GetInt("GameMoney").ToString();
+        }
         PlayerOneUI.text = "Player 1";
         PlayerTwoUI.text = "Player 2";
 
+    }
+    public void UpdateGameMoneyUI()
+    {
+        if (GameMoneyManager.Instance != null)
+        {
+            goldText.text = GameMoneyManager.Instance.currentCoin.ToString();
+        }
+        else
+        {
+            goldText.text = PlayerPrefs.GetInt("GameMoney", 0).ToString();
+        }
     }
 
     void Update()

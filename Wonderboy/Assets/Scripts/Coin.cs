@@ -42,12 +42,19 @@ public class Coin : MonoBehaviour
     //세로 코인 / 가로 코인 콜라이더
     public CircleCollider2D standingCol; // 회전중
     public BoxCollider2D fallenCol; // 눕힌 후(처음엔 비활성)
+    MessageData messagedata;
 
 
     void Awake()
     {
+        messagedata = GetComponent<MessageData>();
+        GameMoneySetting();
 
-        coinValue = Random.Range(1, 50);
+        if (messagedata != null)
+        {
+            messagedata.message = coinValue + " Gold!";
+            messagedata.autoCloseAfter = 1.0f;
+        }
 
         rb = GetComponent<Rigidbody2D>() ?? gameObject.AddComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
@@ -71,6 +78,30 @@ public class Coin : MonoBehaviour
         if (standingCol) standingCol.enabled = true;
         if (fallenCol) fallenCol.enabled = false;
 
+    }
+
+    // GameMoney 설정값 조정
+    void GameMoneySetting()
+    {
+        int roll = Random.Range(0, 100);
+
+        if (roll < 80)
+        {
+            coinValue = Random.Range(1, 11);
+        }
+        else if (roll < 90)
+        {
+            coinValue = Random.Range(11, 31);
+        }
+        else if (roll < 95)
+        {
+            coinValue = Random.Range(31, 51);
+        }
+        else
+        {
+            coinValue = Random.Range(51, 101);
+        }
+        Debug.Log("Coin Value : " + coinValue);
     }
 
     // *********** 동전 움직임

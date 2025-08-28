@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using Unity.VisualScripting.Antlr3.Runtime.Tree;
 public class PlayerInventory : MonoBehaviour
 {
     public GameObject swordIdle;
@@ -9,16 +10,16 @@ public class PlayerInventory : MonoBehaviour
     public GameObject swordAttack;
     public bool isJump = false;
     public bool isAttack = false;
-    public TMP_Text goldText;
-
-    int playerGameMoney;
-
-    
+    private UIManagerStage01 uiManager;
+    private MessageController messageController;
 
     private void Start()
     {
         Apply();
+        uiManager = FindObjectOfType<UIManagerStage01>();
+        messageController = FindObjectOfType<MessageController>();
     }
+
 
     void Apply()
     {
@@ -48,12 +49,12 @@ public class PlayerInventory : MonoBehaviour
     // 애니메이션 이벤트/상태 전환에서 호출
     public void AttackStart()
     {
-        isAttack = true; 
+        isAttack = true;
         Apply();
     }
     public void AttackEnd()
     {
-        isAttack = false; 
+        isAttack = false;
         Apply();
     }
 
@@ -78,21 +79,42 @@ public class PlayerInventory : MonoBehaviour
 
     //}
 
+    //코인 충돌시 획득 처리
     private void OnCollisionEnter2D(Collision2D c)
     {
-        Debug.Log($"충돌한 오브젝트의 이름 : {c.transform.gameObject.name}");
-        Debug.Log($"메서드 발동 조건 : {!c.transform.CompareTag("Coin")}");
-
         if (!c.transform.CompareTag("Coin")) return;
 
         Coin coin = c.transform.GetComponent<Coin>();
+        if (coin == null) return;
+
+        // 중복 처리 방지: 충돌 직후 코인 콜라이더 비활성화
+        var col = coin.GetComponent<Collider2D>();
+        if (col) col.enabled = false;
+
+        MessageData data = coin.GetComponent<MessageData>();
+
+        // 획득 코인을 GameMoneyManager.cs의 currentCoin에 더하고 currentCoin을 PlayerPrefs.SetInt("GameMoney", 충돌된 코인이 가지고 있는 코인값);
         GameMoneyManager.Instance.GetGameMoney(coin.coinValue);
+
+        print($"PlayerInventory.cs의  messageController :-> {messageController != null}");
+        print($"PlayerInventory.cs MessageData-> {data != null}");
+        print($"PlayerInventory.cs MessageData.Message : {data.message}");
+
+        messageController.ShowMessage(data);
+
+        //UI 갱신 호출
+        if (uiManager != null)
+        {
+            //UIManagerStage01에에 있는 메서드
+            //GameManager(인스턴스)를 가져와 currentCoin 값을 UI에 표시            
+            uiManager.UpdateGameMoneyUI();
+        }
+        else
+        {
+            Debug.LogWarning("UIManagerStage01 참조가 없습니다.");
+        }
+
         Destroy(c.gameObject);
-
-        playerGameMoney = PlayerPrefs.GetInt("GameMoney");
-
-        Debug.Log("GameMoneyManager.Instance " +( GameMoneyManager.Instance == null));
-
     }
 
 

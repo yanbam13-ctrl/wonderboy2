@@ -5,12 +5,13 @@ using UnityEngine;
 public class CoinZone : MonoBehaviour
 {
     public GameObject coin;
+    public int enterOpCount;
 
     //플레이어가 CoinZone을 지나가면 동전 생성
     private void OnTriggerEnter2D(Collider2D other)
     {
         //CoinZone과 접촉한 오브젝트가 플레이어가 아니라면 리턴
-        if (!other.gameObject.CompareTag("Player")) return;
+        if (!other.gameObject.CompareTag("Player") || enterOpCount < 1) return;
 
         //CoinZone과 접촉한 오브젝트가 플레어일때 동전을 생성
 
@@ -20,5 +21,6 @@ public class CoinZone : MonoBehaviour
         playerPosition.y += 1.0f;
 
         Instantiate(coin, playerPosition, Quaternion.identity);
+        enterOpCount--;
     }
 }

@@ -7,12 +7,19 @@ public class GameMoneyManager : MonoBehaviour
 {
     public GameObject coin;
     public static GameMoneyManager Instance = null;
+    public int currentCoin;
+
     private void Awake()
     {
         if (!Instance)
         {
             Instance = this;
         }
+
+        currentCoin = PlayerPrefs.GetInt("GameMoney");
+
+        print($"처음 currentCoin 값 : {currentCoin}");
+
     }
 
     //플레이어가 Coin을 획득
@@ -20,13 +27,13 @@ public class GameMoneyManager : MonoBehaviour
     public void GetGameMoney(int coinValue)
     {
         print("GetGameMoney() 동작");
-        int currentCoin = PlayerPrefs.GetInt("GameMoney");
 
         currentCoin += coinValue;
 
         PlayerPrefs.SetInt("GameMoney", currentCoin);
+        PlayerPrefs.Save();
 
-        print(PlayerPrefs.GetInt("GameMoney"));
+        print($"GameMoneyManger Class에서 PlayerPrefs GetInt : {PlayerPrefs.GetInt("GameMoney")}");
     }
 
 
