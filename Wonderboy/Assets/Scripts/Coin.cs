@@ -1,8 +1,6 @@
 ﻿using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.UIElements;
-
 public class Coin : MonoBehaviour
 {
     // ===== Inspector =====
@@ -192,7 +190,7 @@ public class Coin : MonoBehaviour
         if (anim) anim.enabled = false;
 
         Vector3 currentPos = sr.transform.position;
-        currentPos.y += -0.437f;
+        currentPos.y += -0.237f;
 
         //yield return null;
         if (sr && fallenSprite)

@@ -1,8 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static System.Net.Mime.MediaTypeNames;
-
+using TMPro;
 public class PlayerInventory : MonoBehaviour
 {
     public GameObject swordIdle;
@@ -10,7 +9,7 @@ public class PlayerInventory : MonoBehaviour
     public GameObject swordAttack;
     public bool isJump = false;
     public bool isAttack = false;
-    //public Text goldTxt;
+    public TMP_Text goldText;
 
     int playerGameMoney;
 

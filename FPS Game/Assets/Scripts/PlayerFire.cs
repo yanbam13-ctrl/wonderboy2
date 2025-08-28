@@ -1,9 +1,24 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class PlayerFire : MonoBehaviour
 {
+    //무기 모드 변수
+    enum WeaponMode
+    {
+        Noraml,
+        Sniper
+    }
+
+    WeaponMode wMode;
+
+    //무기 모드 텍스트
+    public TMP_Text wModeText;
+
+    //카메라 확대 확인용 변수
+    bool zoomMode = false;
 
     //발사 위치
     public GameObject firePosition;
@@ -23,20 +38,61 @@ public class PlayerFire : MonoBehaviour
     //발사 무기 공격력
     public int weaponPower; //5
 
+    //애니메이터 컴포넌트 변수
     Animator anim;
+
+    //총 발사 효고 ㅏ오브젝트 배열
+    public GameObject[] eff_Flash;
 
     private void Start()
     {
+        wMode = WeaponMode.Noraml;
+
         //피격 이펙트 오브젝트에서 파티클 시스템 컴포넌트 가져오기
         ps = bulletEffect.GetComponent<ParticleSystem>();
 
         anim = GetComponentInChildren<Animator>();
+
+        wModeText.text = "Noramal Mode";
     }
+
+    void FireIntheHole()
+    {
+        //수류탄 오브젝트를 생성한 후 수류탄의 생성 위치를 발사 위치로 한다.
+        GameObject bomb = Instantiate(bombFactory);
+        bomb.transform.position = firePosition.transform.position;
+
+        //수류탄 오브젝트의 RigidBody 컴포넌트를 가져옴
+        Rigidbody rb = bomb.GetComponent<Rigidbody>();
+
+        //카메라의 정면 방향으로 수류탄에 물리적인 힘을 가함
+        rb.AddForce(Camera.main.transform.forward * throwPower, ForceMode.Impulse);
+    }
+
+    void SniperShoot()
+    {
+        // 만일, 줌 모드 상태가 아니라면 카메라를 확대하고 줌 모드 상태로 변경한다.
+        if (!zoomMode)
+        {
+            Camera.main.fieldOfView = 15f;
+            zoomMode = true;
+        }
+        // 그렇지 않으면 카메라를 원래 상태로 되돌리고 줌 모드 상태를 해제한다.
+        else
+        {
+            Camera.main.fieldOfView = 60f;
+            zoomMode = false;
+        }
+    }
+
 
     private void Update()
     {
         //게임 상태가 '게임 중' 상태 일때만 조작할수 있게 한다.
         if (GameManager.gm.gState != GameManager.GameState.Run) return;
+
+        // 노멀 모드: 마우스 오른쪽 버튼을 누르면 시선 방향으로 수류탄을 던지고 싶다.
+        // 스나이퍼 모드: 마우스 오른쪽 버튼을 누르면 화면을 확대하고 싶다.
 
 
         //마우스 오른쪽 버튼을 누르면 시선이 바라보는 방향으로 수류탄을 던지고 싶다.
@@ -44,16 +100,18 @@ public class PlayerFire : MonoBehaviour
         //마우스 오른쪽 버튼을 입력받는다.
         if (Input.GetMouseButtonDown(1))
         {
-            //수류탄 오브젝트를 생성한 후 수류탄의 생성 위치를 발사 위치로 한다.
-            GameObject bomb = Instantiate(bombFactory);
-            bomb.transform.position = firePosition.transform.position;
+            switch (wMode)
+            {
+                case WeaponMode.Noraml:
+                    FireIntheHole();
+                    break;
 
-            //수류탄 오브젝트의 RigidBody 컴포넌트를 가져옴
-            Rigidbody rb = bomb.GetComponent<Rigidbody>();
-
-            //카메라의 정면 방향으로 수류탄에 물리적인 힘을 가함
-            rb.AddForce(Camera.main.transform.forward * throwPower, ForceMode.Impulse);
+                case WeaponMode.Sniper:
+                    SniperShoot();
+                    break;
+            }
         }
+
 
         //마우스 왼쪽 버튼 입력
         if (Input.GetMouseButtonDown(0))
@@ -63,6 +121,9 @@ public class PlayerFire : MonoBehaviour
             if (anim.GetFloat("MoveMotion") == 0)
             {
                 anim.SetTrigger("Attack");
+
+                //총 이팩트를 실시한다.
+                //StartCoroutine(ShootEffectOn(0.5f));
             }
             //레이를 생성한 발사될 위치와 진행 방향을 설정
             Ray ray = new Ray(
@@ -94,10 +155,44 @@ public class PlayerFire : MonoBehaviour
                     //피격 이펙트를 플레이
                     ps.Play();
                 }
-
             }
-
+            // 총 이펙트를 실시
+            StartCoroutine(shootEffectOn(0.05f));
         }
+
+        // 만일 키보드의 숫자 1번 입력을 받으면, 무기 모드를 일반 모드로 변경한다.
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            wMode = WeaponMode.Noraml;
+
+            //카메라 화면을 다시 원래대로 돌려줌
+            Camera.main.fieldOfView = 60f;
+
+            //일반 모드 텍스트 출력
+            wModeText.text = "Noramal Mode";
+        }
+        // 만일 키보드의 숫자 2번 입력을 받으면, 무기 모드를 스나이퍼 모드로 변경한다.
+        else if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            wMode = WeaponMode.Sniper;
+
+            //스나이퍼 모드 텍스트 출력
+            wModeText.text = "Sniper Mode";
+        }
+    }
+
+    // 총구 이펙트 코루틴 함수
+    IEnumerator shootEffectOn(float duration)
+    {
+
+        //랜덤하게 숫자를 뽑는다.
+        int num = Random.Range(0, eff_Flash.Length - 1);
+        //이펙트 오브젝트 배열에서 뽑힌 숫자에 해당하는 이펙트 오브젝트를 활성화한다.
+        eff_Flash[num].SetActive(true);
+        //지정한 시간만큼 기다린다.
+        yield return new WaitForSeconds(duration);
+        //이펙트 오브젝트를 다시 비활성화 한다.
+        eff_Flash[num].SetActive(false);
     }
 
 }
