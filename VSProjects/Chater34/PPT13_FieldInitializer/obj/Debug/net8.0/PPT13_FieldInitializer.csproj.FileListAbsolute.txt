@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\bin\Debug\net8.0\PPT13_FieldInitializer.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\bin\Debug\net8.0\PPT13_FieldInitializer.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\bin\Debug\net8.0\PPT13_FieldInitializer.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\bin\Debug\net8.0\PPT13_FieldInitializer.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\bin\Debug\net8.0\PPT13_FieldInitializer.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\PPT13_FieldInitializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\PPT13_FieldInitializer.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\PPT13_FieldInitializer.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\PPT13_FieldInitializer.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\PPT13_FieldInitializer.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\PPT13_FieldInitializer.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\refint\PPT13_FieldInitializer.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\PPT13_FieldInitializer.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\PPT13_FieldInitializer.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT13_FieldInitializer\obj\Debug\net8.0\ref\PPT13_FieldInitializer.dll

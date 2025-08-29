@@ -374,6 +374,7 @@
 "Assets/Scripts/EnemyFSM.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/HitEvent.cs"
+"Assets/Scripts/LoginManager.cs"
 "Assets/Scripts/PlayerFire.cs"
 "Assets/Scripts/PlayerMove.cs"
 "Assets/Scripts/PlayerRoate.cs"

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\bin\Debug\net8.0\PPT28_FieldNote.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\bin\Debug\net8.0\PPT28_FieldNote.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\bin\Debug\net8.0\PPT28_FieldNote.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\bin\Debug\net8.0\PPT28_FieldNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\bin\Debug\net8.0\PPT28_FieldNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\PPT28_FieldNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\PPT28_FieldNote.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\PPT28_FieldNote.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\PPT28_FieldNote.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\PPT28_FieldNote.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\PPT28_FieldNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\refint\PPT28_FieldNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\PPT28_FieldNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\PPT28_FieldNote.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater34\PPT28_FieldNote\obj\Debug\net8.0\ref\PPT28_FieldNote.dll

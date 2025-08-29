@@ -42,17 +42,82 @@ public class PlayerMove : MonoBehaviour
         // Rigidbody2D를 한 번만 찾아서 보관(매 프레임 GetComponent 하면 느림)
         rb = GetComponent<Rigidbody2D>();
 
-        // 기본 중력 세팅
-        rb.gravityScale = baseGravity;
+        rb.gravityScale = baseGravity; // 기본 중력 세팅
 
-        animator = GetComponent<Animator>();
+        animator = GetComponent<Animator>(); // 애니메이터 참조
 
-        pInv = GetComponent<PlayerInventory>();
+        pInv = GetComponent<PlayerInventory>(); // 무기 전환 애니메이션을 위한 컴포넌트 참조
     }
 
 
-
     void Update()
+    {
+        MoveAnimAndFlip();
+        JumpAnimAndJump();
+        AttackAnim();
+    }
+
+    bool wasGrounded;
+
+    void FixedUpdate()
+    {
+        Move();
+    }
+
+
+    /** 공격 **/
+    void AttackAnim()
+    {
+        // 공격 버튼 눌렸을때 애니메이션 전환
+
+        if (SaveInventory.SwordId < 0) return; // 검을 가지고 있지 않다면 공격버튼 작동x
+
+        if (Input.GetButtonDown("Fire2"))
+        {
+            pInv?.AttackStart();
+            animator.SetTrigger("IsAttack");
+        }
+    }
+
+    /** 이동 조작**/
+    void Move()
+    {
+        // ===== 1) 바닥 감지 =====
+        // groundCheck 위치를 중심으로 작은 원을 만들어 groundMask에 포함된 콜라이더와 겹치면 "바닥"으로 인식
+        grounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, groundMask);
+
+        // ===== 2) 좌우 이동 =====
+        // Horizontal 축 입력: A/D 또는 ←/→ → -1, 0, 1 값
+        float x = Input.GetAxisRaw("Horizontal");
+
+
+        // 공중에서는 제어력 줄이기(airControl 배수 적용)
+        float control = grounded ? 1f : airControl;
+
+        // x속도만 입력에 맞춰 갱신(아케이드 스타일: 관성 없이 바로 덮어쓰기)
+        float vx = x * moveSpeed * control;
+        rb.velocity = new Vector2(vx, rb.velocity.y);
+
+        // ===== 3) 낙하 가속/속도 제한 =====
+        // 상승 중/지상: 기본 중력, 낙하 중: 더 큰 중력(빨리 떨어지게)
+        rb.gravityScale = (rb.velocity.y < 0f) ? baseGravity * fallMultiplier : baseGravity;
+
+        // 낙하 속도가 너무 빨라지지 않도록 하한 클램프
+        if (rb.velocity.y < maxFallSpeed)
+            rb.velocity = new Vector2(rb.velocity.x, maxFallSpeed);
+
+        // 4) 착지 전환 감지  <<< 이 블록 추가
+        if (grounded && !wasGrounded)
+        {
+            pInv?.SwordStateJump(false); // 착지 시: 대기 검 켜기
+        }
+        wasGrounded = grounded;
+    }
+
+    /*** 이동, 점프, 무기 전환 애니메이션 + 점프 ***/
+
+    //이동 애니메이션 / 플레이어 방향전환
+    void MoveAnimAndFlip()
     {
         /*------ 이동 애니메이션 / 플레이어 방향전환 */
         // 방향키(A/D, ←/→) 중 하나라도 눌렸는지 (디지털 키 입력)
@@ -92,7 +157,10 @@ public class PlayerMove : MonoBehaviour
         //if (movingNow) sr.flipX = (axis < 0);
 
         animator.SetBool("Move", moveState && grounded);
+    }
 
+    void JumpAnimAndJump()
+    {
         /*------ 점프 / 점프 애니메이션 */
         // ★ 입력은 Update에서 읽는 게 좋음(프레임 기반).
         if (Input.GetButtonDown("Fire1") && grounded)
@@ -115,54 +183,7 @@ public class PlayerMove : MonoBehaviour
 
         }
         animator.SetBool("IsJumping", !grounded);
-
-        // 공격 버튼 눌렸을때 애니메이션 전환
-
-        if (SaveInventory.SwordId < 0) return; // 검을 가지고 있지 않다면 공격버튼 작동x
-
-        if (Input.GetButtonDown("Fire2"))
-        {
-            pInv?.AttackStart();
-            animator.SetTrigger("IsAttack");
-        }
     }
 
-
-    bool wasGrounded;
-
-    void FixedUpdate()
-    {
-        // ===== 1) 바닥 감지 =====
-        // groundCheck 위치를 중심으로 작은 원을 만들어 groundMask에 포함된 콜라이더와 겹치면 "바닥"으로 인식
-        grounded = Physics2D.OverlapCircle(groundCheck.position, groundRadius, groundMask);
-
-        // ===== 2) 좌우 이동 =====
-        // Horizontal 축 입력: A/D 또는 ←/→ → -1, 0, 1 값
-        float x = Input.GetAxisRaw("Horizontal");
-
-
-        // 공중에서는 제어력 줄이기(airControl 배수 적용)
-        float control = grounded ? 1f : airControl;
-
-        // x속도만 입력에 맞춰 갱신(아케이드 스타일: 관성 없이 바로 덮어쓰기)
-        float vx = x * moveSpeed * control;
-        rb.velocity = new Vector2(vx, rb.velocity.y);
-
-        // ===== 3) 낙하 가속/속도 제한 =====
-        // 상승 중/지상: 기본 중력, 낙하 중: 더 큰 중력(빨리 떨어지게)
-        rb.gravityScale = (rb.velocity.y < 0f) ? baseGravity * fallMultiplier : baseGravity;
-
-        // 낙하 속도가 너무 빨라지지 않도록 하한 클램프
-        if (rb.velocity.y < maxFallSpeed)
-            rb.velocity = new Vector2(rb.velocity.x, maxFallSpeed);
-
-        // 4) 착지 전환 감지  <<< 이 블록 추가
-        if (grounded && !wasGrounded)
-        {
-            pInv?.SwordStateJump(false); // 착지 시: 대기 검 켜기
-        }
-        wasGrounded = grounded;
-
-    }
 
 }

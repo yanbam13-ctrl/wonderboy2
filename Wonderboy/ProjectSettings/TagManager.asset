@@ -7,6 +7,7 @@ TagManager:
   - MessageTrigger
   - Door
   - Coin
+  - Monster
   layers:
   - Default
   - TransparentFX

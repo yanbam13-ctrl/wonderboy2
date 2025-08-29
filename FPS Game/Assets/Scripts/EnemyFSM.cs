@@ -275,7 +275,7 @@ public class EnemyFSM : MonoBehaviour
         if (m_State == EnemyState.Die || m_State == EnemyState.Return ||
             m_State == EnemyState.Damaged) return;
 
-        //플레이의 공격력 만큼 에너미의 체력을 감소
+        //플레이어의 공격력 만큼 에너미의 체력을 감소
         hp -= hitPower;
         print("Enemy HP:" + hp);
 
