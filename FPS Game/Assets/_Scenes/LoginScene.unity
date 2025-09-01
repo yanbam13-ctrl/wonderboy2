@@ -565,7 +565,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 354351973}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1598189098}
+        m_TargetAssemblyTypeName: LoginManager, Assembly-CSharp
+        m_MethodName: CheckUserData
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &354351973
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1517,7 +1529,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 999429264}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1598189098}
+        m_TargetAssemblyTypeName: LoginManager, Assembly-CSharp
+        m_MethodName: SaveUserData
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &999429264
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2020,7 +2044,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: {fileID: 1767495639}
   password: {fileID: 415126969}
-  notify: {fileID: 0}
+  notify: {fileID: 1432694655}
 --- !u!4 &1598189099
 Transform:
   m_ObjectHideFlags: 0

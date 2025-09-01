@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\bin\Debug\net8.0\PPT13_ConstructorParameter.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\bin\Debug\net8.0\PPT13_ConstructorParameter.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\bin\Debug\net8.0\PPT13_ConstructorParameter.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\bin\Debug\net8.0\PPT13_ConstructorParameter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\bin\Debug\net8.0\PPT13_ConstructorParameter.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\PPT13_ConstructorParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\PPT13_ConstructorParameter.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\PPT13_ConstructorParameter.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\PPT13_ConstructorParameter.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\PPT13_ConstructorParameter.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\PPT13_ConstructorParameter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\refint\PPT13_ConstructorParameter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\PPT13_ConstructorParameter.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\PPT13_ConstructorParameter.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT13_ConstructorParameter\obj\Debug\net8.0\ref\PPT13_ConstructorParameter.dll

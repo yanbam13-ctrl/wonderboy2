@@ -5,6 +5,13 @@ using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
 {
+    //Player 상태
+    public int hp = 50;
+
+    //공격 당했을때 상태 표시
+    SpriteRenderer sr;
+    SpriteRenderer weponSr;
+
     //Player jump시 검의 이미지 변경을 위한 변수
     PlayerInventory pInv;  // 캐시
 
@@ -32,7 +39,7 @@ public class PlayerMove : MonoBehaviour
     private Rigidbody2D rb;  // 물리 처리 담당 컴포넌트 캐시
     private bool grounded;   // 이번 물리 프레임에서 바닥에 닿아있는가?
 
-    private Animator animator;
+    private Animator anim;
 
     public float moveTapBuffer = 0.12f;  // 살짝 눌러도 이 시간만큼 Move 유지
     float moveTimer;
@@ -44,9 +51,18 @@ public class PlayerMove : MonoBehaviour
 
         rb.gravityScale = baseGravity; // 기본 중력 세팅
 
-        animator = GetComponent<Animator>(); // 애니메이터 참조
+        anim = GetComponent<Animator>(); // 애니메이터 참조
 
         pInv = GetComponent<PlayerInventory>(); // 무기 전환 애니메이션을 위한 컴포넌트 참조
+
+        sr = GetComponent<SpriteRenderer>(); //Player의 스프라이트 랜더러
+
+        var t = transform.Find("SwordIdle/wepon_0");   // 부모가 비활성이어도 Find 가능
+        if (t == null) { Debug.LogError("SwordIdle/wepon_0 경로를 찾지 못함"); return; }
+
+        weponSr = t.GetComponent<SpriteRenderer>();
+        if (weponSr == null) Debug.LogError("wepon_0에 SpriteRenderer가 없음");
+
     }
 
 
@@ -75,8 +91,46 @@ public class PlayerMove : MonoBehaviour
         if (Input.GetButtonDown("Fire2"))
         {
             pInv?.AttackStart();
-            animator.SetTrigger("IsAttack");
+            anim.SetTrigger("IsAttack");
         }
+    }
+
+    //** 플레이어 피격 메서드 => Enemy Attack에서 호출 **
+    public void Damaged(int damage, Vector2 targetPos)
+    {        
+
+        //에너미의 공격력만큼 플레이어의 체력을 깎는다.
+        anim.SetTrigger("Damaged");
+
+        hp -= damage;
+
+        gameObject.layer = 10; // PlayerDamaged 레이어로 변경해서 무적상태 만들기
+        sr.color = new Color(1, 1, 1, 0.4f);
+        weponSr.color =  new Color(1, 1, 1, 0.4f);
+
+
+        print(hp);
+
+        //충돌 처리
+        int dirc = transform.position.x - targetPos.x > 0 ? 1 : -1;
+
+        // 기존 속도 리셋(일관성↑)
+        rb.velocity = Vector2.zero;
+
+        // ---- 뒤로 + 위로 확실히 주기 ----
+        rb.AddForce(new Vector2(dirc * 1000f, 6f), ForceMode2D.Impulse);
+        //rb.AddForce(new Vector2(dirc, 1) * 7, ForceMode2D.Impulse);
+
+        Invoke("OffDamaged", 1);
+
+    }
+
+    void OffDamaged()
+    {
+        gameObject.layer = 31; // PlayerDamaged 레이어로 변경해서 무적상태 만들기
+        sr.color = new Color(1, 1, 1, 1);
+        weponSr.color = new Color(1, 1, 1, 1);
+
     }
 
     /** 이동 조작**/
@@ -153,10 +207,9 @@ public class PlayerMove : MonoBehaviour
             else transform.rotation = Quaternion.Euler(0, 180, 0);
         }
 
-
         //if (movingNow) sr.flipX = (axis < 0);
 
-        animator.SetBool("Move", moveState && grounded);
+        anim.SetBool("Move", moveState && grounded);
     }
 
     void JumpAnimAndJump()
@@ -182,7 +235,7 @@ public class PlayerMove : MonoBehaviour
             pInv?.SwordStateJump(true);
 
         }
-        animator.SetBool("IsJumping", !grounded);
+        anim.SetBool("IsJumping", !grounded);
     }
 
 

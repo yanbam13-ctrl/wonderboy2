@@ -5,7 +5,8 @@ using UnityEngine;
 public class WeaponFire : MonoBehaviour
 {
     public int weaponPower = 10;
-    private void OnCollisionEnter2D(Collision2D c)
+
+    private void OnTriggerEnter2D(Collider2D c)
     {
         if (!c.gameObject.CompareTag("Monster")) return;
 
@@ -14,6 +15,5 @@ public class WeaponFire : MonoBehaviour
         EnemyFSM eFSM = c.gameObject.GetComponent<EnemyFSM>();
 
         eFSM.HitEnemy(weaponPower);
-
     }
 }

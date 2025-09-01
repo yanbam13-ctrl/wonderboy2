@@ -125,7 +125,9 @@ public class GameManager : MonoBehaviour
         //게임 속도를 1배속으로 전환한다.
         Time.timeScale = 1f;
         //현재 씬 버호를 다시 로드한다.
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        //SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+        SceneManager.LoadScene(1);
     }
 
     // 옵션 화면 켜기

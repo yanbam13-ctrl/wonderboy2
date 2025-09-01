@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\bin\Debug\net8.0\PPT06_ConstructorDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\bin\Debug\net8.0\PPT06_ConstructorDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\bin\Debug\net8.0\PPT06_ConstructorDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\bin\Debug\net8.0\PPT06_ConstructorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\bin\Debug\net8.0\PPT06_ConstructorDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\PPT06_ConstructorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\PPT06_ConstructorDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\PPT06_ConstructorDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\PPT06_ConstructorDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\PPT06_ConstructorDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\PPT06_ConstructorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\refint\PPT06_ConstructorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\PPT06_ConstructorDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\PPT06_ConstructorDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT06_ConstructorDemo\obj\Debug\net8.0\ref\PPT06_ConstructorDemo.dll
