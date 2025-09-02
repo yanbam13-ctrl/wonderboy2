@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPT13_ConstructorParameter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb1dbcdc7bcd9b8460e1694e2a310dee246c73eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+719beb242efd2f79b3a84d058b859aeee0eca5f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPT13_ConstructorParameter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPT13_ConstructorParameter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

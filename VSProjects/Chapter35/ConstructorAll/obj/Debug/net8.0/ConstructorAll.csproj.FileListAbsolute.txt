@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\bin\Debug\net8.0\ConstructorAll.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\bin\Debug\net8.0\ConstructorAll.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\bin\Debug\net8.0\ConstructorAll.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\bin\Debug\net8.0\ConstructorAll.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\bin\Debug\net8.0\ConstructorAll.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ConstructorAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ConstructorAll.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ConstructorAll.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ConstructorAll.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ConstructorAll.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ConstructorAll.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\refint\ConstructorAll.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ConstructorAll.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ConstructorAll.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\ConstructorAll\obj\Debug\net8.0\ref\ConstructorAll.dll

@@ -130,21 +130,20 @@ public class EnemyFSM : MonoBehaviour
     {
         if (!c.transform.CompareTag("Player")) return;
 
-        playerMove.Damaged(attackPower, transform.position);
+        playerMove.OnDamaged(attackPower, transform.position);
 
         m_State = EnemyState.Attack;
 
         StartCoroutine(EffectDelay());
-        
+
     }
 
     IEnumerator EffectDelay()
     {
-        print("test");
         yield return new WaitForSeconds(1f);
 
         //공격후 방향전환
-        MoveTransition();
+        if (IsMove) MoveTransition();
     }
 
     void Die()

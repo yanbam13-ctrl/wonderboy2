@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\bin\Debug\net8.0\PPT30_ConstructorForwarding.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\bin\Debug\net8.0\PPT30_ConstructorForwarding.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\bin\Debug\net8.0\PPT30_ConstructorForwarding.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\bin\Debug\net8.0\PPT30_ConstructorForwarding.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\bin\Debug\net8.0\PPT30_ConstructorForwarding.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\PPT30_ConstructorForwarding.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\PPT30_ConstructorForwarding.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\PPT30_ConstructorForwarding.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\PPT30_ConstructorForwarding.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\PPT30_ConstructorForwarding.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\PPT30_ConstructorForwarding.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\refint\PPT30_ConstructorForwarding.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\PPT30_ConstructorForwarding.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\PPT30_ConstructorForwarding.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter35\PPT30_ConstructorForwarding\obj\Debug\net8.0\ref\PPT30_ConstructorForwarding.dll

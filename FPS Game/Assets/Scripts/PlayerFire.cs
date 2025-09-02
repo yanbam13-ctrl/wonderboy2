@@ -5,6 +5,24 @@ using TMPro;
 
 public class PlayerFire : MonoBehaviour
 {
+
+    // 무기 아이콘 스프라이트 변수 
+    public GameObject weapon01;
+    public GameObject weapon02;
+
+    // 크로스헤어 스프라이트 변수 
+    public GameObject crosshair01;
+    public GameObject crosshair02;
+
+    //마우스 오른쪽 버튼 클릭 아이콘 스프라이트 변수
+    public GameObject weapon01_R;
+    public GameObject weapon02_R;
+
+    //마우스 오른쪽 버튼 클릭 줌 모드 스프라이트 변수
+    public GameObject crosshair02_zoom;
+
+
+
     //무기 모드 변수
     enum WeaponMode
     {
@@ -76,12 +94,16 @@ public class PlayerFire : MonoBehaviour
         {
             Camera.main.fieldOfView = 15f;
             zoomMode = true;
+            crosshair02_zoom.SetActive(true);
+            crosshair02.SetActive(false);
         }
         // 그렇지 않으면 카메라를 원래 상태로 되돌리고 줌 모드 상태를 해제한다.
         else
         {
             Camera.main.fieldOfView = 60f;
             zoomMode = false;
+            crosshair02_zoom.SetActive(false);
+            crosshair02.SetActive(true);
         }
     }
 
@@ -167,9 +189,22 @@ public class PlayerFire : MonoBehaviour
 
             //카메라 화면을 다시 원래대로 돌려줌
             Camera.main.fieldOfView = 60f;
+            //Weapon01_R_Zoom은 비활성되고, 줌 모드는 해제
+            crosshair02_zoom.SetActive(false);
+            zoomMode = false;
 
             //일반 모드 텍스트 출력
             wModeText.text = "Noramal Mode";
+
+            //1번 스프라이트는 활성화 되고, 2번 스프라이틑 비활성화된다.
+            weapon01.SetActive(true);
+            weapon02.SetActive(false);
+            crosshair01.SetActive(true);
+            crosshair02.SetActive(false);
+
+            //Weapon01_R 활성화 되고, Weapon02_R는 비활성화된다.
+            weapon01_R.SetActive(true);
+            weapon02_R.SetActive(false);
         }
         // 만일 키보드의 숫자 2번 입력을 받으면, 무기 모드를 스나이퍼 모드로 변경한다.
         else if (Input.GetKeyDown(KeyCode.Alpha2))
@@ -178,6 +213,16 @@ public class PlayerFire : MonoBehaviour
 
             //스나이퍼 모드 텍스트 출력
             wModeText.text = "Sniper Mode";
+
+            //2번 스프라이트는 활성화 되고, 1번 스프라이틑 비활성화된다.
+            weapon02.SetActive(true);
+            weapon01.SetActive(false);
+            crosshair02.SetActive(true);
+            crosshair01.SetActive(false);
+
+            //Weapon02_R 활성화 되고, Weapon01_R는 비활성화된다.
+            weapon02_R.SetActive(true);
+            weapon01_R.SetActive(false);
         }
     }
 
@@ -194,5 +239,7 @@ public class PlayerFire : MonoBehaviour
         //이펙트 오브젝트를 다시 비활성화 한다.
         eff_Flash[num].SetActive(false);
     }
+
+
 
 }

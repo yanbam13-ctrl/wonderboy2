@@ -6,11 +6,13 @@ using UnityEngine;
 public class PlayerMove : MonoBehaviour
 {
     //Player 상태
-    public int hp = 50;
+    public int hp;
 
     //공격 당했을때 상태 표시
     SpriteRenderer sr;
     SpriteRenderer weponSr;
+
+    bool isCrash = true;
 
     //Player jump시 검의 이미지 변경을 위한 변수
     PlayerInventory pInv;  // 캐시
@@ -46,6 +48,16 @@ public class PlayerMove : MonoBehaviour
 
     void Awake()
     {
+        //PlayerPrefs.DeleteKey("HP");
+
+        if (!PlayerPrefs.HasKey("HP"))
+        {
+            PlayerPrefs.SetInt("HP", 50);
+        }
+
+        hp = PlayerPrefs.GetInt("HP");
+        print("hp : " + hp);
+
         // Rigidbody2D를 한 번만 찾아서 보관(매 프레임 GetComponent 하면 느림)
         rb = GetComponent<Rigidbody2D>();
 
@@ -74,12 +86,10 @@ public class PlayerMove : MonoBehaviour
     }
 
     bool wasGrounded;
-
     void FixedUpdate()
     {
-        Move();
+        if (isCrash) Move();
     }
-
 
     /** 공격 **/
     void AttackAnim()
@@ -96,33 +106,38 @@ public class PlayerMove : MonoBehaviour
     }
 
     //** 플레이어 피격 메서드 => Enemy Attack에서 호출 **
-    public void Damaged(int damage, Vector2 targetPos)
-    {        
+    public void OnDamaged(int damage, Vector2 targetPos)
+    {
 
         //에너미의 공격력만큼 플레이어의 체력을 깎는다.
         anim.SetTrigger("Damaged");
 
-        hp -= damage;
+        Damaged(damage);
 
         gameObject.layer = 10; // PlayerDamaged 레이어로 변경해서 무적상태 만들기
         sr.color = new Color(1, 1, 1, 0.4f);
-        weponSr.color =  new Color(1, 1, 1, 0.4f);
-
+        weponSr.color = new Color(1, 1, 1, 0.4f);
 
         print(hp);
 
         //충돌 처리
         int dirc = transform.position.x - targetPos.x > 0 ? 1 : -1;
 
-        // 기존 속도 리셋(일관성↑)
+        //// 기존 속도 리셋(일관성↑)
         rb.velocity = Vector2.zero;
+        isCrash = false;
 
         // ---- 뒤로 + 위로 확실히 주기 ----
-        rb.AddForce(new Vector2(dirc * 1000f, 6f), ForceMode2D.Impulse);
+        rb.AddForce(new Vector2(dirc * 3, 7), ForceMode2D.Impulse);
         //rb.AddForce(new Vector2(dirc, 1) * 7, ForceMode2D.Impulse);
 
         Invoke("OffDamaged", 1);
-
+    }
+    public void Damaged(int damage)
+    {
+        hp -= damage;
+        PlayerPrefs.SetInt("HP", hp);
+        print("HP : " + hp);
     }
 
     void OffDamaged()
@@ -130,6 +145,7 @@ public class PlayerMove : MonoBehaviour
         gameObject.layer = 31; // PlayerDamaged 레이어로 변경해서 무적상태 만들기
         sr.color = new Color(1, 1, 1, 1);
         weponSr.color = new Color(1, 1, 1, 1);
+        isCrash = true;
 
     }
 
