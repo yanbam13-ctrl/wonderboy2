@@ -91,6 +91,16 @@ public class PlayerMove : MonoBehaviour
         if (isCrash) Move();
     }
 
+    /** Á×À½ **/
+    public void Die()
+    {
+        anim.SetTrigger("IsDie");
+        Vector2 currentPos = transform.position;
+        currentPos.y += 10f;
+
+        rb.velocity = currentPos;
+    }
+
     /** °ø°Ý **/
     void AttackAnim()
     {

@@ -13,12 +13,8 @@ public class EnemyFSM : MonoBehaviour
     // 세번재 부터 플레이어 공격 두방에 죽음(HP가 2배로 늘어남)
     // 죽어도 일정 시간이 지나면 계속 생성됨
 
-
-
     //ex)
     //기본 뱀은 한방에 죽음 / 움직임 없음 / 죽으면 골드를 떨어뜨림
-
-
 
     //몬스터 움직임
     //ex) Lv01(뱀) 
@@ -41,6 +37,7 @@ public class EnemyFSM : MonoBehaviour
     Rigidbody2D rb; // 움직임을 위해 필요한 물리엔진
     Animator anim; // 몬스터 애니메이션 
 
+    public GameObject coin; // 죽었을때 코인 생성
 
     // 처음 죽을때 동전이 나옴 -> if(!dieChecks[0]) 한번도 죽은적이 없음
 
@@ -94,6 +91,8 @@ public class EnemyFSM : MonoBehaviour
 
         //플레이어의 트랜스폼 컴포넌트 가져옴
         playerMove = GameObject.Find("Player").GetComponent<PlayerMove>();
+
+
     }
 
 
@@ -163,6 +162,8 @@ public class EnemyFSM : MonoBehaviour
         //2초 동안 기다린 후에 자기 자신을 제거
         yield return new WaitForSeconds(1f);
         print("소멸");
+        
+        Instantiate(coin, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
 

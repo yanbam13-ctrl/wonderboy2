@@ -16,6 +16,7 @@ public class UIManagerStage01 : MonoBehaviour
     public GameObject HP;
     Image hpImg;
     Sprite[] hpImags;
+    PlayerMove playerMove;
 
     //모래시계 조작 관련
     public GameObject hourGlass;
@@ -33,7 +34,7 @@ public class UIManagerStage01 : MonoBehaviour
 
 
     void Start()
-    {        
+    {
         //골드 UI 업데이트 관련
         UpdateGameMoneyUI();
 
@@ -46,6 +47,9 @@ public class UIManagerStage01 : MonoBehaviour
         hourGlassImg = hourGlass.GetComponent<Image>();
         hourGlassImgs = hourGlass.GetComponent<HourGlassRender>().HourGlassImgs;
         hourGlassResetImgs = hourGlass.GetComponent<HourGlassRender>().HourGlassResetImgs;
+
+        //플레이어의 트랜스폼 컴포넌트 가져옴
+        playerMove = GameObject.Find("Player").GetComponent<PlayerMove>();
 
 
         PlayerOneUI.text = "Player 1";
@@ -111,17 +115,20 @@ public class UIManagerStage01 : MonoBehaviour
 
         switch (hp)
         {
-            case 50: hpImg.sprite = hpImags[9]; break;
-            case 45: hpImg.sprite = hpImags[8]; break;
-            case 40: hpImg.sprite = hpImags[7]; break;
-            case 35: hpImg.sprite = hpImags[6]; break;
-            case 30: hpImg.sprite = hpImags[5]; break;
-            case 25: hpImg.sprite = hpImags[4]; break;
-            case 20: hpImg.sprite = hpImags[3]; break;
-            case 15: hpImg.sprite = hpImags[2]; break;
-            case 10: hpImg.sprite = hpImags[1]; break;
-            case 5: hpImg.sprite = hpImags[0]; break;
-            case 0: break;
+            case 50: hpImg.sprite = hpImags[10]; break;
+            case 45: hpImg.sprite = hpImags[9]; break;
+            case 40: hpImg.sprite = hpImags[8]; break;
+            case 35: hpImg.sprite = hpImags[7]; break;
+            case 30: hpImg.sprite = hpImags[6]; break;
+            case 25: hpImg.sprite = hpImags[5]; break;
+            case 20: hpImg.sprite = hpImags[4]; break;
+            case 15: hpImg.sprite = hpImags[3]; break;
+            case 10: hpImg.sprite = hpImags[2]; break;
+            case 5: hpImg.sprite = hpImags[1]; break;
+            case 0:
+                hpImg.sprite = hpImags[1];
+                playerMove.Die();
+                break;
         }
     }
 

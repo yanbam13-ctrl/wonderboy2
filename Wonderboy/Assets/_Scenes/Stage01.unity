@@ -496,6 +496,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hpImages:
+  - {fileID: -1145550871, guid: 8651673fc1276834abec562f2ad0ac4f, type: 3}
   - {fileID: -2063653775, guid: 8651673fc1276834abec562f2ad0ac4f, type: 3}
   - {fileID: 559442189, guid: 8651673fc1276834abec562f2ad0ac4f, type: 3}
   - {fileID: -1079493278, guid: 8651673fc1276834abec562f2ad0ac4f, type: 3}
@@ -642,6 +643,7 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
   - component: {fileID: 519420033}
+  - component: {fileID: 519420034}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -717,7 +719,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0.0138043305, y: -0.026396649, z: 0.00036541116, w: -0.9995562}
-  m_LocalPosition: {x: 49.514023, y: 1.3859286, z: -9.950948}
+  m_LocalPosition: {x: 16.137962, y: 1.3859286, z: -9.950626}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -757,6 +759,102 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
+--- !u!82 &519420034
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 519420028}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 675927314e9625f49961938b5fa0bb0b, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.3
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
 --- !u!1 &546918782
 GameObject:
   m_ObjectHideFlags: 0
@@ -1962,7 +2060,7 @@ Transform:
   m_GameObject: {fileID: 1345231671}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 50.32, y: 0.51, z: 0}
+  m_LocalPosition: {x: 16.95, y: 0.51, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2512,6 +2610,7 @@ MonoBehaviour:
   attackPower: 5
   reGenratedTime: 0
   moveDistance: 5
+  coin: {fileID: 5942140957783222060, guid: 15ca850780373a74394dde9a9584f638, type: 3}
 --- !u!50 &1603518496
 Rigidbody2D:
   serializedVersion: 4
@@ -2825,7 +2924,7 @@ Transform:
   m_GameObject: {fileID: 1846240119}
   serializedVersion: 2
   m_LocalRotation: {x: -0.0138043305, y: -0.026396649, z: 0.00036541116, w: -0.9995562}
-  m_LocalPosition: {x: 49.514023, y: 1.3859286, z: -9.950948}
+  m_LocalPosition: {x: 16.137962, y: 1.3859286, z: -9.950626}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2882,6 +2981,7 @@ MonoBehaviour:
   attackPower: 5
   reGenratedTime: 0
   moveDistance: 0
+  coin: {fileID: 5942140957783222060, guid: 15ca850780373a74394dde9a9584f638, type: 3}
 --- !u!212 &2141244523
 SpriteRenderer:
   m_ObjectHideFlags: 0
