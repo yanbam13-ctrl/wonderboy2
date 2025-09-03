@@ -81,7 +81,7 @@ public class EnemyFSM : MonoBehaviour
         leftLimit = startX - moveDistance; //7 - (5) = 2f
         rightLimit = startX; // 7 (0f)  = 7 
         // 4 ~ 7
-        print($"최초 leftLimit:  {leftLimit}");
+        //print($"최초 leftLimit:  {leftLimit}");
 
 
         // 최초 몬스터 상태는 Idle -> 움직이는 몬스터는 플레이어가 시야에 들어오면 움직임 시작

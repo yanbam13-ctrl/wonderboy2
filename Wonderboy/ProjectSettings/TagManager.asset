@@ -22,8 +22,8 @@ TagManager:
   - Monster
   - PlayerDamaged
   - Sword
-  - 
-  - 
+  - ghostLayer
+  - sky
   - 
   - 
   - 

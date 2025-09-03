@@ -84,7 +84,7 @@ public class MessageController : MonoBehaviour
             // 공통 마무리(항상 실행)
             Time.timeScale = 1f;
 
-            yield return new WaitForSecondsRealtime(2f);
+            yield return new WaitForSecondsRealtime(3f);
             messageUI.SetActive(false);
         }
         else

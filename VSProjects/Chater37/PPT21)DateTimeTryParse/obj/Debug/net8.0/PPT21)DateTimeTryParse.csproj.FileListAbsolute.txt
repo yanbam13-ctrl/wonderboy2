@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\bin\Debug\net8.0\PPT21)DateTimeTryParse.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\bin\Debug\net8.0\PPT21)DateTimeTryParse.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\bin\Debug\net8.0\PPT21)DateTimeTryParse.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\bin\Debug\net8.0\PPT21)DateTimeTryParse.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\bin\Debug\net8.0\PPT21)DateTimeTryParse.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\PPT21)DateTimeTryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\PPT21)DateTimeTryParse.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\PPT21)DateTimeTryParse.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\PPT21)DateTimeTryParse.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\PPT21)DateTimeTryParse.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\PPT21)DateTimeTryParse.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\refint\PPT21)DateTimeTryParse.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\PPT21)DateTimeTryParse.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\PPT21)DateTimeTryParse.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT21)DateTimeTryParse\obj\Debug\net8.0\ref\PPT21)DateTimeTryParse.dll

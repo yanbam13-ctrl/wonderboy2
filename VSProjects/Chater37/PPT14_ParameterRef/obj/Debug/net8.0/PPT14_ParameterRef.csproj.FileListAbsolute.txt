@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\bin\Debug\net8.0\PPT14_ParameterRef.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\bin\Debug\net8.0\PPT14_ParameterRef.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\bin\Debug\net8.0\PPT14_ParameterRef.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\bin\Debug\net8.0\PPT14_ParameterRef.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\bin\Debug\net8.0\PPT14_ParameterRef.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\PPT14_ParameterRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\PPT14_ParameterRef.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\PPT14_ParameterRef.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\PPT14_ParameterRef.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\PPT14_ParameterRef.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\PPT14_ParameterRef.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\refint\PPT14_ParameterRef.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\PPT14_ParameterRef.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\PPT14_ParameterRef.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater37\PPT14_ParameterRef\obj\Debug\net8.0\ref\PPT14_ParameterRef.dll

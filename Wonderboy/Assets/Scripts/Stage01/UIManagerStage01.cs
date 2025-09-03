@@ -2,13 +2,19 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
+using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
-using TMPro;
+using Cinemachine;
 
 public class UIManagerStage01 : MonoBehaviour
 {
+
+    //GameOver관련
+    public TMP_Text gameOverText;
+    public GameObject deadEffect;
+
     //게임돈 관련
     public TMP_Text goldText;
 
@@ -17,6 +23,8 @@ public class UIManagerStage01 : MonoBehaviour
     Image hpImg;
     Sprite[] hpImags;
     PlayerMove playerMove;
+    bool alreadyDead;
+    bool timeAttackDied;
 
     //모래시계 조작 관련
     public GameObject hourGlass;
@@ -59,7 +67,7 @@ public class UIManagerStage01 : MonoBehaviour
     }
     void Update()
     {
-        HpState(); //HP Update 함수
+        HpState(); //HP Update 함수, 죽었을때 한번만 실행되도록 isDie 사용
 
         // Player 1, 2 깜빡 거림 처리
         /*
@@ -86,7 +94,7 @@ public class UIManagerStage01 : MonoBehaviour
     IEnumerator HourGlassUpdate()
     {
         int i = 0;
-        while (true)
+        while (!alreadyDead)
         {
             hourGlassImg.sprite = hourGlassImgs[i];
             yield return new WaitForSeconds(1f);
@@ -100,12 +108,18 @@ public class UIManagerStage01 : MonoBehaviour
                     {
                         timeAttack = true;
                         player.GetComponent<PlayerMove>().Damaged(10);
+                        if (PlayerPrefs.GetInt("HP") <= 0)
+                        {
+                            timeAttackDied = true;
+                        }
                     }
                     hourGlassImg.sprite = hourGlassResetImgs[j];
                     yield return new WaitForSeconds(0.5f);
                 }
                 timeAttack = false;
             }
+
+            // alreadyDead가 true가 되면 모래시계 움직임을 멈추고 싶다.
         }
     }
 
@@ -113,23 +127,57 @@ public class UIManagerStage01 : MonoBehaviour
     {
         int hp = PlayerPrefs.GetInt("HP");
 
-        switch (hp)
+        if (hp <= 0)
         {
-            case 50: hpImg.sprite = hpImags[10]; break;
-            case 45: hpImg.sprite = hpImags[9]; break;
-            case 40: hpImg.sprite = hpImags[8]; break;
-            case 35: hpImg.sprite = hpImags[7]; break;
-            case 30: hpImg.sprite = hpImags[6]; break;
-            case 25: hpImg.sprite = hpImags[5]; break;
-            case 20: hpImg.sprite = hpImags[4]; break;
-            case 15: hpImg.sprite = hpImags[3]; break;
-            case 10: hpImg.sprite = hpImags[2]; break;
-            case 5: hpImg.sprite = hpImags[1]; break;
-            case 0:
-                hpImg.sprite = hpImags[1];
-                playerMove.Die();
-                break;
+            hpImg.sprite = hpImags[0];
+            if (!alreadyDead) StartCoroutine(DieDleay());
         }
+        else
+        {
+            switch (hp)
+            {
+                case 50: hpImg.sprite = hpImags[10]; break;
+                case 45: hpImg.sprite = hpImags[9]; break;
+                case 40: hpImg.sprite = hpImags[8]; break;
+                case 35: hpImg.sprite = hpImags[7]; break;
+                case 30: hpImg.sprite = hpImags[6]; break;
+                case 25: hpImg.sprite = hpImags[5]; break;
+                case 20: hpImg.sprite = hpImags[4]; break;
+                case 15: hpImg.sprite = hpImags[3]; break;
+                case 10: hpImg.sprite = hpImags[2]; break;
+                case 5: hpImg.sprite = hpImags[1]; break;
+            }
+        }
+    }
+
+    IEnumerator DieDleay()
+    {
+        //타임어택으로 죽은게 아니라면 피격 당한후 멈췄다가 죽음
+        if (!timeAttackDied)
+        {
+
+            alreadyDead = true; //Update()에 있는 HpState()메서드에서 hp가 0이었을때 한번만 접근하도록                       
+            
+            yield return new WaitForSeconds(0.5f);
+            Time.timeScale = 0;
+
+            yield return new WaitForSecondsRealtime(1.5f);
+            Time.timeScale = 1;
+        }
+
+        //플레이어가 죽고나서 하늘로 올라갈때 다른 오브젝트와 충돌되지 않도록 함.
+        int ghost = LayerMask.NameToLayer("ghostLayer");
+        playerMove.gameObject.layer = ghost;
+
+        //PlayerMove에 있는 Die메서드 호출 _ 죽음 애니메이션 동작 / 칼 오브젝트 false / 위로 올라가게 만들기
+        playerMove.Die();
+
+        gameOverText.text = "Game Over";
+        yield return new WaitForSeconds(1f);
+
+        deadEffect.SetActive(true);
+        yield return new WaitForSeconds(2.5f);
+        SceneManager.LoadScene(0);
     }
 
     public void UpdateGameMoneyUI()

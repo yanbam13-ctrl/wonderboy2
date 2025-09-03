@@ -1,6 +1,8 @@
+using Cinemachine;
 using System.Collections;
 using System.Collections.Generic;
 using System.Net.NetworkInformation;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class PlayerMove : MonoBehaviour
@@ -8,11 +10,16 @@ public class PlayerMove : MonoBehaviour
     //Player 상태
     public int hp;
 
+    //죽었을때 
+    bool isDied;
+    public CinemachineVirtualCamera vcam;
+
     //공격 당했을때 상태 표시
     SpriteRenderer sr;
     SpriteRenderer weponSr;
 
-    bool isCrash = true;
+    //공격 당했을때 움직임 멈추기 위한 변수
+    bool isCrash;
 
     //Player jump시 검의 이미지 변경을 위한 변수
     PlayerInventory pInv;  // 캐시
@@ -48,11 +55,11 @@ public class PlayerMove : MonoBehaviour
 
     void Awake()
     {
-        //PlayerPrefs.DeleteKey("HP");
+        PlayerPrefs.DeleteKey("HP");
 
         if (!PlayerPrefs.HasKey("HP"))
         {
-            PlayerPrefs.SetInt("HP", 50);
+            PlayerPrefs.SetInt("HP", 5);
         }
 
         hp = PlayerPrefs.GetInt("HP");
@@ -80,6 +87,8 @@ public class PlayerMove : MonoBehaviour
 
     void Update()
     {
+        if (isDied) return;  // 죽으면 입력/애니메이션 로직 전부 중단
+
         MoveAnimAndFlip();
         JumpAnimAndJump();
         AttackAnim();
@@ -88,17 +97,39 @@ public class PlayerMove : MonoBehaviour
     bool wasGrounded;
     void FixedUpdate()
     {
-        if (isCrash) Move();
+        if (isDied)
+        {
+            // 죽는 동안에는 매 물리프레임 위로 속도를 '계속' 유지
+            rb.velocity = new Vector2(0f, 2f);
+            return;
+        }
+
+        if (!isCrash) Move();
     }
+
 
     /** 죽음 **/
     public void Die()
     {
-        anim.SetTrigger("IsDie");
-        Vector2 currentPos = transform.position;
-        currentPos.y += 10f;
+        print("Die 호출");
+        if (isDied) return; // 죽은 상태면 리턴
 
-        rb.velocity = currentPos;
+        // 1) 플레이어 카메라 팔로우 끊기
+        vcam.Follow = null;
+
+        isDied = true; //HP가 0이 되어서 Die 메서드로 진입했다면 한번만 실행하도록
+        isCrash = true;
+
+        foreach (Transform child in transform)
+        {
+            print("Name: " + transform.gameObject.name);
+            child.gameObject.SetActive(false);
+        }
+
+        anim.SetTrigger("IsDie");
+        print("anim.SetTrigger(\"IsDie\");");
+
+        rb.velocity = new Vector2(0, 1f);
     }
 
     /** 공격 **/
@@ -119,9 +150,13 @@ public class PlayerMove : MonoBehaviour
     public void OnDamaged(int damage, Vector2 targetPos)
     {
 
-        //에너미의 공격력만큼 플레이어의 체력을 깎는다.
-        anim.SetTrigger("Damaged");
 
+        anim.SetTrigger("Damaged");
+        //print("hp : " + hp + "hp > 0 : " + (hp > 0));
+        print("anim.SetTrigger(\"Damaged\");");
+
+
+        //에너미의 공격력만큼 플레이어의 체력을 깎는다.
         Damaged(damage);
 
         gameObject.layer = 10; // PlayerDamaged 레이어로 변경해서 무적상태 만들기
@@ -135,7 +170,7 @@ public class PlayerMove : MonoBehaviour
 
         //// 기존 속도 리셋(일관성↑)
         rb.velocity = Vector2.zero;
-        isCrash = false;
+        isCrash = true;
 
         // ---- 뒤로 + 위로 확실히 주기 ----
         rb.AddForce(new Vector2(dirc * 3, 7), ForceMode2D.Impulse);
@@ -155,8 +190,7 @@ public class PlayerMove : MonoBehaviour
         gameObject.layer = 31; // PlayerDamaged 레이어로 변경해서 무적상태 만들기
         sr.color = new Color(1, 1, 1, 1);
         weponSr.color = new Color(1, 1, 1, 1);
-        isCrash = true;
-
+        isCrash = false;
     }
 
     /** 이동 조작**/
