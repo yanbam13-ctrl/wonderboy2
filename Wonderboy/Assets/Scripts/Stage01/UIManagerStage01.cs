@@ -11,6 +11,11 @@ using Cinemachine;
 public class UIManagerStage01 : MonoBehaviour
 {
 
+    //GameClear
+    public TMP_Text clearTxt;
+    public GameObject clearView;
+    bool bossDied;
+
     //GameOver관련
     public TMP_Text gameOverText;
     public GameObject deadEffect;
@@ -89,6 +94,10 @@ public class UIManagerStage01 : MonoBehaviour
         PlayerOneUI.gameObject.SetActive(on);
         PlayerTwoUI.gameObject.SetActive(!on);
 
+        if (PlayerPrefs.GetInt("Boss01Clear") == 1)
+        {
+            StartCoroutine(GameClear());
+        }
     }
 
     IEnumerator HourGlassUpdate()
@@ -157,7 +166,7 @@ public class UIManagerStage01 : MonoBehaviour
         {
 
             alreadyDead = true; //Update()에 있는 HpState()메서드에서 hp가 0이었을때 한번만 접근하도록                       
-            
+
             yield return new WaitForSeconds(0.5f);
             Time.timeScale = 0;
 
@@ -178,6 +187,18 @@ public class UIManagerStage01 : MonoBehaviour
         deadEffect.SetActive(true);
         yield return new WaitForSeconds(2.5f);
         SceneManager.LoadScene(4);
+    }
+
+    IEnumerator GameClear()
+    {
+        yield return new WaitForSeconds(10f);
+        clearView.SetActive(true);
+
+        yield return new WaitForSeconds(0.5f);
+        clearTxt.text = "Stage Clear!";
+
+        yield return new WaitForSeconds(3f);
+        SceneManager.LoadScene(0);
     }
 
     public void UpdateGameMoneyUI()

@@ -25,6 +25,7 @@ public class UIManagerOne : MonoBehaviour
         PlayerPrefs.DeleteKey("SwordId"); //PlayerPrefs 값 초기화
         PlayerPrefs.DeleteKey("GameMoney"); //PlayerPrefs 값 초기화
         PlayerPrefs.DeleteKey("HP");
+        PlayerPrefs.DeleteKey("Boss01Clear");
 
         CoinManager.Instance.ResetCoin();
         istCoinTxt.text = "Insert Coin";

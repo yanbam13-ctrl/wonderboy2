@@ -24,18 +24,20 @@ public class EnemyFSM : MonoBehaviour
     public int attackPower; //몬스터의 공격력
     public float reGenratedTime; //몬스터 재생성 대기 시간
 
-    //Vector2 startPos; // 재성성시 위치값으로 최초 위치값을 저장
     public float moveDistance; // 움직임 제한 범위
     private float leftLimit; // 왼쪽 이동제한 수치
     private float rightLimit; // 오른쪽 이동제한 수치
     private int moveDirection = -1; // 이동방향 최초값
 
     private float startX;
+    private float startY;
     private float[] leftDistances = { 5f, 4f, 3f, 4f, 5f }; // 왼쪽 경계 범위 변환
     private int index = 0;
 
     //Boss 인지 아닌지
     public bool isBoos;
+    Vector2 startPos; // 재성성시 위치값으로 최초 위치값을 저장
+    bool isAttacking = false;
 
     Rigidbody2D rb; // 움직임을 위해 필요한 물리엔진
     Animator anim; // 몬스터 애니메이션 
@@ -79,11 +81,18 @@ public class EnemyFSM : MonoBehaviour
 
     EnemyState m_State;
 
+    private void Start()
+    {
+        startPos = transform.position;  // Start 시점에 저장!
+        Debug.Log("Start 시점의 보스 위치 저장: " + startPos);
+    }
     private void Awake()
     {
         //처음 X값
         startX = transform.position.x;
+        startY = transform.position.y;
         rb = GetComponent<Rigidbody2D>();
+        if (isBoos) rb.gravityScale = 0f;
 
         //현재 위치를 기준으로 왼쪽/오른쪽 이동 범위 계산
         leftLimit = startX - moveDistance; //7 - (5) = 2f
@@ -169,7 +178,29 @@ public class EnemyFSM : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
         print("소멸");
 
-        Instantiate(coin, transform.position, Quaternion.identity);
+        anim.SetTrigger("Died");
+
+        yield return new WaitForSeconds(0.5f);
+        if (!isBoos)
+        {
+            Instantiate(coin, transform.position, Quaternion.identity);
+        }
+        else
+        {
+            for (int i = 0; i < 10; i++)
+            {
+                float offsetX = Random.Range(-1f, 1f); // X축 좌우 랜덤 위치
+                float offsetY = Random.Range(0f, 0.5f); // Y축 살짝 위에
+                Vector2 spawnPos = new Vector2(transform.position.x + offsetX, transform.position.y + offsetY);
+                // 
+                Instantiate(coin, spawnPos, Quaternion.identity);
+            }
+
+            PlayerPrefs.SetInt("Boss01Clear", 1);
+
+            print(PlayerPrefs.GetInt("Boss01Clear"));
+        }
+
         Destroy(gameObject);
     }
 
@@ -233,7 +264,14 @@ public class EnemyFSM : MonoBehaviour
 
     void Move()
     {
-        if (!isBoos)
+        Debug.Log("현재 위치: " + transform.position + " / 시작 위치: " + startPos);
+
+        print(isBoos);
+        if (isBoos)
+        {
+            MoveToPlayerOffset();
+        }
+        else
         {
             // 몬스터 움직이게 만들기
             rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
@@ -254,7 +292,6 @@ public class EnemyFSM : MonoBehaviour
                 //오른쪽으로 변경
 
             }
-
             else if (transform.position.x >= rightLimit)
             {
                 //왼쪽으로 변경
@@ -266,55 +303,58 @@ public class EnemyFSM : MonoBehaviour
                 leftLimit = startX - leftDistances[index];
             }
         }
-        else
-        {
-            MoveToPlayerOffset();
-        }
-
     }
 
     void MoveToPlayerOffset()
-{
-    offsetFromPlayer = new Vector2(1.16f, 0.7f);
-    Vector2 playerPos = playerMove.transform.position;
-    Vector2 bossPos = transform.position;
-
-    float distanceToPlayer = Vector2.Distance(bossPos, playerPos);
-
-    if (!isReturning)
     {
-        if (distanceToPlayer <= 6f)
+        if (isAttacking) return;
+
+        // 무조건 공격 루틴 시작
+        StartCoroutine(BossAttackRoutine());
+    }
+    IEnumerator BossAttackRoutine()
+    {
+        print("코루틴 진입");
+        isAttacking = true;
+
+        while (true)
         {
-            // 플레이어 근처면 따라감
-            targetPosition = playerPos + offsetFromPlayer;
-        }
-        else
-        {
-            // 너무 멀어지면 복귀 모드 진입
-            isReturning = true;
-            targetPosition = new Vector2(startX, transform.position.y);
+            print("공격 시작");
+
+            rb.gravityScale = 0;
+            rb.velocity = Vector2.zero;
+
+            Vector2 targetPos = playerMove.transform.position + new Vector3(0f, 1.0f); // 플레이어 방향으로 돌진
+
+            // 방향 회전 처리
+            if (targetPos.x < transform.position.x)
+                transform.rotation = Quaternion.Euler(0, 0, 0); // 왼쪽
+            else
+                transform.rotation = Quaternion.Euler(0, 180, 0); // 오른쪽
+
+            float dashSpeed = 12f;
+            while (Vector2.Distance(transform.position, targetPos) > 0.1f)
+            {
+                transform.position = Vector2.MoveTowards(transform.position, targetPos, dashSpeed * Time.deltaTime);
+                yield return null;
+            }
+
+            rb.velocity = Vector2.zero;
+            print("복귀 시작");
+
+            float returnSpeed = 7f;
+            while (Vector2.Distance(transform.position, startPos) > 0.1f)
+            {
+                transform.position = Vector2.MoveTowards(transform.position, startPos, returnSpeed * Time.deltaTime);
+                yield return null;
+            }
+
+            transform.position = startPos;
+
+            print("복귀완료 대기");
+            yield return new WaitForSeconds(1.5f);
         }
     }
-    else
-    {
-        // 복귀 중이면 원래 위치로 감
-        targetPosition = new Vector2(startX, transform.position.y);
-
-        // 도착하면 다시 추적 가능하게 변경
-        if (Mathf.Abs(transform.position.x - startX) < 0.1f)
-        {
-            isReturning = false;
-        }
-    }
-
-    transform.position = Vector2.MoveTowards(
-        bossPos,
-        targetPosition,
-        moveSpeed * Time.deltaTime
-    );
-}
-
-
 
     void Idle()
     {
