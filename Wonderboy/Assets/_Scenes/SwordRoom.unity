@@ -179,6 +179,14 @@ PrefabInstance:
       value: Oh, warrior,\ You need a sword \n for adventure\n I'll give you \the
         sword here.
       objectReference: {fileID: 0}
+    - target: {fileID: 5335502755072024897, guid: bfe5c728336f6474685455a242ee1180, type: 3}
+      propertyPath: autoCloseAfter
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5921817093237045247, guid: bfe5c728336f6474685455a242ee1180, type: 3}
+      propertyPath: endWaitSecond
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

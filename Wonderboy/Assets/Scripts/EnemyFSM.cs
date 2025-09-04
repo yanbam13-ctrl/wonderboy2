@@ -34,6 +34,9 @@ public class EnemyFSM : MonoBehaviour
     private float[] leftDistances = { 5f, 4f, 3f, 4f, 5f }; // 왼쪽 경계 범위 변환
     private int index = 0;
 
+    //Boss 인지 아닌지
+    public bool isBoos;
+
     Rigidbody2D rb; // 움직임을 위해 필요한 물리엔진
     Animator anim; // 몬스터 애니메이션 
 
@@ -57,6 +60,11 @@ public class EnemyFSM : MonoBehaviour
 
     // 플레이어 
     PlayerMove playerMove;
+
+    // Boss의 원하는 위치 오프셋
+    Vector2 offsetFromPlayer;
+    Vector2 targetPosition;
+    bool isReturning = false;
 
     //열거형 상태 필드멤버
     enum EnemyState
@@ -91,8 +99,6 @@ public class EnemyFSM : MonoBehaviour
 
         //플레이어의 트랜스폼 컴포넌트 가져옴
         playerMove = GameObject.Find("Player").GetComponent<PlayerMove>();
-
-
     }
 
 
@@ -160,9 +166,9 @@ public class EnemyFSM : MonoBehaviour
         //col.enabled = false; // 콜라이더를 비활성화 시키면 떨어짐
 
         //2초 동안 기다린 후에 자기 자신을 제거
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(0.5f);
         print("소멸");
-        
+
         Instantiate(coin, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
@@ -227,46 +233,93 @@ public class EnemyFSM : MonoBehaviour
 
     void Move()
     {
-        // 몬스터 움직이게 만들기
-        rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
-
-        //print($"Move() : leftLimit : {leftLimit}");
-
-        // 왼쪽 경계 도달시 방향전환
-        if (transform.position.x <= leftLimit)
+        if (!isBoos)
         {
-            transform.rotation = Quaternion.Euler(0, 180, 0);
-            moveDirection = 1;
+            // 몬스터 움직이게 만들기
+            rb.velocity = new Vector2(moveDirection * moveSpeed, rb.velocity.y);
 
-            //print($"transform.position.x : {transform.position.x}");
-            //print($"leftLimit : {leftLimit}");
+            //print($"Move() : leftLimit : {leftLimit}");
 
-            //print($"index : {index}");
-            //print($"leftDistances[index] : leftDistances[index]");
-            //오른쪽으로 변경
+            // 왼쪽 경계 도달시 방향전환
+            if (transform.position.x <= leftLimit)
+            {
+                transform.rotation = Quaternion.Euler(0, 180, 0);
+                moveDirection = 1;
 
+                //print($"transform.position.x : {transform.position.x}");
+                //print($"leftLimit : {leftLimit}");
+
+                //print($"index : {index}");
+                //print($"leftDistances[index] : leftDistances[index]");
+                //오른쪽으로 변경
+
+            }
+
+            else if (transform.position.x >= rightLimit)
+            {
+                //왼쪽으로 변경
+                transform.rotation = Quaternion.Euler(0, 0, 0);
+                moveDirection = -1;
+
+                //왼쪽 경계 갱신
+                index = (index + 1) % leftDistances.Length;
+                leftLimit = startX - leftDistances[index];
+            }
+        }
+        else
+        {
+            MoveToPlayerOffset();
         }
 
-        else if (transform.position.x >= rightLimit)
-        {
-            //왼쪽으로 변경
-            transform.rotation = Quaternion.Euler(0, 0, 0);
-            moveDirection = -1;
+    }
 
-            //왼쪽 경계 갱신
-            index = (index + 1) % leftDistances.Length;
-            leftLimit = startX - leftDistances[index];
+    void MoveToPlayerOffset()
+{
+    offsetFromPlayer = new Vector2(1.16f, 0.7f);
+    Vector2 playerPos = playerMove.transform.position;
+    Vector2 bossPos = transform.position;
+
+    float distanceToPlayer = Vector2.Distance(bossPos, playerPos);
+
+    if (!isReturning)
+    {
+        if (distanceToPlayer <= 6f)
+        {
+            // 플레이어 근처면 따라감
+            targetPosition = playerPos + offsetFromPlayer;
+        }
+        else
+        {
+            // 너무 멀어지면 복귀 모드 진입
+            isReturning = true;
+            targetPosition = new Vector2(startX, transform.position.y);
         }
     }
+    else
+    {
+        // 복귀 중이면 원래 위치로 감
+        targetPosition = new Vector2(startX, transform.position.y);
+
+        // 도착하면 다시 추적 가능하게 변경
+        if (Mathf.Abs(transform.position.x - startX) < 0.1f)
+        {
+            isReturning = false;
+        }
+    }
+
+    transform.position = Vector2.MoveTowards(
+        bossPos,
+        targetPosition,
+        moveSpeed * Time.deltaTime
+    );
+}
+
+
 
     void Idle()
     {
         // 움직이는 몬스터는 move로 상태 변환
         if (IsMove) m_State = EnemyState.Move;
     }
-
-
-
-
 
 }

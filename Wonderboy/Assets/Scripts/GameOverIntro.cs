@@ -14,6 +14,9 @@ public class GameOverIntro : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        PlayerPrefs.DeleteKey($"Stage01_BrickBounce"); //PlayerPrefs 값 초기화
+        PlayerPrefs.DeleteKey("GameMoney"); //PlayerPrefs 값 초기화
+        PlayerPrefs.DeleteKey("HP");
 
         // 메세지 데이터 유무로 필터링
         if (md == null) return;

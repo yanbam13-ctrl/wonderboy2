@@ -18,6 +18,14 @@ public class UIManagerOne : MonoBehaviour
 
     void Start()
     {
+        // *** PlayerPrefs 값 초기화 ***
+        PlayerPrefs.DeleteKey("DoorCount_Door01"); //PlayerPrefs 값 초기화
+        PlayerPrefs.DeleteKey("DoorCount_BossRoomDoorOpen_"); //PlayerPrefs 값 초기화
+        PlayerPrefs.DeleteKey($"Stage01_BrickBounce"); //PlayerPrefs 값 초기화
+        PlayerPrefs.DeleteKey("SwordId"); //PlayerPrefs 값 초기화
+        PlayerPrefs.DeleteKey("GameMoney"); //PlayerPrefs 값 초기화
+        PlayerPrefs.DeleteKey("HP");
+
         CoinManager.Instance.ResetCoin();
         istCoinTxt.text = "Insert Coin";
         Credit.text = "CREDIT 0";

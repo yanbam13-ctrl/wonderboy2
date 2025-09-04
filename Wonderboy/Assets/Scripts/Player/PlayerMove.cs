@@ -13,10 +13,7 @@ public class PlayerMove : MonoBehaviour
     //죽었을때 
     bool isDied;
     public CinemachineVirtualCamera vcam;
-
-    //공격 당했을때 상태 표시
-    SpriteRenderer sr;
-    SpriteRenderer weponSr;
+    float diedStartTime = 0;
 
     //공격 당했을때 움직임 멈추기 위한 변수
     bool isCrash;
@@ -53,13 +50,19 @@ public class PlayerMove : MonoBehaviour
     public float moveTapBuffer = 0.12f;  // 살짝 눌러도 이 시간만큼 Move 유지
     float moveTimer;
 
+    //공격 당했을때 상태 표시
+    SpriteRenderer sr;
+    public SpriteRenderer[] weponSr;
+
+
+
     void Awake()
     {
-        PlayerPrefs.DeleteKey("HP");
+        PlayerPrefs.DeleteKey("DoorCount_BossRoomDoorOpen_"); //PlayerPrefs 값 초기화
 
         if (!PlayerPrefs.HasKey("HP"))
         {
-            PlayerPrefs.SetInt("HP", 5);
+            PlayerPrefs.SetInt("HP", 50);
         }
 
         hp = PlayerPrefs.GetInt("HP");
@@ -78,10 +81,6 @@ public class PlayerMove : MonoBehaviour
 
         var t = transform.Find("SwordIdle/wepon_0");   // 부모가 비활성이어도 Find 가능
         if (t == null) { Debug.LogError("SwordIdle/wepon_0 경로를 찾지 못함"); return; }
-
-        weponSr = t.GetComponent<SpriteRenderer>();
-        if (weponSr == null) Debug.LogError("wepon_0에 SpriteRenderer가 없음");
-
     }
 
 
@@ -99,8 +98,17 @@ public class PlayerMove : MonoBehaviour
     {
         if (isDied)
         {
+            if (diedStartTime == 0)
+            {
+                diedStartTime = Time.time; // 죽은 시점 기록
+            }
+
+            float elapsed = Time.time - diedStartTime;
+
+            float x = Mathf.Sin(elapsed * 10f) * 1.5f; // 진폭 1.5, 주기 빠르게
+
             // 죽는 동안에는 매 물리프레임 위로 속도를 '계속' 유지
-            rb.velocity = new Vector2(0f, 2f);
+            rb.velocity = new Vector2(x, 2f);
             return;
         }
 
@@ -149,8 +157,6 @@ public class PlayerMove : MonoBehaviour
     //** 플레이어 피격 메서드 => Enemy Attack에서 호출 **
     public void OnDamaged(int damage, Vector2 targetPos)
     {
-
-
         anim.SetTrigger("Damaged");
         //print("hp : " + hp + "hp > 0 : " + (hp > 0));
         print("anim.SetTrigger(\"Damaged\");");
@@ -161,7 +167,10 @@ public class PlayerMove : MonoBehaviour
 
         gameObject.layer = 10; // PlayerDamaged 레이어로 변경해서 무적상태 만들기
         sr.color = new Color(1, 1, 1, 0.4f);
-        weponSr.color = new Color(1, 1, 1, 0.4f);
+        for (int i = 0; i < weponSr.Length; i++)
+        {
+            weponSr[i].color = new Color(1, 1, 1, 0.4f);
+        }
 
         print(hp);
 
@@ -189,7 +198,10 @@ public class PlayerMove : MonoBehaviour
     {
         gameObject.layer = 31; // PlayerDamaged 레이어로 변경해서 무적상태 만들기
         sr.color = new Color(1, 1, 1, 1);
-        weponSr.color = new Color(1, 1, 1, 1);
+        for (int i = 0; i < weponSr.Length; i++)
+        {
+            weponSr[i].color = new Color(1, 1, 1, 1);
+        }
         isCrash = false;
     }
 
@@ -278,6 +290,7 @@ public class PlayerMove : MonoBehaviour
         // ★ 입력은 Update에서 읽는 게 좋음(프레임 기반).
         if (Input.GetButtonDown("Fire1") && grounded)
         {
+            print("점프 실행");
 
             // 점프 속도 계산: v = sqrt(2 * g * h)
             // g : 실제 중력 가속도(Physics2D.gravity.y * gravityScale)
@@ -297,6 +310,5 @@ public class PlayerMove : MonoBehaviour
         }
         anim.SetBool("IsJumping", !grounded);
     }
-
 
 }

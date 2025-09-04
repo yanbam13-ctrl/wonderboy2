@@ -97,7 +97,7 @@ public class UIManagerStage01 : MonoBehaviour
         while (!alreadyDead)
         {
             hourGlassImg.sprite = hourGlassImgs[i];
-            yield return new WaitForSeconds(1f);
+            yield return new WaitForSeconds(20f);
             i = (i + 1) % hourGlassImgs.Length;
 
             if (i == 0)
@@ -177,7 +177,7 @@ public class UIManagerStage01 : MonoBehaviour
 
         deadEffect.SetActive(true);
         yield return new WaitForSeconds(2.5f);
-        SceneManager.LoadScene(0);
+        SceneManager.LoadScene(4);
     }
 
     public void UpdateGameMoneyUI()

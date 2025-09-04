@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\bin\Debug\net8.0\PPT07_PropertiyDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\bin\Debug\net8.0\PPT07_PropertiyDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\bin\Debug\net8.0\PPT07_PropertiyDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\bin\Debug\net8.0\PPT07_PropertiyDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\bin\Debug\net8.0\PPT07_PropertiyDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\PPT07_PropertiyDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\PPT07_PropertiyDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\PPT07_PropertiyDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\PPT07_PropertiyDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\PPT07_PropertiyDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\PPT07_PropertiyDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\refint\PPT07_PropertiyDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\PPT07_PropertiyDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\PPT07_PropertiyDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT07_PropertiyDemo\obj\Debug\net8.0\ref\PPT07_PropertiyDemo.dll

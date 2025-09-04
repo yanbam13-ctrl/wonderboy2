@@ -96,6 +96,7 @@ public class PlayerDoorCheckInTrigger : MonoBehaviour
     IEnumerator KnockThenOpen()
     {
         isTransitioning = true;
+        transform.Find("SwordIdle").gameObject.SetActive(false);
 
         //노크 트리거
         if (playerAnim) {

@@ -552,8 +552,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 55c50f9c84109734396c209e557effeb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cursorPositions: []
-  cursor: {fileID: 1062687427}
 --- !u!212 &419711937
 SpriteRenderer:
   m_ObjectHideFlags: 0

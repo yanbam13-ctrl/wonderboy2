@@ -1,43 +1,53 @@
-//using UnityEngine;
+using UnityEngine;
+using UnityEngine.UIElements;
+using UnityEngine.SceneManagement;
 
-//public class GameOverSelector : MonoBehaviour
-//{
-//    public Transform[] cursorPositions; // 손이 갈 수 있는 위치들
-//    public GameObject cursor;           // 손 이미지
-//    int currentIndex = 0;               // 0 = Continue, 1 = Quit
+public class GameOverSelector : MonoBehaviour
+{
+    Vector2 currentPos;
+    Vector2 leftPos;
+    Vector2 rightPos;
 
-//    void Update()
-//    {
-//        // 좌우 입력으로 인덱스 변경
-//        if (Input.GetKeyDown(KeyCode.LeftArrow))
-//        {
-//            currentIndex = Mathf.Max(0, currentIndex - 1);
-//            MoveCursor();
-//        }
-//        else if (Input.GetKeyDown(KeyCode.RightArrow))
-//        {
-//            currentIndex = Mathf.Min(cursorPositions.Length - 1, currentIndex + 1);
-//            MoveCursor();
-//        }
 
-//        // 선택 확정
-//        if (Input.GetKeyDown(KeyCode.Z) || Input.GetKeyDown(KeyCode.Return))
-//        {
-//            if (currentIndex == 0)
-//            {
-//                Debug.Log("Continue 선택됨");
-//                // 이어서 플레이 로직
-//            }
-//            else
-//            {
-//                Debug.Log("Quit 선택됨");
-//                // 타이틀로 나가기 or 게임 종료
-//            }
-//        }
-//    }
+    private void Start()
+    {
+        currentPos = transform.position;
+        leftPos = currentPos + new Vector2(-1f, 0);
+        rightPos = currentPos + new Vector2(1f, 0);
+    }
 
-//    void MoveCursor()
-//    {
-//        cursor.transform.position = cursorPositions[currentIndex].position;
-//    }
-//}
+    void Update()
+    {
+        Move();
+        Select();
+    }
+
+    void Move()
+    {
+        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        {
+            transform.position = leftPos;
+        }
+        else if (Input.GetKeyDown(KeyCode.RightArrow))
+        {
+            transform.position = rightPos;
+        }
+    }
+
+    void Select()
+    {
+        if (Input.GetKeyDown(KeyCode.LeftControl))
+        {
+            if (Vector2.Distance(transform.position, leftPos) == 0)
+            {
+                SceneManager.LoadScene(2);
+            }
+            else if (Vector2.Distance(transform.position, rightPos) == 0)
+            {
+                SceneManager.LoadScene(0);
+            }
+        }
+
+    }
+
+}

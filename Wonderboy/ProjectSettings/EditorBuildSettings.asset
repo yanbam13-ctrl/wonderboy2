@@ -17,4 +17,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Scenes/SwordRoom.unity
     guid: 86ae02474abfd2a4da1df845c10bbe8b
+  - enabled: 1
+    path: Assets/_Scenes/GameOver.unity
+    guid: 03fcf2d6b648eee4b91c2e2670e7713b
+  - enabled: 1
+    path: Assets/_Scenes/BossRoom_Stage01.unity
+    guid: e3463aaa2aa715f47b771a38a5e49ef7
   m_configObjects: {}
