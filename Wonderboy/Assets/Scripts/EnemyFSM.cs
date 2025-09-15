@@ -284,13 +284,6 @@ public class EnemyFSM : MonoBehaviour
                 transform.rotation = Quaternion.Euler(0, 180, 0);
                 moveDirection = 1;
 
-                //print($"transform.position.x : {transform.position.x}");
-                //print($"leftLimit : {leftLimit}");
-
-                //print($"index : {index}");
-                //print($"leftDistances[index] : leftDistances[index]");
-                //오른쪽으로 변경
-
             }
             else if (transform.position.x >= rightLimit)
             {

@@ -17,10 +17,8 @@ public class UIManagerTwo : MonoBehaviour
     public float MenuTwoperiod = 1.5f;//깜빡 주기    
     public string nextSceneName = "Stage01";
 
-
     void Start()
     {
-
         PlayerOneUI.text = "Player 1";
         PlayerTwoUI.text = "Player 2";
         MessageUI.text = "PUSH START BUTTON \r\nONE OR TWO PLAYERS";

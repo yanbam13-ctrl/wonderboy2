@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\bin\Debug\net8.0\PPTPropertyAll.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\bin\Debug\net8.0\PPTPropertyAll.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\bin\Debug\net8.0\PPTPropertyAll.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\bin\Debug\net8.0\PPTPropertyAll.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\bin\Debug\net8.0\PPTPropertyAll.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\PPTPropertyAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\PPTPropertyAll.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\PPTPropertyAll.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\PPTPropertyAll.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\PPTPropertyAll.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\PPTPropertyAll.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\refint\PPTPropertyAll.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\PPTPropertyAll.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\PPTPropertyAll.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPTPropertyAll\obj\Debug\net8.0\ref\PPTPropertyAll.dll

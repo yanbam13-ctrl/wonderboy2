@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT62_AnonymousType/1.0.0": {
+        "runtime": {
+          "PPT62_AnonymousType.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT62_AnonymousType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

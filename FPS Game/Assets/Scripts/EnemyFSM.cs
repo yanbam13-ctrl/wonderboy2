@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using TMPro;
 using TreeEditor;
 using UnityEngine;
 using UnityEngine.AI;
@@ -17,7 +18,6 @@ public class EnemyFSM : MonoBehaviour
         Damaged,
         Die
     }
-
     //에너미 상태 변수
     EnemyState m_State;
 
@@ -335,10 +335,14 @@ public class EnemyFSM : MonoBehaviour
         //캐릭터 콘트롤러 컴포넌트를 비활성화시킨다.
         cc.enabled = false;
 
+        UIManager.Instance.killCount++;
+        UIManager.Instance.UpdateKillCount();
         //2초 동안 기다린 후에 자기 자신을 제거
         yield return new WaitForSeconds(2f);
         print("소멸");
+
         Destroy(gameObject);
+
     }
 
 }

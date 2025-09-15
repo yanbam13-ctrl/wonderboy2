@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\bin\Debug\net8.0\PPT18_AutoPropertyInitializers.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\bin\Debug\net8.0\PPT18_AutoPropertyInitializers.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\bin\Debug\net8.0\PPT18_AutoPropertyInitializers.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\bin\Debug\net8.0\PPT18_AutoPropertyInitializers.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\bin\Debug\net8.0\PPT18_AutoPropertyInitializers.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\PPT18_AutoPropertyInitializers.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\PPT18_AutoPropertyInitializers.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\PPT18_AutoPropertyInitializers.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\PPT18_AutoPropertyInitializers.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\PPT18_AutoPropertyInitializers.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\PPT18_AutoPropertyInitializers.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\refint\PPT18_AutoPropertyInitializers.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\PPT18_AutoPropertyInitializers.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\PPT18_AutoPropertyInitializers.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT18_AutoPropertyInitializers\obj\Debug\net8.0\ref\PPT18_AutoPropertyInitializers.dll

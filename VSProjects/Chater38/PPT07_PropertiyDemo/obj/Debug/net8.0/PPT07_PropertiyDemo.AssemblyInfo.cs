@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPT07_PropertiyDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec104819394cd2fcfaacc76bb9f689eab9975847")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b07943e542789b75d09d410ab0b01df9831b1d02")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPT07_PropertiyDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPT07_PropertiyDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

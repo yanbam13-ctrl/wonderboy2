@@ -45,6 +45,11 @@ public class UIManagerStage01 : MonoBehaviour
     public Text PlayerTwoUI;
     public float MenuBlinkTime = 1.5f;//깜빡 주기    
 
+    //사운드
+    public GameObject bgSound;        // BGSound 오브젝트
+    public GameObject gameOverSound;  // GameOverSound 오브젝트
+    public GameObject roundClear;  // GameOverSound 오브젝트
+
 
     void Start()
     {
@@ -181,6 +186,10 @@ public class UIManagerStage01 : MonoBehaviour
         //PlayerMove에 있는 Die메서드 호출 _ 죽음 애니메이션 동작 / 칼 오브젝트 false / 위로 올라가게 만들기
         playerMove.Die();
 
+        if (bgSound) bgSound.SetActive(false);
+        if (roundClear) roundClear.SetActive(false);
+        if (gameOverSound) gameOverSound.SetActive(true);
+
         gameOverText.text = "Game Over";
         yield return new WaitForSeconds(1f);
 
@@ -193,6 +202,11 @@ public class UIManagerStage01 : MonoBehaviour
     {
         yield return new WaitForSeconds(10f);
         clearView.SetActive(true);
+
+        if (bgSound) bgSound.SetActive(false);
+        if (gameOverSound) gameOverSound.SetActive(false);
+        if (roundClear) roundClear.SetActive(true);
+
 
         yield return new WaitForSeconds(0.5f);
         clearTxt.text = "Stage Clear!";

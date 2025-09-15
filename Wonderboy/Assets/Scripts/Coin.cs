@@ -281,7 +281,14 @@ public class Coin : MonoBehaviour
         }
 
         float halfHeight = col.bounds.extents.y;
+        // 콜라이더의 세로 절반 길이(= 반높이). 
+        // bounds.extents는 바운딩 박스의 "절반 크기"를 의미하므로, extents.y는 위쪽 끝까지의 거리.
+        // 즉, 오브젝트 중심에서 바닥까지의 거리.
+
         float targetY = hit.point.y + halfHeight;
+        // 레이가 맞은 땅(hit.point.y)의 높이에다가 
+        // 오브젝트 반높이를 더해서, 오브젝트의 "아랫면"이 딱 땅에 닿도록 위치를 계산.
+
         Debug.Log($"SnapToGround hit {hit.collider.name}, hitY={hit.point.y}, targetY={targetY}");
 
         transform.position = new Vector3(transform.position.x, targetY, transform.position.z);

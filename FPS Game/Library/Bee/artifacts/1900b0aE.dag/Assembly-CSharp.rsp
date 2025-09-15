@@ -400,6 +400,7 @@
 "Assets/Scripts/PlayerFire.cs"
 "Assets/Scripts/PlayerMove.cs"
 "Assets/Scripts/PlayerRoate.cs"
+"Assets/Scripts/UIManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+

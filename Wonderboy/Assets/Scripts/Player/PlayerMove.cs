@@ -152,6 +152,11 @@ public class PlayerMove : MonoBehaviour
             pInv?.AttackStart();
             anim.SetTrigger("IsAttack");
         }
+
+        if (Input.GetKeyDown(KeyCode.A))
+        {
+
+        }
     }
 
     //** 플레이어 피격 메서드 => Enemy Attack에서 호출 **

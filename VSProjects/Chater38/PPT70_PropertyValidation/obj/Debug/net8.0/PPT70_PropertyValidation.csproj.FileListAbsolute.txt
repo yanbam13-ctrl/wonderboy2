@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\bin\Debug\net8.0\PPT70_PropertyValidation.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\bin\Debug\net8.0\PPT70_PropertyValidation.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\bin\Debug\net8.0\PPT70_PropertyValidation.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\bin\Debug\net8.0\PPT70_PropertyValidation.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\bin\Debug\net8.0\PPT70_PropertyValidation.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\PPT70_PropertyValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\PPT70_PropertyValidation.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\PPT70_PropertyValidation.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\PPT70_PropertyValidation.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\PPT70_PropertyValidation.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\PPT70_PropertyValidation.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\refint\PPT70_PropertyValidation.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\PPT70_PropertyValidation.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\PPT70_PropertyValidation.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT70_PropertyValidation\obj\Debug\net8.0\ref\PPT70_PropertyValidation.dll

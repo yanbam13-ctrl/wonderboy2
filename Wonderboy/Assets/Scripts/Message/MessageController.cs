@@ -17,7 +17,6 @@ public class MessageController : MonoBehaviour
 
         StartCoroutine(ShowRoutine(data));
     }
-
     IEnumerator ShowRoutine(MessageData data)
     {
         print("2. IEnumerator ShowRoutine(MessageData data) 동작");
@@ -61,14 +60,6 @@ public class MessageController : MonoBehaviour
                 //메세지 재실행을 막기 위해 MessageTrigger 값 변경
             }
 
-            //foreach (char c in text)
-            //{
-            //    messageText.text += c;
-            //    yield return new WaitForSecondsRealtime(charDelay);
-            //}
-
-            //종료 대기 : 입력 or 자동
-            // ★ 전체 메시지 출력이 끝난 후: 자동 닫기 시간이 있으면 그만큼 대기
             if (data.waitForInput && data.autoCloseAfter <= 0f)
             {
                 print($"3-2. {data.message} / data.waitForInput && data.autoCloseAfter <= 0f ");

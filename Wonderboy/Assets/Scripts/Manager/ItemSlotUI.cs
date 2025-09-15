@@ -14,7 +14,7 @@ public class ItemSlotUI : MonoBehaviour
     {
         if (!img) img = GetComponent<Image>();  // Image 자동 할당
 
-        if (img && emptySprite == null)         // ② img가 존재하고, emptySprite가 비어 있다면
+        if (img && emptySprite == null)         //    img가 존재하고, emptySprite가 비어 있다면
             emptySprite = img.sprite;           //    현재 Image에 들어있는 기본 스프라이트를 emptySprite로 복사
     }
 

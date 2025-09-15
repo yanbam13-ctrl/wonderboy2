@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\bin\Debug\net8.0\PPT48_Objectinitialize.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\bin\Debug\net8.0\PPT48_Objectinitialize.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\bin\Debug\net8.0\PPT48_Objectinitialize.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\bin\Debug\net8.0\PPT48_Objectinitialize.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\bin\Debug\net8.0\PPT48_Objectinitialize.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\PPT48_Objectinitialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\PPT48_Objectinitialize.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\PPT48_Objectinitialize.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\PPT48_Objectinitialize.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\PPT48_Objectinitialize.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\PPT48_Objectinitialize.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\refint\PPT48_Objectinitialize.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\PPT48_Objectinitialize.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\PPT48_Objectinitialize.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT48_Objectinitialize\obj\Debug\net8.0\ref\PPT48_Objectinitialize.dll

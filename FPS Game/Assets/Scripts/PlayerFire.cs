@@ -161,8 +161,18 @@ public class PlayerFire : MonoBehaviour
                 //만일 레이에 부딪힌 대상의 레이어가 'Enemy라면 데미지 함수를 실행한다.
                 if (hitInfo.transform.gameObject.layer == LayerMask.NameToLayer("Enemy"))
                 {
-                    EnemyFSM eFSM = hitInfo.transform.GetComponent<EnemyFSM>();
-                    eFSM.HitEnemy(weaponPower);
+                    print("test : " + hitInfo.transform.gameObject.tag);
+
+                    if (hitInfo.transform.gameObject.CompareTag("Head"))
+                    {
+                        EnemyFSM eFSM = hitInfo.transform.parent.parent.GetComponent<EnemyFSM>();
+                        eFSM.HitEnemy(eFSM.hp);
+                    }
+                    else
+                    {
+                        EnemyFSM eFSM = hitInfo.transform.GetComponent<EnemyFSM>();
+                        eFSM.HitEnemy(weaponPower);
+                    }
                 }
                 //그렇지 않다면, 레이에 부딪힌 지점에 피격 이펙트를 플레이한다.
                 else

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\bin\Debug\net8.0\PPT51_ObejctInitializerNote.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\bin\Debug\net8.0\PPT51_ObejctInitializerNote.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\bin\Debug\net8.0\PPT51_ObejctInitializerNote.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\bin\Debug\net8.0\PPT51_ObejctInitializerNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\bin\Debug\net8.0\PPT51_ObejctInitializerNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\PPT51_ObejctInitializerNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\PPT51_ObejctInitializerNote.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\PPT51_ObejctInitializerNote.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\PPT51_ObejctInitializerNote.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\PPT51_ObejctInitializerNote.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\PPT51_ObejctInitializerNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\refint\PPT51_ObejctInitializerNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\PPT51_ObejctInitializerNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\PPT51_ObejctInitializerNote.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT51_ObejctInitializerNote\obj\Debug\net8.0\ref\PPT51_ObejctInitializerNote.dll

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\bin\Debug\net8.0\PPT81_NullWithObject.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\bin\Debug\net8.0\PPT81_NullWithObject.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\bin\Debug\net8.0\PPT81_NullWithObject.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\bin\Debug\net8.0\PPT81_NullWithObject.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\bin\Debug\net8.0\PPT81_NullWithObject.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\PPT81_NullWithObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\PPT81_NullWithObject.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\PPT81_NullWithObject.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\PPT81_NullWithObject.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\PPT81_NullWithObject.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\PPT81_NullWithObject.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\refint\PPT81_NullWithObject.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\PPT81_NullWithObject.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\PPT81_NullWithObject.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater38\PPT81_NullWithObject\obj\Debug\net8.0\ref\PPT81_NullWithObject.dll
