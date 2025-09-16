@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\bin\Debug\net8.0\PPT25_YieldDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\bin\Debug\net8.0\PPT25_YieldDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\bin\Debug\net8.0\PPT25_YieldDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\bin\Debug\net8.0\PPT25_YieldDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\bin\Debug\net8.0\PPT25_YieldDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\PPT25_YieldDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\PPT25_YieldDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\PPT25_YieldDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\PPT25_YieldDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\PPT25_YieldDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\PPT25_YieldDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\refint\PPT25_YieldDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\PPT25_YieldDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\PPT25_YieldDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT25_YieldDemo\obj\Debug\net8.0\ref\PPT25_YieldDemo.dll

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\bin\Debug\net8.0\PPT22_YieldReturn.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\bin\Debug\net8.0\PPT22_YieldReturn.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\bin\Debug\net8.0\PPT22_YieldReturn.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\bin\Debug\net8.0\PPT22_YieldReturn.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\bin\Debug\net8.0\PPT22_YieldReturn.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\PPT22_YieldReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\PPT22_YieldReturn.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\PPT22_YieldReturn.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\PPT22_YieldReturn.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\PPT22_YieldReturn.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\PPT22_YieldReturn.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\refint\PPT22_YieldReturn.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\PPT22_YieldReturn.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\PPT22_YieldReturn.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT22_YieldReturn\obj\Debug\net8.0\ref\PPT22_YieldReturn.dll
