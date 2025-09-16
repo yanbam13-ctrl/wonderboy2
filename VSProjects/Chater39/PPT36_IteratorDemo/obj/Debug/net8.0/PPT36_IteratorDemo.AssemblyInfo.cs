@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PPT22_YieldReturn")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PPT36_IteratorDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15cb5b2d4add5240b8dc0e8690ee8fac5fcd321f")]
-[assembly: System.Reflection.AssemblyProductAttribute("PPT22_YieldReturn")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PPT22_YieldReturn")]
+[assembly: System.Reflection.AssemblyProductAttribute("PPT36_IteratorDemo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PPT36_IteratorDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

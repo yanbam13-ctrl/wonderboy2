@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPT07_Indexer_Demo_Developer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c56e5ffdbf0fdde23a56e70883954429db1ace1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15cb5b2d4add5240b8dc0e8690ee8fac5fcd321f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPT07_Indexer_Demo_Developer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPT07_Indexer_Demo_Developer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

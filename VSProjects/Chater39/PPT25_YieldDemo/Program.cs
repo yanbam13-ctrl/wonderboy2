@@ -15,11 +15,13 @@ namespace PPT25_YieldDemo
         }
         static void Main(string[] args)
         {
+            int sum = 0;
             foreach (int num in GetNumbers())
             {
                 Console.Write($"{num}\t", num);
+                sum += num;
             }
-            Console.WriteLine();
+            Console.WriteLine(sum);
         }
     }
 }

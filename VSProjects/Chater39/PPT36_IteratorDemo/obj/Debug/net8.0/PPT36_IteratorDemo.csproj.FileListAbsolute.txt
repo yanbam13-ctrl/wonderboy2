@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\bin\Debug\net8.0\PPT36_IteratorDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\bin\Debug\net8.0\PPT36_IteratorDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\bin\Debug\net8.0\PPT36_IteratorDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\bin\Debug\net8.0\PPT36_IteratorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\bin\Debug\net8.0\PPT36_IteratorDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\PPT36_IteratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\PPT36_IteratorDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\PPT36_IteratorDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\PPT36_IteratorDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\PPT36_IteratorDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\PPT36_IteratorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\refint\PPT36_IteratorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\PPT36_IteratorDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\PPT36_IteratorDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT36_IteratorDemo\obj\Debug\net8.0\ref\PPT36_IteratorDemo.dll
