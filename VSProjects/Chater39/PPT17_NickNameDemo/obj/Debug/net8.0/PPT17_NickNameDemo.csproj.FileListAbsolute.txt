@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\bin\Debug\net8.0\PPT17_NickNameDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\bin\Debug\net8.0\PPT17_NickNameDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\bin\Debug\net8.0\PPT17_NickNameDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\bin\Debug\net8.0\PPT17_NickNameDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\bin\Debug\net8.0\PPT17_NickNameDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\PPT17_NickNameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\PPT17_NickNameDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\PPT17_NickNameDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\PPT17_NickNameDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\PPT17_NickNameDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\PPT17_NickNameDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\refint\PPT17_NickNameDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\PPT17_NickNameDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\PPT17_NickNameDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT17_NickNameDemo\obj\Debug\net8.0\ref\PPT17_NickNameDemo.dll

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\bin\Debug\net8.0\PPT04_IndexerNote.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\bin\Debug\net8.0\PPT04_IndexerNote.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\bin\Debug\net8.0\PPT04_IndexerNote.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\bin\Debug\net8.0\PPT04_IndexerNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\bin\Debug\net8.0\PPT04_IndexerNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\PPT04_IndexerNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\PPT04_IndexerNote.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\PPT04_IndexerNote.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\PPT04_IndexerNote.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\PPT04_IndexerNote.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\PPT04_IndexerNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\refint\PPT04_IndexerNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\PPT04_IndexerNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\PPT04_IndexerNote.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT04_IndexerNote\obj\Debug\net8.0\ref\PPT04_IndexerNote.dll

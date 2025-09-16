@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\bin\Debug\net8.0\PPT07_Indexer_Demo_Developer.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\bin\Debug\net8.0\PPT07_Indexer_Demo_Developer.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\bin\Debug\net8.0\PPT07_Indexer_Demo_Developer.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\bin\Debug\net8.0\PPT07_Indexer_Demo_Developer.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\bin\Debug\net8.0\PPT07_Indexer_Demo_Developer.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\PPT07_Indexer_Demo_Developer.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\PPT07_Indexer_Demo_Developer.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\PPT07_Indexer_Demo_Developer.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\PPT07_Indexer_Demo_Developer.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\PPT07_Indexer_Demo_Developer.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\PPT07_Indexer_Demo_Developer.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\refint\PPT07_Indexer_Demo_Developer.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\PPT07_Indexer_Demo_Developer.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\PPT07_Indexer_Demo_Developer.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater39\PPT07_Indexer_Demo_Developer\obj\Debug\net8.0\ref\PPT07_Indexer_Demo_Developer.dll
