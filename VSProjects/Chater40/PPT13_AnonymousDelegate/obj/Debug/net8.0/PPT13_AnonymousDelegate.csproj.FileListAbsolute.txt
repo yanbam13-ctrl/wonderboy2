@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\PPT13_AnonymousDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\PPT13_AnonymousDelegate.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\PPT13_AnonymousDelegate.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\PPT13_AnonymousDelegate.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\PPT13_AnonymousDelegate.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\bin\Debug\net8.0\PPT13_AnonymousDelegate.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\bin\Debug\net8.0\PPT13_AnonymousDelegate.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\bin\Debug\net8.0\PPT13_AnonymousDelegate.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\bin\Debug\net8.0\PPT13_AnonymousDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\bin\Debug\net8.0\PPT13_AnonymousDelegate.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\PPT13_AnonymousDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\refint\PPT13_AnonymousDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\PPT13_AnonymousDelegate.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\PPT13_AnonymousDelegate.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT13_AnonymousDelegate\obj\Debug\net8.0\ref\PPT13_AnonymousDelegate.dll

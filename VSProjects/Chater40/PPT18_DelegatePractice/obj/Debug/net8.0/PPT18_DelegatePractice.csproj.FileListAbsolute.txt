@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\bin\Debug\net8.0\PPT18_DelegatePractice.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\bin\Debug\net8.0\PPT18_DelegatePractice.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\bin\Debug\net8.0\PPT18_DelegatePractice.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\bin\Debug\net8.0\PPT18_DelegatePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\bin\Debug\net8.0\PPT18_DelegatePractice.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\PPT18_DelegatePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\PPT18_DelegatePractice.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\PPT18_DelegatePractice.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\PPT18_DelegatePractice.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\PPT18_DelegatePractice.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\PPT18_DelegatePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\refint\PPT18_DelegatePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\PPT18_DelegatePractice.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\PPT18_DelegatePractice.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT18_DelegatePractice\obj\Debug\net8.0\ref\PPT18_DelegatePractice.dll

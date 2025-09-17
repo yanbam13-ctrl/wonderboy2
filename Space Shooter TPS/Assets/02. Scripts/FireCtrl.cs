@@ -22,7 +22,10 @@ public class FireCtrl : MonoBehaviour
 
     void Fire()
     {
+        Vector3 rot = new Vector3(0, firePos.eulerAngles.y, 0);
+        //rot.x = rot.z = 0f;
+
         //Bullt 프리팹을 동적으로 생성(생성할 객체, 위치, 회전)
-        Instantiate(bullet, firePos.position, firePos.rotation);
+        Instantiate(bullet, firePos.position, Quaternion.Euler(rot));
     }
 }

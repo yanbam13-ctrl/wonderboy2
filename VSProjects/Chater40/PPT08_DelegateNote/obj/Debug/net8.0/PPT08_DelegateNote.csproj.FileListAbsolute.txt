@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\bin\Debug\net8.0\PPT08_DelegateNote.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\bin\Debug\net8.0\PPT08_DelegateNote.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\bin\Debug\net8.0\PPT08_DelegateNote.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\bin\Debug\net8.0\PPT08_DelegateNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\bin\Debug\net8.0\PPT08_DelegateNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\PPT08_DelegateNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\PPT08_DelegateNote.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\PPT08_DelegateNote.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\PPT08_DelegateNote.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\PPT08_DelegateNote.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\PPT08_DelegateNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\refint\PPT08_DelegateNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\PPT08_DelegateNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\PPT08_DelegateNote.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT08_DelegateNote\obj\Debug\net8.0\ref\PPT08_DelegateNote.dll
