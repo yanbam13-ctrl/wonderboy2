@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PPT43_funcDemo/1.0.0": {
+        "runtime": {
+          "PPT43_funcDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PPT43_funcDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

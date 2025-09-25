@@ -16,13 +16,11 @@
 
         public delegate void GoHome();
 
-        public class DelegatePractice
-        {
-            public delegate void Say();
+        public delegate void Say();
 
-            private static void Hello() { Console.WriteLine("Hello"); }
-            private static void Hi() { Console.WriteLine("Hi"); }
-        }
+        private static void Hello() { Console.WriteLine("Hello"); }
+        private static void Hi() { Console.WriteLine("Hi"); }
+
         static void Main(string[] args)
         {
             CarDriver.GoLeft();
@@ -35,6 +33,18 @@
             go += new GoHome((CarDriver.GoLeft));
             go -= new GoHome((CarDriver.GoLeft));
             go();
+
+            Console.WriteLine();
+
+            Say say;
+            say = new Say(Hi);
+            say += new Say(Hello);
+            say();
+
+            Insa insa = new Insa();
+            Say say2 = new Say(insa.Bye);
+            say2 += new Say(insa.Bye);
+            say2();
         }
     }
 }

@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\bin\Debug\net8.0\PPT06_InheritanceDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\bin\Debug\net8.0\PPT06_InheritanceDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\bin\Debug\net8.0\PPT06_InheritanceDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\bin\Debug\net8.0\PPT06_InheritanceDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\bin\Debug\net8.0\PPT06_InheritanceDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\PPT06_InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\PPT06_InheritanceDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\PPT06_InheritanceDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\PPT06_InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\PPT06_InheritanceDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\PPT06_InheritanceDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\refint\PPT06_InheritanceDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\PPT06_InheritanceDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\PPT06_InheritanceDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT06_InheritanceDemo\obj\Debug\net8.0\ref\PPT06_InheritanceDemo.dll

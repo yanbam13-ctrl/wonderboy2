@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPT18_DelegatePractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ee07a13d46269c0ec6eaf0521e32e4d8496d2e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9de3d3af8aff6da2b37abff360c332a319803971")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPT18_DelegatePractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPT18_DelegatePractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

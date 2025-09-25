@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\PPT13_OverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\PPT13_OverrideDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\PPT13_OverrideDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\PPT13_OverrideDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\PPT13_OverrideDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\bin\Debug\net8.0\PPT13_OverrideDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\bin\Debug\net8.0\PPT13_OverrideDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\bin\Debug\net8.0\PPT13_OverrideDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\bin\Debug\net8.0\PPT13_OverrideDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\bin\Debug\net8.0\PPT13_OverrideDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\PPT13_OverrideDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\refint\PPT13_OverrideDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\PPT13_OverrideDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\PPT13_OverrideDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT13_OverrideDemo\obj\Debug\net8.0\ref\PPT13_OverrideDemo.dll

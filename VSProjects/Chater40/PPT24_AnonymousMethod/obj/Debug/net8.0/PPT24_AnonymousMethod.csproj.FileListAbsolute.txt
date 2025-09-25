@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\bin\Debug\net8.0\PPT24_AnonymousMethod.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\bin\Debug\net8.0\PPT24_AnonymousMethod.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\bin\Debug\net8.0\PPT24_AnonymousMethod.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\bin\Debug\net8.0\PPT24_AnonymousMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\bin\Debug\net8.0\PPT24_AnonymousMethod.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\PPT24_AnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\PPT24_AnonymousMethod.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\PPT24_AnonymousMethod.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\PPT24_AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\PPT24_AnonymousMethod.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\PPT24_AnonymousMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\refint\PPT24_AnonymousMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\PPT24_AnonymousMethod.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\PPT24_AnonymousMethod.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT24_AnonymousMethod\obj\Debug\net8.0\ref\PPT24_AnonymousMethod.dll

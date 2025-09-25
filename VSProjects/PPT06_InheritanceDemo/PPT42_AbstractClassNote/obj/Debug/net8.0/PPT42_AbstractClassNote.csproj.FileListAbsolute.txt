@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\bin\Debug\net8.0\PPT42_AbstractClassNote.exe
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\bin\Debug\net8.0\PPT42_AbstractClassNote.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\bin\Debug\net8.0\PPT42_AbstractClassNote.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\bin\Debug\net8.0\PPT42_AbstractClassNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\bin\Debug\net8.0\PPT42_AbstractClassNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\PPT42_AbstractClassNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\PPT42_AbstractClassNote.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\PPT42_AbstractClassNote.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\PPT42_AbstractClassNote.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\PPT42_AbstractClassNote.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\PPT42_AbstractClassNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\refint\PPT42_AbstractClassNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\PPT42_AbstractClassNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\PPT42_AbstractClassNote.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT42_AbstractClassNote\obj\Debug\net8.0\ref\PPT42_AbstractClassNote.dll

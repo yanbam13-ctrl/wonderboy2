@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\bin\Debug\net8.0\PPT57_NewOverride.exe
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\bin\Debug\net8.0\PPT57_NewOverride.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\bin\Debug\net8.0\PPT57_NewOverride.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\bin\Debug\net8.0\PPT57_NewOverride.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\bin\Debug\net8.0\PPT57_NewOverride.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\PPT57_NewOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\PPT57_NewOverride.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\PPT57_NewOverride.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\PPT57_NewOverride.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\PPT57_NewOverride.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\PPT57_NewOverride.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\refint\PPT57_NewOverride.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\PPT57_NewOverride.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\PPT57_NewOverride.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT57_NewOverride\obj\Debug\net8.0\ref\PPT57_NewOverride.dll

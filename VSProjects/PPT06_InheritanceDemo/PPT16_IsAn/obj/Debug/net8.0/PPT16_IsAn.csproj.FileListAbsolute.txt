@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\bin\Debug\net8.0\PPT16_IsAn.exe
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\bin\Debug\net8.0\PPT16_IsAn.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\bin\Debug\net8.0\PPT16_IsAn.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\bin\Debug\net8.0\PPT16_IsAn.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\bin\Debug\net8.0\PPT16_IsAn.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\PPT16_IsAn.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\PPT16_IsAn.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\PPT16_IsAn.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\PPT16_IsAn.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\PPT16_IsAn.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\PPT16_IsAn.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\refint\PPT16_IsAn.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\PPT16_IsAn.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\PPT16_IsAn.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT16_IsAn\obj\Debug\net8.0\ref\PPT16_IsAn.dll

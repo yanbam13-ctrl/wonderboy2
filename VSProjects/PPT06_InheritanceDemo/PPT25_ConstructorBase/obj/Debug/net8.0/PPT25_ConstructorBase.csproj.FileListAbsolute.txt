@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\bin\Debug\net8.0\PPT25_ConstructorBase.exe
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\bin\Debug\net8.0\PPT25_ConstructorBase.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\bin\Debug\net8.0\PPT25_ConstructorBase.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\bin\Debug\net8.0\PPT25_ConstructorBase.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\bin\Debug\net8.0\PPT25_ConstructorBase.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\PPT25_ConstructorBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\PPT25_ConstructorBase.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\PPT25_ConstructorBase.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\PPT25_ConstructorBase.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\PPT25_ConstructorBase.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\PPT25_ConstructorBase.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\refint\PPT25_ConstructorBase.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\PPT25_ConstructorBase.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\PPT25_ConstructorBase.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT25_ConstructorBase\obj\Debug\net8.0\ref\PPT25_ConstructorBase.dll

@@ -12,12 +12,36 @@ public class PlayerCtrl : MonoBehaviour
     //animation 컴포넌트를 저장할 변수
     private Animation anim;
 
-    private void Start()
+    //컴포넌트를 캐시 처리할 변수
+    private Transform tr;
+
+    //초기 생명 값
+    private readonly float initHP = 100.0f;
+    //현재 생명값
+    public float currHp;
+
+    //델리게이트 선언
+    public delegate void PlayerDieHandler();
+
+    //이벤트 선언
+    public static event PlayerDieHandler OnPlayerDie;
+
+
+    IEnumerator Start()
     {
+        //HP 초기화
+        currHp = initHP;
+
         //컴포넌트를 추출해 변수에 대입
+        tr = GetComponent<Transform>();
         anim = GetComponent<Animation>();
 
         anim.Play("Idle");
+
+        turnSpeed = 0.0f;
+
+        yield return new WaitForSeconds(0.3f);
+        turnSpeed = 80.0f;
     }
 
     void Update()
@@ -60,8 +84,43 @@ public class PlayerCtrl : MonoBehaviour
         {
             anim.CrossFade("RunL", 0.25f);
         }
-        else {
+        else
+        {
             anim.CrossFade("Idle", 0.25f);
         }
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        //충돌한 Collider가 몬스터의 PUNCH이면 Player의 HP차감
+        if (currHp >= 0.0f && other.CompareTag("PUNCH"))
+        {
+            currHp -= 10.0f;
+            Debug.Log($"Player hp = {currHp / initHP}");
+
+            //Player의 생명이 0이하이면 사망처리
+            if (currHp <= 0.0f)
+            {
+                PlayerDie();
+            }
+        }
+    }
+
+    //Player의 사망처리
+    void PlayerDie()
+    {
+        Debug.Log("Player Die!");
+
+        ////MONSTER 태그를 가진 모든 게임오브젝트를 찾아옴
+        //GameObject[] monsters = GameObject.FindGameObjectsWithTag("MONSTER");
+
+        ////모든 몬스터의 OnPlayerDie 함수를 순차적으로 호출
+        //foreach (GameObject monster in monsters)
+        //{
+        //    monster.SendMessage("OnPlayerDie", SendMessageOptions.DontRequireReceiver);
+        //}
+
+        //주인공 사망 이벤트 호출(발생)
+        OnPlayerDie();
     }
 }

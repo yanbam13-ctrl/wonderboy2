@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\bin\Debug\net8.0\PPT48_PredicateDelegate.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\bin\Debug\net8.0\PPT48_PredicateDelegate.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\bin\Debug\net8.0\PPT48_PredicateDelegate.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\bin\Debug\net8.0\PPT48_PredicateDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\bin\Debug\net8.0\PPT48_PredicateDelegate.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\PPT48_PredicateDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\PPT48_PredicateDelegate.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\PPT48_PredicateDelegate.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\PPT48_PredicateDelegate.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\PPT48_PredicateDelegate.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\PPT48_PredicateDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\refint\PPT48_PredicateDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\PPT48_PredicateDelegate.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\PPT48_PredicateDelegate.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT48_PredicateDelegate\obj\Debug\net8.0\ref\PPT48_PredicateDelegate.dll

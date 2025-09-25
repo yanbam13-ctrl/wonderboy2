@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\bin\Debug\net8.0\PPT33_DelegateParameter.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\bin\Debug\net8.0\PPT33_DelegateParameter.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\bin\Debug\net8.0\PPT33_DelegateParameter.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\bin\Debug\net8.0\PPT33_DelegateParameter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\bin\Debug\net8.0\PPT33_DelegateParameter.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\PPT33_DelegateParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\PPT33_DelegateParameter.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\PPT33_DelegateParameter.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\PPT33_DelegateParameter.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\PPT33_DelegateParameter.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\PPT33_DelegateParameter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\refint\PPT33_DelegateParameter.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\PPT33_DelegateParameter.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\PPT33_DelegateParameter.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT33_DelegateParameter\obj\Debug\net8.0\ref\PPT33_DelegateParameter.dll

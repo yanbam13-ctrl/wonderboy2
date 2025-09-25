@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\PPT43_funcDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\PPT43_funcDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\PPT43_funcDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\PPT43_funcDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\PPT43_funcDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\bin\Debug\net8.0\PPT43_funcDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\bin\Debug\net8.0\PPT43_funcDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\bin\Debug\net8.0\PPT43_funcDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\bin\Debug\net8.0\PPT43_funcDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\bin\Debug\net8.0\PPT43_funcDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\PPT43_funcDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\refint\PPT43_funcDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\PPT43_funcDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\PPT43_funcDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT43_funcDemo\obj\Debug\net8.0\ref\PPT43_funcDemo.dll

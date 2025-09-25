@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\bin\Debug\net8.0\PPT06_EventDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\bin\Debug\net8.0\PPT06_EventDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\bin\Debug\net8.0\PPT06_EventDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\bin\Debug\net8.0\PPT06_EventDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\bin\Debug\net8.0\PPT06_EventDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\PPT06_EventDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\PPT06_EventDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\PPT06_EventDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\PPT06_EventDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\PPT06_EventDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\PPT06_EventDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\refint\PPT06_EventDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\PPT06_EventDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\PPT06_EventDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chapter41\PPT06_EventDemo\obj\Debug\net8.0\ref\PPT06_EventDemo.dll

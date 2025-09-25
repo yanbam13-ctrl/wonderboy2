@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\PPT36_ActionDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\PPT36_ActionDelegate.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\PPT36_ActionDelegate.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\PPT36_ActionDelegate.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\PPT36_ActionDelegate.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\bin\Debug\net8.0\PPT36_ActionDelegate.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\bin\Debug\net8.0\PPT36_ActionDelegate.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\bin\Debug\net8.0\PPT36_ActionDelegate.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\bin\Debug\net8.0\PPT36_ActionDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\bin\Debug\net8.0\PPT36_ActionDelegate.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\PPT36_ActionDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\refint\PPT36_ActionDelegate.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\PPT36_ActionDelegate.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\PPT36_ActionDelegate.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater40\PPT36_ActionDelegate\obj\Debug\net8.0\ref\PPT36_ActionDelegate.dll

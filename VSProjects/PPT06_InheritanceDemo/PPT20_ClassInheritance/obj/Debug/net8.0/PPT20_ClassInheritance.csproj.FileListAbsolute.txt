@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\bin\Debug\net8.0\PPT20_ClassInheritance.exe
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\bin\Debug\net8.0\PPT20_ClassInheritance.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\bin\Debug\net8.0\PPT20_ClassInheritance.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\bin\Debug\net8.0\PPT20_ClassInheritance.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\bin\Debug\net8.0\PPT20_ClassInheritance.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\PPT20_ClassInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\PPT20_ClassInheritance.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\PPT20_ClassInheritance.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\PPT20_ClassInheritance.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\PPT20_ClassInheritance.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\PPT20_ClassInheritance.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\refint\PPT20_ClassInheritance.dll
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\PPT20_ClassInheritance.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\PPT20_ClassInheritance.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\PPT06_InheritanceDemo\PPT20_ClassInheritance\obj\Debug\net8.0\ref\PPT20_ClassInheritance.dll
