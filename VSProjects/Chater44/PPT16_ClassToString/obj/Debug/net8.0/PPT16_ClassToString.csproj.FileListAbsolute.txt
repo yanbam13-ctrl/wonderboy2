@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\bin\Debug\net8.0\PPT16_ClassToString.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\bin\Debug\net8.0\PPT16_ClassToString.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\bin\Debug\net8.0\PPT16_ClassToString.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\bin\Debug\net8.0\PPT16_ClassToString.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\bin\Debug\net8.0\PPT16_ClassToString.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\PPT16_ClassToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\PPT16_ClassToString.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\PPT16_ClassToString.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\PPT16_ClassToString.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\PPT16_ClassToString.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\PPT16_ClassToString.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\refint\PPT16_ClassToString.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\PPT16_ClassToString.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\PPT16_ClassToString.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT16_ClassToString\obj\Debug\net8.0\ref\PPT16_ClassToString.dll

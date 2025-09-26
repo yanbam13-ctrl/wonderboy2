@@ -123,4 +123,16 @@ public class PlayerCtrl : MonoBehaviour
         //주인공 사망 이벤트 호출(발생)
         OnPlayerDie();
     }
+
+#if UNITY_EDITOR
+    private void OnGUI()
+    {
+        GUI.Label(new Rect(10, 10, 400, 100), "SpaceShooter");
+        if (GUI.Button(new Rect(10, 60, 200, 60), "START"))
+        {
+            Debug.Log("START button clicked");
+        }
+    }
+#endif
+
 }

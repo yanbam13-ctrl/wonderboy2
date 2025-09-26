@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\bin\Debug\net8.0\PPT19_MethodOverridePractice.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\bin\Debug\net8.0\PPT19_MethodOverridePractice.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\bin\Debug\net8.0\PPT19_MethodOverridePractice.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\bin\Debug\net8.0\PPT19_MethodOverridePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\bin\Debug\net8.0\PPT19_MethodOverridePractice.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\PPT19_MethodOverridePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\PPT19_MethodOverridePractice.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\PPT19_MethodOverridePractice.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\PPT19_MethodOverridePractice.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\PPT19_MethodOverridePractice.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\PPT19_MethodOverridePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\refint\PPT19_MethodOverridePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\PPT19_MethodOverridePractice.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\PPT19_MethodOverridePractice.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater44\PPT19_MethodOverridePractice\obj\Debug\net8.0\ref\PPT19_MethodOverridePractice.dll
