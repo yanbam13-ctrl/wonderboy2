@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\bin\Debug\net8.0\PPT36_InterfaceFriends.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\bin\Debug\net8.0\PPT36_InterfaceFriends.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\bin\Debug\net8.0\PPT36_InterfaceFriends.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\bin\Debug\net8.0\PPT36_InterfaceFriends.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\bin\Debug\net8.0\PPT36_InterfaceFriends.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\PPT36_InterfaceFriends.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\PPT36_InterfaceFriends.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\PPT36_InterfaceFriends.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\PPT36_InterfaceFriends.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\PPT36_InterfaceFriends.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\PPT36_InterfaceFriends.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\refint\PPT36_InterfaceFriends.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\PPT36_InterfaceFriends.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\PPT36_InterfaceFriends.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT36_InterfaceFriends\obj\Debug\net8.0\ref\PPT36_InterfaceFriends.dll

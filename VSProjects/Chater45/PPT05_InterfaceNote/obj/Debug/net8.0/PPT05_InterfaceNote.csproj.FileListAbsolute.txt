@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\bin\Debug\net8.0\PPT05_InterfaceNote.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\bin\Debug\net8.0\PPT05_InterfaceNote.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\bin\Debug\net8.0\PPT05_InterfaceNote.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\bin\Debug\net8.0\PPT05_InterfaceNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\bin\Debug\net8.0\PPT05_InterfaceNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\PPT05_InterfaceNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\PPT05_InterfaceNote.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\PPT05_InterfaceNote.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\PPT05_InterfaceNote.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\PPT05_InterfaceNote.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\PPT05_InterfaceNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\refint\PPT05_InterfaceNote.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\PPT05_InterfaceNote.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\PPT05_InterfaceNote.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT05_InterfaceNote\obj\Debug\net8.0\ref\PPT05_InterfaceNote.dll

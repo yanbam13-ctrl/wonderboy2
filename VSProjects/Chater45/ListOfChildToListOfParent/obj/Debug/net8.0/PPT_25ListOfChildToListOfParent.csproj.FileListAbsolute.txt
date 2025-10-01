@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\PPT_25ListOfChildToListOfParent.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\PPT_25ListOfChildToListOfParent.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\PPT_25ListOfChildToListOfParent.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\PPT_25ListOfChildToListOfParent.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\PPT_25ListOfChildToListOfParent.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\PPT_25ListOfChildToListOfParent.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\PPT_25ListOfChildToListOfParent.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\PPT_25ListOfChildToListOfParent.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\PPT_25ListOfChildToListOfParent.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\PPT_25ListOfChildToListOfParent.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\PPT_25ListOfChildToListOfParent.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\refint\PPT_25ListOfChildToListOfParent.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\PPT_25ListOfChildToListOfParent.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\PPT_25ListOfChildToListOfParent.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ref\PPT_25ListOfChildToListOfParent.dll

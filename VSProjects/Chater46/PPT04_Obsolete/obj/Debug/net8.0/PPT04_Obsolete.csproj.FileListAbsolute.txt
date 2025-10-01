@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\bin\Debug\net8.0\PPT04_Obsolete.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\bin\Debug\net8.0\PPT04_Obsolete.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\bin\Debug\net8.0\PPT04_Obsolete.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\bin\Debug\net8.0\PPT04_Obsolete.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\bin\Debug\net8.0\PPT04_Obsolete.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\PPT04_Obsolete.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\PPT04_Obsolete.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\PPT04_Obsolete.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\PPT04_Obsolete.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\PPT04_Obsolete.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\PPT04_Obsolete.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\refint\PPT04_Obsolete.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\PPT04_Obsolete.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\PPT04_Obsolete.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT04_Obsolete\obj\Debug\net8.0\ref\PPT04_Obsolete.dll

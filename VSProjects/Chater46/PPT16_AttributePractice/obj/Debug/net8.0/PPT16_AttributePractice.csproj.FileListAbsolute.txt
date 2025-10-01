@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\bin\Debug\net8.0\PPT16_AttributePractice.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\bin\Debug\net8.0\PPT16_AttributePractice.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\bin\Debug\net8.0\PPT16_AttributePractice.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\bin\Debug\net8.0\PPT16_AttributePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\bin\Debug\net8.0\PPT16_AttributePractice.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\PPT16_AttributePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\PPT16_AttributePractice.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\PPT16_AttributePractice.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\PPT16_AttributePractice.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\PPT16_AttributePractice.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\PPT16_AttributePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\refint\PPT16_AttributePractice.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\PPT16_AttributePractice.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\PPT16_AttributePractice.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT16_AttributePractice\obj\Debug\net8.0\ref\PPT16_AttributePractice.dll

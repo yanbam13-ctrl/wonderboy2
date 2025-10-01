@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\bin\Debug\net8.0\PPT10_ConditionalDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\bin\Debug\net8.0\PPT10_ConditionalDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\bin\Debug\net8.0\PPT10_ConditionalDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\bin\Debug\net8.0\PPT10_ConditionalDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\bin\Debug\net8.0\PPT10_ConditionalDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\PPT10_ConditionalDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\PPT10_ConditionalDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\PPT10_ConditionalDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\PPT10_ConditionalDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\PPT10_ConditionalDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\PPT10_ConditionalDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\refint\PPT10_ConditionalDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\PPT10_ConditionalDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\PPT10_ConditionalDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT10_ConditionalDemo\obj\Debug\net8.0\ref\PPT10_ConditionalDemo.dll

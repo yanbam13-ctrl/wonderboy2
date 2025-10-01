@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\bin\Debug\net8.0\PPT33_IDisposableDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\bin\Debug\net8.0\PPT33_IDisposableDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\bin\Debug\net8.0\PPT33_IDisposableDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\bin\Debug\net8.0\PPT33_IDisposableDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\bin\Debug\net8.0\PPT33_IDisposableDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\PPT33_IDisposableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\PPT33_IDisposableDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\PPT33_IDisposableDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\PPT33_IDisposableDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\PPT33_IDisposableDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\PPT33_IDisposableDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\refint\PPT33_IDisposableDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\PPT33_IDisposableDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\PPT33_IDisposableDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT33_IDisposableDemo\obj\Debug\net8.0\ref\PPT33_IDisposableDemo.dll

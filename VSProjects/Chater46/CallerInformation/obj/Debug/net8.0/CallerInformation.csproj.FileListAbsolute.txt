@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\bin\Debug\net8.0\CallerInformation.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\bin\Debug\net8.0\CallerInformation.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\bin\Debug\net8.0\CallerInformation.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\bin\Debug\net8.0\CallerInformation.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\bin\Debug\net8.0\CallerInformation.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\CallerInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\CallerInformation.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\CallerInformation.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\CallerInformation.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\CallerInformation.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\CallerInformation.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\refint\CallerInformation.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\CallerInformation.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\CallerInformation.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\CallerInformation\obj\Debug\net8.0\ref\CallerInformation.dll

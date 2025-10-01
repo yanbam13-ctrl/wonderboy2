@@ -1,0 +1,26 @@
+﻿using System.Runtime.CompilerServices;
+using static System.Console;
+
+namespace CallerInformation
+{
+    internal class Program
+    {
+
+        static void Main(string[] args)
+        {
+            TraceMessage("여기서 무엇인가 실행...");
+        }
+
+        public static void TraceMessage(string message,
+        [CallerMemberName] string memberName = "",
+        [CallerFilePath] string sourceFilePath = "",
+        [CallerLineNumber] int sourceLineNumber = 0)
+        {
+            Console.WriteLine("실행 내용 : " + message);
+            Console.WriteLine("멤버 이름 : " + memberName);
+            Console.WriteLine("소스 경로 : " + sourceFilePath);
+            Console.WriteLine("실행 라인 : " + sourceLineNumber);
+
+        }
+    }
+}

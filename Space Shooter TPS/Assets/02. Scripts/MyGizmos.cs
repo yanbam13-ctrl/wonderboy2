@@ -13,6 +13,6 @@ public class MyGizmos : MonoBehaviour
         Gizmos.color = _color;
 
         //구체 모양의 기즈모 생성. 인자는 (생성 위치, 반지름)
-        Gizmos.DrawWireSphere(transform.position, _radius);
+        Gizmos.DrawSphere(transform.position, _radius);
     }
 }

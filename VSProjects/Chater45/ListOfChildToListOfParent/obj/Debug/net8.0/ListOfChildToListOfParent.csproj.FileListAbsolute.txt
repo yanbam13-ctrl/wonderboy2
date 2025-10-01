@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\ListOfChildToListOfParent.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\ListOfChildToListOfParent.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\ListOfChildToListOfParent.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\ListOfChildToListOfParent.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\bin\Debug\net8.0\ListOfChildToListOfParent.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ListOfChildToListOfParent.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ListOfChildToListOfParent.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ListOfChildToListOfParent.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ListOfChildToListOfParent.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ListOfChildToListOfParent.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ListOfChildToListOfParent.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\refint\ListOfChildToListOfParent.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ListOfChildToListOfParent.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ListOfChildToListOfParent.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\ListOfChildToListOfParent\obj\Debug\net8.0\ref\ListOfChildToListOfParent.dll

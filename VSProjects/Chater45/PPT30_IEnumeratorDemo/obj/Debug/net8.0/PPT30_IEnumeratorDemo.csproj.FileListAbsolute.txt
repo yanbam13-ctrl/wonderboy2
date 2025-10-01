@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\bin\Debug\net8.0\PPT30_IEnumeratorDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\bin\Debug\net8.0\PPT30_IEnumeratorDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\bin\Debug\net8.0\PPT30_IEnumeratorDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\bin\Debug\net8.0\PPT30_IEnumeratorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\bin\Debug\net8.0\PPT30_IEnumeratorDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\PPT30_IEnumeratorDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\PPT30_IEnumeratorDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\PPT30_IEnumeratorDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\PPT30_IEnumeratorDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\PPT30_IEnumeratorDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\PPT30_IEnumeratorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\refint\PPT30_IEnumeratorDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\PPT30_IEnumeratorDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\PPT30_IEnumeratorDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT30_IEnumeratorDemo\obj\Debug\net8.0\ref\PPT30_IEnumeratorDemo.dll

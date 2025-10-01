@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\bin\Debug\net8.0\PPT21_InterfaceExplicit.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\bin\Debug\net8.0\PPT21_InterfaceExplicit.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\bin\Debug\net8.0\PPT21_InterfaceExplicit.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\bin\Debug\net8.0\PPT21_InterfaceExplicit.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\bin\Debug\net8.0\PPT21_InterfaceExplicit.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\PPT21_InterfaceExplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\PPT21_InterfaceExplicit.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\PPT21_InterfaceExplicit.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\PPT21_InterfaceExplicit.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\PPT21_InterfaceExplicit.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\PPT21_InterfaceExplicit.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\refint\PPT21_InterfaceExplicit.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\PPT21_InterfaceExplicit.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\PPT21_InterfaceExplicit.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater45\PPT21_InterfaceExplicit\obj\Debug\net8.0\ref\PPT21_InterfaceExplicit.dll

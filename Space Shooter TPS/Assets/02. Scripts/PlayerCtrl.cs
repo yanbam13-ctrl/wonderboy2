@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerCtrl : MonoBehaviour
 {
@@ -17,8 +18,12 @@ public class PlayerCtrl : MonoBehaviour
 
     //초기 생명 값
     private readonly float initHP = 100.0f;
+
     //현재 생명값
     public float currHp;
+
+    //Hpbar 연결할 변수
+    private Image hpBar;
 
     //델리게이트 선언
     public delegate void PlayerDieHandler();
@@ -29,8 +34,12 @@ public class PlayerCtrl : MonoBehaviour
 
     IEnumerator Start()
     {
+        //Hpbar 연결
+        hpBar = GameObject.FindGameObjectWithTag("HP_BAR")?.GetComponent<Image>();
+
         //HP 초기화
         currHp = initHP;
+        DisplayHealth();
 
         //컴포넌트를 추출해 변수에 대입
         tr = GetComponent<Transform>();
@@ -97,6 +106,7 @@ public class PlayerCtrl : MonoBehaviour
         {
             currHp -= 10.0f;
             Debug.Log($"Player hp = {currHp / initHP}");
+            DisplayHealth();
 
             //Player의 생명이 0이하이면 사망처리
             if (currHp <= 0.0f)
@@ -122,17 +132,30 @@ public class PlayerCtrl : MonoBehaviour
 
         //주인공 사망 이벤트 호출(발생)
         OnPlayerDie();
+
+        //GameManager 스크립트의 IsGameOver 프로퍼티 값을 변경
+        //GameObject.Find("GameMgr").GetComponent<GameManager>().IsGameOver = true;
+
+        //싱글턴으로 변경
+        GameManager.instance.IsGameOver = true;
     }
 
-#if UNITY_EDITOR
-    private void OnGUI()
+
+    void DisplayHealth()
     {
-        GUI.Label(new Rect(10, 10, 400, 100), "SpaceShooter");
-        if (GUI.Button(new Rect(10, 60, 200, 60), "START"))
-        {
-            Debug.Log("START button clicked");
-        }
+        hpBar.fillAmount = currHp / initHP;
     }
-#endif
+
+
+//#if UNITY_EDITOR
+//    private void OnGUI()
+//    {
+//        GUI.Label(new Rect(10, 10, 400, 100), "SpaceShooter");
+//        if (GUI.Button(new Rect(10, 60, 200, 60), "START"))
+//        {
+//            Debug.Log("START button clicked");
+//        }
+//    }
+//#endif
 
 }
