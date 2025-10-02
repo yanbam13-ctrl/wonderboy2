@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PPT04_Obsolete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e35bf40877af123c7a3204c6316c5ffd2b2e976")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d9479442dc31c4ce8a317659341f5ffb9ae1fda")]
 [assembly: System.Reflection.AssemblyProductAttribute("PPT04_Obsolete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PPT04_Obsolete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

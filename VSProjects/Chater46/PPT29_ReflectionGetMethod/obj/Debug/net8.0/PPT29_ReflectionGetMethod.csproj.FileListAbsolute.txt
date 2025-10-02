@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\bin\Debug\net8.0\PPT29_ReflectionGetMethod.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\bin\Debug\net8.0\PPT29_ReflectionGetMethod.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\bin\Debug\net8.0\PPT29_ReflectionGetMethod.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\bin\Debug\net8.0\PPT29_ReflectionGetMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\bin\Debug\net8.0\PPT29_ReflectionGetMethod.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\PPT29_ReflectionGetMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\PPT29_ReflectionGetMethod.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\PPT29_ReflectionGetMethod.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\PPT29_ReflectionGetMethod.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\PPT29_ReflectionGetMethod.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\PPT29_ReflectionGetMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\refint\PPT29_ReflectionGetMethod.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\PPT29_ReflectionGetMethod.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\PPT29_ReflectionGetMethod.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT29_ReflectionGetMethod\obj\Debug\net8.0\ref\PPT29_ReflectionGetMethod.dll

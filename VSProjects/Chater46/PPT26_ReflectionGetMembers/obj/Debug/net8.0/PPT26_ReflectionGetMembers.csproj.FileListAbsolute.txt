@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\bin\Debug\net8.0\PPT26_ReflectionGetMembers.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\bin\Debug\net8.0\PPT26_ReflectionGetMembers.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\bin\Debug\net8.0\PPT26_ReflectionGetMembers.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\bin\Debug\net8.0\PPT26_ReflectionGetMembers.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\bin\Debug\net8.0\PPT26_ReflectionGetMembers.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\PPT26_ReflectionGetMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\PPT26_ReflectionGetMembers.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\PPT26_ReflectionGetMembers.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\PPT26_ReflectionGetMembers.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\PPT26_ReflectionGetMembers.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\PPT26_ReflectionGetMembers.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\refint\PPT26_ReflectionGetMembers.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\PPT26_ReflectionGetMembers.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\PPT26_ReflectionGetMembers.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT26_ReflectionGetMembers\obj\Debug\net8.0\ref\PPT26_ReflectionGetMembers.dll

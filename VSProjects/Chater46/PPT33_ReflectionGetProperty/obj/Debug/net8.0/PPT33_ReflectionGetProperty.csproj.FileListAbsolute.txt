@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\bin\Debug\net8.0\PPT33_ReflectionGetProperty.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\bin\Debug\net8.0\PPT33_ReflectionGetProperty.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\bin\Debug\net8.0\PPT33_ReflectionGetProperty.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\bin\Debug\net8.0\PPT33_ReflectionGetProperty.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\bin\Debug\net8.0\PPT33_ReflectionGetProperty.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\PPT33_ReflectionGetProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\PPT33_ReflectionGetProperty.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\PPT33_ReflectionGetProperty.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\PPT33_ReflectionGetProperty.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\PPT33_ReflectionGetProperty.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\PPT33_ReflectionGetProperty.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\refint\PPT33_ReflectionGetProperty.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\PPT33_ReflectionGetProperty.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\PPT33_ReflectionGetProperty.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater46\PPT33_ReflectionGetProperty\obj\Debug\net8.0\ref\PPT33_ReflectionGetProperty.dll

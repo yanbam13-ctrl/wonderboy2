@@ -17,6 +17,9 @@ public class FireCtrl : MonoBehaviour
     //Muzzle Flash의 MeshRenderer 컴포넌트
     private MeshRenderer muzzleFlash;
 
+    //Raycast 결과값을 저장하기 위한 구조체 선언
+    private RaycastHit hit;
+
 
     private void Start()
     {
@@ -28,10 +31,23 @@ public class FireCtrl : MonoBehaviour
     }
     void Update()
     {
+        Debug.DrawRay(firePos.position, firePos.forward * 10.0f, Color.green);
+
         //마우스 왼쪽 버튼을 클릭했을 때 Fire함수 호출
         if (Input.GetMouseButtonDown(0))
         {
             Fire();
+
+            //Ray를 발사
+            if (Physics.Raycast(
+                firePos.position, // 광선의 발사 원점
+                firePos.forward, // 광선의 발사 방향
+                out hit, // 광선의 거리
+                10.0f, 1 << 6)) // 감지하는 범위인 레이어 마스크
+            {
+                Debug.Log($"Hit = {hit.transform.name}");
+                hit.transform.GetComponent<MonsterCtrl>()?.OnDamage(hit.point, hit.normal);
+            }
         }
     }
 
@@ -41,7 +57,8 @@ public class FireCtrl : MonoBehaviour
         //rot.x = rot.z = 0f;
 
         //Bullt 프리팹을 동적으로 생성(생성할 객체, 위치, 회전)
-        Instantiate(bullet, firePos.position, Quaternion.Euler(rot));
+        Instantiate(bullet, firePos.position, Quaternion.Euler(rot)); //-> ray로 변경
+
 
         //총소리 발생
         audio.PlayOneShot(firesfx, 1.0f);

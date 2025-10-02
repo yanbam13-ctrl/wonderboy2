@@ -54,12 +54,29 @@ public class MonsterCtrl : MonoBehaviour
 
         //NaveMeshAgent 컴포넌트 할당
         agent = GetComponent<NavMeshAgent>();
+        //NavMeshAgent의 자동 회전 기능 비활성화
+        agent.updateRotation = false;
 
         //Animator 컴포넌트 할당
         anim = GetComponent<Animator>();
 
         //BloodSprayEffect 프리팹 로드
         bloodEffect = Resources.Load<GameObject>("GoopSprayEffect");
+    }
+    private void Update()
+    {
+        //목적지까지 남은 거리로 회전 여부 판단
+        if (agent.remainingDistance >= 2.0f)
+        {
+            //에이전트의 이동 방향
+            Vector3 direction = agent.desiredVelocity;
+            //회전 각도(쿼터니언) 산출
+            Quaternion rot = Quaternion.LookRotation(direction);
+            //구면 선형보간 함수로 부드러운 회전 처리
+            transform.rotation = Quaternion.Slerp(transform.rotation,
+                                                rot,
+                                                Time.deltaTime * 10.0f);
+        }
     }
 
     IEnumerator MonsterAction()
@@ -158,34 +175,42 @@ public class MonsterCtrl : MonoBehaviour
         {
             //충돌한 총알을 삭제
             Destroy(collision.gameObject);
-            anim.SetTrigger(hashHit);
+        }
+    }
 
-            //총알의 충돌지점
-            Vector3 pos = collision.GetContact(0).point;
-            //총알의 충돌 지점의 법선 벡터
-            Quaternion rot = Quaternion.LookRotation(-collision.GetContact(0).normal);
-            //혈흔 효과를 생성하는 함수 호출
-            ShowBloodEffect(pos, rot);
+    //레이캐스트를 사용해 데미지를 입히는 로직
+    public void OnDamage(Vector3 pos, Vector3 normal)
+    {
+        if (state == State.DIE) return;
 
-            //몬스터의 hp 차감
-            hp -= 10;
-            if (hp <= 0)
+        anim.SetTrigger(hashHit);
+
+        //총알의 충돌 지점의 법선 벡터
+        Quaternion rot = Quaternion.LookRotation(normal);
+
+        //혈흔 효과를 생성하는 함수 호출
+        ShowBloodEffect(pos, rot);
+
+        //몬스터의 hp 차감
+        hp -= 50;
+        if (hp <= 0)
+        {
+            state = State.DIE;
+
+            GameManager.instance.DisPlayScore(50);
+            //기존에 연결된 함수 해제
+            PlayerCtrl.OnPlayerDie -= this.OnPlayerDie;
+
+            SphereCollider[] colls = GetComponentsInChildren<SphereCollider>();
+
+            foreach (SphereCollider coll in colls)
             {
-                state = State.DIE;
-
-                GameManager.instance.DisPlayScore(50);
-                //기존에 연결된 함수 해제
-                PlayerCtrl.OnPlayerDie -= this.OnPlayerDie;
-
-                SphereCollider[] colls = GetComponentsInChildren<SphereCollider>();
-
-                foreach (SphereCollider coll in colls)
-                {
-                    coll.enabled = false;
-                }
+                coll.enabled = false;
             }
         }
     }
+
+
 
     void ShowBloodEffect(Vector3 pos, Quaternion rot)
     {
