@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\bin\Debug\net8.0\ppt29_CarWorld.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\bin\Debug\net8.0\ppt29_CarWorld.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\bin\Debug\net8.0\ppt29_CarWorld.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\bin\Debug\net8.0\ppt29_CarWorld.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\bin\Debug\net8.0\ppt29_CarWorld.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ppt29_CarWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ppt29_CarWorld.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ppt29_CarWorld.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ppt29_CarWorld.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ppt29_CarWorld.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ppt29_CarWorld.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\refint\ppt29_CarWorld.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ppt29_CarWorld.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ppt29_CarWorld.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\ppt29_CarWorld\obj\Debug\net8.0\ref\ppt29_CarWorld.dll

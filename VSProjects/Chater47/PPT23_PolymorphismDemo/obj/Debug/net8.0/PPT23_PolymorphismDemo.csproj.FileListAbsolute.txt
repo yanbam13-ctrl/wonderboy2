@@ -1,0 +1,15 @@
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\bin\Debug\net8.0\PPT23_PolymorphismDemo.exe
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\bin\Debug\net8.0\PPT23_PolymorphismDemo.deps.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\bin\Debug\net8.0\PPT23_PolymorphismDemo.runtimeconfig.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\bin\Debug\net8.0\PPT23_PolymorphismDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\bin\Debug\net8.0\PPT23_PolymorphismDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\PPT23_PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\PPT23_PolymorphismDemo.AssemblyInfoInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\PPT23_PolymorphismDemo.AssemblyInfo.cs
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\PPT23_PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\PPT23_PolymorphismDemo.sourcelink.json
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\PPT23_PolymorphismDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\refint\PPT23_PolymorphismDemo.dll
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\PPT23_PolymorphismDemo.pdb
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\PPT23_PolymorphismDemo.genruntimeconfig.cache
+C:\250616JY\Github\wonderboy2\VSProjects\Chater47\PPT23_PolymorphismDemo\obj\Debug\net8.0\ref\PPT23_PolymorphismDemo.dll
